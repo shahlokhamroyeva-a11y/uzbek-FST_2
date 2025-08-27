@@ -1,0 +1,996 @@
+Bank,[[N]] Jahon banki[[NER]], Islom taraqqiyot banki[[NER]], Osiyo taraqqiyot banki[[NER]], Bank of NewYork Mellon[[NER]], Commerzbank AG[[NER]], Raiffeisen Bank International AG[[NER]], Landesbank Baden-Wuerttemberg[[NER]], Agricultural Bank of China[[NER]] va[[C]] boshqa[[JJ]] moliya[[N]] institutlar[[N]] bilan[[II]] faol[[JJ]] hamkorlik[[N]] qilmoqda[[VB]].
+
+Symbiotics[[N]] - rivojlanayotgan[[VB]] mamlakatlarda[[N]] real[[JJ]] iqtisodiyotni[[N]] yuksaltirish[[VB]] jarayonlarini[[N]] moliyalashtirish[[VB]] uchun[[II]] investorlarga[[N]] kirish[[VB]] imkoniyatini[[N]] taqdim etadigan[[VB]] yirik[[JJ]] platformalardan[[N]] biridir[[NUM]].
+
+Kompaniyalar[[N]] guruhi[[N]] bozor[[N]] tadqiqotlari[[N]], investitsiya[[N]] bo‘yicha[[II]] maslahatlar[[N]] va[[C]] aktivlarni[[N]] boshqarish[[VB]] xizmatlarini[[N]] taklif qiladi[[VB]].
+
+Symbiotics[[N]] tashkil etilganidan[[VB]] buyon[[II]] 95[[NUM]] mamlakatda[[N]] 580[[NUM]] dan ortiq[[JJ]] tashkilotga[[N]] 7700 ta[[NUM]] tranzaksiya[[N]] orqali[[II]] 9,6 mlrd[[NER]] investitsiya[[N]] kiritgan[[VB]].
+
+Toshkent shahrida[[NER]] Ai-80[[NER]] benzinidan[[N]] foydalanish[[VB]] taqiqlanishi[[VB]] mumkin[[MD]].
+
+Bu[[P]] haqida[[II]] Ekologiya vazirligi[[NER]] axborot[[N]] xizmati[[N]] xabar berdi[[VB]].
+
+Toshkent shahrida[[NER]] atmosfera[[N]] havosiga[[N]] ko‘rsatilayotgan[[VB]] salbiy[[JJ]] oqibatlarni[[N]] kamaytirish[[VB]] maqsadida[[N]] quyidagi[[JJ]] chora-tadbirlarni[[N]] amalga oshirish[[IB]] taklif qilinmoqda[[VB]]:
+
+Bugungi[[JJ]] kunda[[N]] „Zamin“ xalqaro jamoat fondi[[NER]] bilan[[II]] hamkorlikda[[N]] respublikada[[N]] atmosfera[[N]] havosi[[N]] ifloslanishini[[VB]] avtomatlashtirilgan[[VB]] tizim[[N]] orqali[[II]] monitoring[[N]] qilish[[VB]] loyihasi[[N]] o‘rnatilgan[[VB]] 8 ta[[NUM]] avtomatik[[JJ]] meteostansiyalarni[[N]] xalqaro[[JJ]] IQAir[[NER]] portaliga[[N]] integratsiya qilish[[VB]] bo‘yicha[[II]] bir qancha[[RR]] ishlar[[N]] amalga oshirilmoqda[[IB]].
+
+Jumladan[[MD]], I[[NUM]] bosqichda[[N]] 2022-yilda[[NER]] Toshkent shahridagi[[NER]] 2 ta[[NUM]] stansiya[[N]] to‘liq[[JJ]] integratsiya qilindi[[VB]].
+
+II[[NUM]] bosqichda[[N]] esa[[C]] 2023-yilda[[NER]] qo‘shimcha[[JJ]] 6 ta[[NUM]] (Sirdaryo[[NER]], Samarqand[[NER]], Surxondaryo[[NER]], Xorazm[[NER]], Jizzax viloyati[[NER]] va[[C]] Qoraqalpog‘iston[[NER]]) stansiya[[N]] to‘liq[[JJ]] integratsiya qilindi[[VB]].
+
+III[[NUM]] bosqichda[[N]] 2024-yilning[[NER]] 1-yarim[[NER]] yilligiga[[N]] qadar[[II]] yana[[RR]] 6 ta[[NUM]] stansiya[[N]] (Toshkent[[NER]], Nurafshon[[NER]], Andijon[[NER]], Namangan[[NER]], Farg‘ona[[NER]], Navoiy[[NER]], Buxoro[[NER]] hamda[[C]] Qarshi[[NER]]) integratsiya qilinishi[[VB]] va[[C]] yakuniy[[JJ]] bosqichda[[N]] respublika[[N]] bo‘yicha[[II]] jami[[P]] o‘rnatilgan[[VB]] stansiyalar[[N]] sonini[[N]] 16 taga[[NUM]] yetkazish[[VB]] rejalashtirilgan[[VB]].
+
+Toshkent shahar[[NER]] Yunusobod tumanida[[NER]] Matiz[[NER]] butunlay[[RR]] yonib ketdi[[VB]].
+
+Bu[[P]] haqida[[II]] YHXB[[NER]] axborot[[N]] xizmati[[N]] xabar berdi[[VB]].
+
+Ma’lum qilinishicha[[VB]], 12-yanvar[[NER]] kuni[[N]] Yunusobod tumani[[NER]] THAY[[NER]] Yangi[[JJ]] Yunusobod[[NER]] ko‘chalari[[N]] chorrahasida[[N]] soat[[N]] 18:00 larda[[NER]] haydovchi[[N]] 1969-yilda[[NER]] tug‘ilgan[[VB]] I.B.[[NER]] boshqaruvidagi[[VB]] Matiz’da[[NER]] qisqa[[JJ]] tutashuv[[VB]] sodir bo‘lganligi[[VB]] oqibatida[[RR]] yong‘in[[N]] kelib chiqqan[[VB]].
+
+Yong‘in[[N]] o‘t[[N]] o‘chiruvchilar[[VB]] tomonidan[[II]] bartaraf etilgan[[VB]].Yong‘in[[N]] natijasida[[N]] tan[[N]] jarohati[[N]] olganlar[[VB]] bo‘lmagan[[VB]].
+
+Mazkur[[JJ]] hodisa[[N]] yuzasidan[[II]] YHXB[[NER]] hamda[[C]] FVB[[NER]] xodimlari[[N]] tomonidan[[II]] surishtiruv[[VB]] olib borilib[[VB]], yong‘in[[N]] yuzaga kelishining[[VB]] sabablariga[[N]] aniqlik[[N]] kiritilmoqda[[VB]].
+
+Toshkent[[NER]]-Pekin[[NER]]-Toshkent[[NER]] yo‘nalishi[[N]] bo‘yicha[[II]] reyslar[[N]] 13-yanvar[[NER]] kuni[[N]] kechiktirilmoqda[[VB]].
+
+Bu [[P]]haqida[[II]] Uzbekistan Airways[[NER]] axborot[[N]] xizmati[[N]] xabar berdi[[VB]].
+
+Ma’lum qilinishicha[[VB]], 13-yanvar[[NER]] kuni[[N]] HY501/502[[NER]] Toshkent[[NER]]-Pekin[[NER]]-Toshkent[[NER]] yo‘nalishi[[N]] bo‘yicha[[II]] reyslar[[N]] texnik[[JJ]] sabablarga[[N]] ko‘ra[[II]] kechiktiriladi[[VB]] va[[C]] quyidagi[[JJ]] parvozlar[[N]] jadvaliga[[N]] muvofiq[[II]] amalga oshirilishi[[VB]] rejalashtirilgan[[VB]]:
+
+Aviakompaniya[[N]] keltirilgan[[VB]] noqulaylik[[N]] uchun[[II]] uzr[[N]] so‘radi[[VB]].
+
+Ukraina[[NER]], Buyuk Britaniya[[NER]] va[[C]] Shimoliy Irlandiya birlashgan qirolligi[[NER]] Kiyevda[[NER]] xavfsizlik[[N]] sohasida[[N]] hamkorlik[[N]] bo‘yicha[[II]] kelishuv[[VB]] imzoladi[[VB]].
+
+Hujjatga[[N]] Ukraina prezidenti[[NER]] Vladimir Zelenskiy[[NER]] va[[C]] Buyuk Britaniya[[NER]] bosh vaziri[[NER]] Rishi Sunak[[NER]] imzo chekdi[[IB]].
+
+Bu[[P]] haqida[[II]] UNIAN[[NER]] xabar berdi[[VB]].
+
+Buyuk Britaniya[[NER]] Ukraina[[NER]] bilan[[II]] hamkorlik[[N]] bo‘yicha[[II]] bunday[[P]] hujjatni[[N]] imzolagan[[VB]] dunyodagi[[N]] birinchi[[NUM]] davlat[[N]] bo‘ldi[[VB]].
+
+U[[P]] Ukraina[[NER]] xavfsizligini[[N]] qo‘llab-quvvatlash[[VB]] maqsadida[[N]] Britaniya[[NER]] va[[C]] Ukraina[[NER]] o‘rtasidagi[[II]] harbiy[[JJ]] va[[C]] noharbiy[[JJ]] hamkorlikni[[N]] rasmiylashtiradi[[VB]].
+
+Kelishuvga[[VB]] ko‘ra[[II]], kelajakda[[N]] Rossiya[[NER]] hujumi[[N]] sodir bo‘lgan[[VB]] taqdirda[[N]] Britaniya[[NER]] Ukrainaga[[NER]] tez[[RR]] va[[C]] kechiktirmasdan[[VB]] zarur[[JJ]] yordam[[N]], jumladan[[MD]] quruqlik[[N]], dengiz[[N]] va[[C]] havo[[N]] hududidagi[[N]] tajovuzni[[N]] qaytarish[[VB]] uchun[[II]] zamonaviy[[JJ]] qurol-yarog‘lar[[N]] yuboradi[[VB]].
+
+Britaniya[[NER]] bilan[[II]] mazkur[[JJ]] kelishuv[[VB]] muddati[[N]] 10-yil[[NER]].
+
+Bu[[P]] muddat[[N]] global[[JJ]] liderlar[[N]] tomonidan[[II]] tuzilgan[[VB]] boshqa[[JJ]] shunga[[P]] o‘xshash[[JJ]] xavfsizlik[[N]] shartnomalari[[N]] kabi[[II]] uzaytirilishi[[VB]] mumkin[[MD]].
+
+U[[P]] agar[[C]] Ukraina[[NER]] NATOga[[NER]] a’zolikni[[N]] kelishuvning[[VB]] o‘n-yillik[[NUM]] muddatidan[[N]] oldinroq[[RR]] qabul qilsa[[VB]], „yaratilgan[[VB]] xavfsizlik[[N]] arxitekturasi[[N]] aslida[[MD]] butun[[JJ]] Alyansning[[NER]] xavfsizlik[[N]] tizimiga[[N]] kiritiladi[[VB]]“.
+
+Zelenskiyning[[NER]] aniqlik kiritishicha[[VB]], Ukraina[[NER]] Britaniya[[NER]] bilan[[II]] barcha[[P]] sohalarda[[N]]: quruqlikda[[N]], havoda[[N]], dengizda[[N]] va[[C]] kiberkosmosda[[N]], keng[[JJ]] siyosiy[[JJ]] o‘zaro[[RR]] hamkorlik[[N]] va[[C]] qurollar[[N]] bo‘yicha[[II]] xavfsizlik[[N]] borasida[[II]] kelishib olgan[[VB]].
+
+Uning[[P]] so‘zlariga[[N]] ko‘ra[[II]], agar[[C]] kerak bo‘lsa[[VB]], Ukraina[[NER]] va[[C]] Buyuk Britaniya[[NER]] qo‘shimcha[[JJ]] sohaviy[[N]] kelishuvlar[[VB]] tuzishi[[VB]] mumkin[[MD]].
+
+Zelenskiy[[NER]] Ukraina[[NER]] va[[C]] Buyuk Britaniyaning[[NER]] umumiy[[JJ]] vazifasi[[N]] avvalo[[MD]] Rossiya[[NER]] agressiyasini[[N]] to‘xtatish[[VB]] va[[C]] Ukrainani[[NER]] mustahkamlash[[VB]], keyin[[II]] esa[[C]] birgalikda[[RR]] Ukrainaga[[NER]] hech qachon[[P]] takror[[N]] hujum[[N]] bo‘lmasligini[[VB]] ta’minlash[[VB]] ekanini[[VB]] ta’kidladi[[VB]].
+
+Uning[[P]] aytishicha[[VB]], Britaniya[[NER]] bilan[[II]] kelishuv[[VB]] Ukrainaning[[NER]] boshqa[[JJ]] hamkorlari[[N]] bilan[[II]] ham[[Prt]] xuddi[[Prt]] shunday[[P]] ish[[N]] olib borish[[VB]] uchun[[II]] asos bo‘ladi[[VB]].
+
+Zelenskiy[[NER]] bugun[[RR]] aynan[[RR]] nimaga[[P]] erishilgani[[VB]] haqida[[II]] ham[[Prt]] gapirdi[[VB]].
+
+Samarqand viloyati[[NER]] Payariq tumanida[[NER]] 32[[NUM]] yoshli[[JJ]] ayol[[N]] o‘zini[[P]] yoqib yubordi[[VB]].
+
+Bosh prokuratura[[NER]] holat[[N]] yuzasidan[[II]] „Daryo“ga[[NER]] ma’lumot[[N]] berdi[[VB]].
+
+Unda[[P]] aytilishicha[[VB]], 1-yanvar[[NER]] kuni[[N]] soat[[N]] taxminan[[RR]] 09:30 larda[[NER]] Payariq tumani[[NER]], „Madaniyat“ MFY[[NER]], Qoraxoni qishlog‘ida[[NER]] yashovchi[[VB]],1991-yilda[[NER]] tug‘ilgan[[VB]] P.S.[[NER]]
+ruhiyatidagi[[N]] o‘zgarish[[VB]] sababli[[II]] o‘zining[[P]] yashash[[VB]] uyi[[N]] hovlisida[[N]] o‘z[[P]] ustiga[[II]] suyultirilgan[[VB]] gaz[[N]] kondensatini[[N]] sepib[[VB]], olov[[N]] yoqqan[[VB]] va[[C]] o‘z[[P]] joniga[[N]] qasd qilgan[[VB]].
+
+Ekspertiza[[N]] xulosasiga[[N]] ko‘ra[[II]], S.P.ning[[NER]]o‘limi[[N]] murda[[N]] tanasining[[N]] 100[[NUM]] foiz[[N]] termik[[JJ]] kuyishi[[N]] oqibatida[[RR]] yuzaga kelgani[[VB]] ko‘rsatilgan[[VB]].
+
+Mazkur[[JJ]] holatda[[N]] o‘zini o‘zi[[P]] o‘ldirish[[VB]] darajasiga[[N]] yetkazish[[VB]] jinoyati[[N]] alomatlari[[N]] mavjudligi[[N]] hamda[[C]] bir qator[[RR]] tergov[[N]] harakatlarini[[N]] o‘tkazmasdan[[VB]] turib[[VB]] qonuniy[[JJ]] to‘xtamga[[N]] kelish[[VB]] imkoniyati[[N]] yo‘qligini[[N]] inobatga olib[[VB]], Jinoyat kodeksining[[NER]] 103-moddasi[[Ner]] 1-qismi[[NER]] bilan[[II]] jinoyat ishi[[N]] qo‘zg‘atildi[[VB]].
+
+Rossiyaning[[NER]] Ural Airlines[[NER]] aviakompaniyasi[[N]] Rossiya[[NER]] va[[C]] O‘zbekiston[[NER]] o‘rtasida[[II]] muntazam[[JJ]] qatnovlarni[[N]] tiklamoqda[[VB]], deb[[II]] xabar berdi[[VB]] Uzbekistan Airports[[NER]] matbuot xizmati[[NER]].
+
+Ma’lum qilinishicha[[VB]], birinchi[[NUM]] yo‘lovchi[[N]] reysi[[N]] 2024-yil[[NER]] 13-yanvarga[[NER]] mo‘ljallangan[[VB]].
+
+Aviakompaniya[[N]] Airbus A320[[NER]] va[[C]] Airbus A321[[NER]] kabi[[II]] samolyotlarda[[N]] beshta[[NUM]] yo‘nalishda[[N]] parvozlarni[[N]] amalga oshirishni[[VB]] rejalashtirmoqda[[VB]]:
+
+Ural Airlines[[NER]] aviakompaniyasi[[N]] bosh[[N]] qarorgohi[[N]] Yekaterinburgda[[NER]] (Rossiya[[NER]]) joylashgan[[VB]].
+
+Aviakompaniya[[N]] Rossiyadagi[[NER]] eng[[RR]] yirik[[JJ]] beshta[[NUM]] aviatashuvchilardan[[N]] biri[[NUM]] hisoblanadi[[VB]].
+
+Yaponiyaning[[NER]] Mitsubishi[[NER]] Heavy Industries[[NER]] korporatsiyasi[[N]] Shimoliy Koreya[[NER]] raketalari[[N]] parvozini[[N]] kuzatish[[VB]] va[[C]] tabiiy[[JJ]] ofatlardan[[N]] yetkazilgan[[VB]] zararni[[N]] baholash[[VB]] uchun[[II]] yangi[[JJ]] Optical-8[[NER]] razvedka[[N]] sun’iy[[JJ]] yo‘ldoshini[[N]] uchirdi[[VB]].
+
+Bu[[P]] haqida[[II]] „TASS[[NER]]“ xabar berdi[[VB]].
+
+Sun’iy[[JJ]] yo‘ldosh[[N]] Kagosima[[NER]] janubi-g‘arbiy[[JJ]] prefekturasidagi[[N]] Tanegasima[[NER]] kosmodromidan[[N]] uchirilgan[[VB]].
+
+Apparat[[N]] 2018-yilda[[NER]] uchirilgan[[VB]] xuddi[[Prt]] shunday[[P]] Optical- 6 [[NER]]sun’iy[[JJ]] yo‘ldoshi[[N]] o‘rnini[[N]] egallashi[[VB]] kerak[[MD]], chunki[[C]] uning[[P]] ishlash[[VB]] muddati[[N]] tez orada[[RR]] tugaydi[[VB]].
+
+2023-yil-yanvar[[NER]] oyida[[N]] Mitsubishi[[NER]] Heavy Industries[[NER]] xuddi[[Prt]] shu[[P]] seriyadagi[[N]] Radar- 7[[NER]] sun’iy[[JJ]] yo‘ldoshini[[N]] orbitaga[[N]] olib chiqqandi[[VB]].
+
+Optical- 8[[NER]] H-2A[[NER]] raketa[[N]] tashuvchisi[[N]] yordamida[[II]] ishga tushirilgan[[IB]].
+
+Bu[[P]] uning[[P]] 48-marta[[NER]] ishga tushirilishi[[IB]], jami[[P]] 50 ta[[NUM]] shunday[[P]] missiya[[N]] rejalashtirilgan[[VB]], shundan so‘ng[[MD]] uning[[P]] o‘rnini[[N]] H3[[NER]] raketa[[N]] tashuvchisi[[N]] egallaydi[[VB]].
+
+Yaponiya[[NER]] 1998-yilda[[NER]] Shimoliy Koreya[[NER]] „Tepxodon-1[[NER]]“ raketasini[[N]] uchirgach[[VB]], razvedka[[N]] sun’iy[[JJ]] yo‘ldoshlarini[[N]] uchirish[[VB]] bo‘yicha[[II]] davlat[[N]] dasturini[[N]] boshladi[[VB]].
+
+Yamanning[[NER]] „Ansor Alloh[[NER]]“ (husiylar[[N]]) guruhi[[N]] ularga[[P]] zarbalar[[N]] bergani[[VB]] uchun[[II]] AQSH[[NER]] va[[C]] Buyuk Britaniya[[NER]] „yuqori[[JJ]] tovon[[N]]“ to‘lashidan[[VB]] ogohlantirdi[[VB]].
+
+Husiylar[[N]] AQSH[[NER]] va[[C]] Britaniyaning[[NER]] havo[[N]] hujumlari[[N]] oqibatida[[RR]] Yamanda[[NER]] odamlar[[N]] halok bo‘lgani[[VB]] va[[C]] yaralanganini[[VB]] ma’lum qildi[[VB]].
+
+Ukraina[[NER]] prezidenti[[N]] Vladimir Zelenskiyning[[NER]] Estoniyaga[[NER]] tashrifi[[N]] chog‘ida[[RR]] kiygan[[VB]] ustki[[JJ]] kiyimida[[N]] Rossiya prezidenti[[NER]] Vladimir Putinga[[NER]] yashirin[[JJ]] signal[[N]] aks etgan[[IB]].
+
+Bu[[P]] haqida[[II]] Bild[[NER]] xabar berdi[[VB]].
+
+11-yanvar[[NER]] kuni[[N]] Ukraina prezidenti[[NER]] Estoniyaga[[NER]] tashrif buyurib[[IB]], u yerda[[RR]] bosh vazir[[NER]] Kaja Kallas[[NER]] bilan[[II]] uchrashdi[[VB]].
+
+Uchrashuvda[[N]] Zelenskiy[[NER]] harbiy[[JJ]] rangdagi[[N]] ustki[[JJ]] kiyimda[[N]] ko‘rinish berdi[[VB]].
+
+Prezidentning[[NER]] kiyimida[[N]] 48,3794°[[NUM]] va[[C]] 31,1656°[[NUM]] raqamlari[[N]] aks etgan[[IB]].
+
+Bild[[NER]] sharhlovchisi[[N]] buni[[P]] Ukraina prezidentining[[NER]] Putinga[[NER]] „yashirin[[JJ]] signali[[N]]“ deb[[II]] atamoqda[[VB]].
+
+Kiyimdagi[[N]] belgi[[N]] Ukrainaning[[NER]] Kirovograd viloyati[[NER]] Dobrovelichkovka qishlog‘ining[[NER]] koordinatalaridir[[N]].
+
+U yerda[[RR]] Ukrainaning[[NER]] 1991-yilda[[NER]] rasman[[RR]] tan olingan[[VB]] chegaralar[[N]] bo‘yicha[[II]] geografik[[N]] markazi[[N]] joylashgan[[VB]].
+
+Qishloqda[[N]] Ukraina[[NER]] parallellari[[ N]] va[[C]] meridianlari[[N]] birlashadigan[[VB]] joyda[[N]] yodgorlik[[N]] belgisi[[N]] o‘rnatilgan[[VB]].
+
+Bild[[NER]] jurnalisti[[N]] bu[[P]] orqali[[II]] Zelenskiy[[NER]] har qanday[[P]] hududiy[[JJ]] imtiyozlardan[[N]] voz kechishini[[IB]] va[[C]] Ukraina[[NER]] chegaralaridagi[[VB]] o‘zgarishlarni[[VB]] tan olmasligini[[VB]] bildiradi[[VB]].
+
+Farg‘ona viloyati[[NER]] bozorlarida[[N]] iste’molga[[N]] yaroqsiz[[JJ]] bo‘lgan[[VB]] 2388[[NUM]] kilogramm[[N]] mahsulotlar[[N]] savdosiga[[N]] chek qo‘yildi[[VB]].
+
+Bu[[P]] haqida[[II]] Sanepidqo‘mita[[NER]] axborot[[N]] xizmati[[N]] xabar[[N]] berdi[[VB]].
+
+Unga[[P]] ko‘ra[[II]], Sanitariya-epidemiologik[[JJ]] osoyishtalik[[N]] va[[C]] jamoat[[N]] salomatligi[[N]] Farg‘ona[[NER]] viloyat[[N]] boshqarmasi[[N]] mutaxassislari[[N]] tomonidan[[II]] 2023-yil[[NER]] davomida[[II]] viloyatdagi[[N]] dehqon[[N]] bozorlarida[[N]] sotilayotgan[[VB]] oziq-ovqat[[N]] mahsulotlarining[[N]] sifati[[N]], xavfsizligi[[N]], ishlab chiqarilgan[[VB]] sanasi[[N]], yaroqlilik[[JJ]] muddatlari[[N]], saqlanish[[VB]] holati[[N]] yuzasidan[[II]] muntazam[[JJ]] ravishda[[N]] reyd[[N]] tadbirlari[[N]] amalga oshirildi[[IB]].
+
+Ushbu[[P]] davr[[N]] mobaynida[[II]] aholi[[N]] o‘rtasida[[II]] botulizm[[N]] va[[C]] boshqa[[JJ]] ovqatdan[[N]] zaharlanish[[VB]] holatlarining[[N]] oldini olish[[VB]] maqsadida[[N]] iste’molga[[N]] yaroqsiz[[JJ]] Sirdaryo viloyatida[[NER]] ariqlarni[[N]] betonlashtirish[[VB]] jarayonida[[N]] tabiatga[[N]] 232[[NUM]] million[[N]] so‘m[[N]] zarar yetkazildi[[VB]].
+
+Ma’lum qilinishicha[[VB]], Sirdaryo viloyatida[[NER]] olib borilgan[[VB]] o‘rganish[[VB]] ishlari[[N]] davomida[[II]] Guliston tumani[[NER]] „Ishonch[[N]]“ SIU[[N]] hududida[[N]] ariqlarni[[N]] betonlashtirish[[VB]] uchun[[II]] daraxtlarni[[N]] kesish[[VB]] yuzasidan[[II]] murojaat qilingan[[VB]].
+
+Bugungi[[JJ]] kunda[[N]] ushbu[[P]] manzarali[[JJ]] daraxtlarga[[N]] hech qanday[[P]] shikast yetkazilmagan[[VB]].
+
+Ya’ni[[C]] Guliston shahri[[NER]] va[[C]] Mirzaobod tumani[[NER]] hududidan[[N]] oqib[[VB]] o‘tuvchi[[VB]] kanal[[N]] va[[C]] ariqlarni[[N]] betonlashtirish[[VB]] jarayonida[[N]] 20[[NUM]] tupdan[[N]] ortiq[[JJ]] daraxt[[N]] ildizi[[N]] bilan[[II]] qo‘porib tashlangan[[VB]].
+
+Yuqoridagi[[JJ]] holatlar[[N]] yuzasidan[[II]] Ekologiya, atrof-muhitni muhofaza qilish va iqlim o‘zgarishi vaziri[[NER]] tomonidan[[II]] Suv xo‘jaligi vazirligi[[NER]] va[[C]] hokimliklarga[[N]] ogohlantirish[[N]] xatlari[[N]] va[[C]] taqdimnomalar[[N]] kiritilmoqda[[VB]].
+
+AQSH[[NER]] sobiq[[JJ]] prezidenti[[N]] Donald Tramp[[NER]] Rossiya prezidenti[[NER]] Vladimir Putin[[NER]] va[[C]] Xitoy[[NER]] rahbari[[N]] Si Szinpinni[[NER]] „juda[[RR]] aqlli[[JJ]] va[[C]] makkor[[JJ]] odamlar[[N]]“ deb[[II]] atadi[[VB]].
+
+Bu[[P]] haqida[[II]] u[[P]] Fox News[[NER]] telekanaliga[[N]] ma’lum qildi[[VB]].
+
+Tramp[[NER]] AQSHning[[NER]] amaldagi[[JJ]] prezidentini[[N]] Vladimir Putin[[NER]] va[[C]] Si Szinpin[[NER]] bilan[[II]] hatto[[Prt]] „qiyoslash[[VB]] ham[[Prt]] qiyin“ligini[[JJ]] aytdi[[VB]].
+
+Hozirda[[RR]] Donald Tramp[[NER]] Respublikachilar[[N]] partiyasidan[[N]] 2024-yilda[[NER]] AQSH[[NER]] prezidentligiga[[N]] nomzod[[N]] bo‘lish[[VB]] uchun[[II]] da’vogar[[N]].
+
+Milliy[[JJ]] reytinglarda[[N]], CNN[[NER]] ma’lumotlariga[[N]] ko‘ra[[II]], Tramp[[NER]] hozirda[[RR]] amaldagi[[JJ]] davlat[[N]] rahbari[[N]] Jo Baydendan[[NER]] oldinda[[II]].
+
+Xitoy[[NER]] Tashqi ishlar vazirligi[[NER]] matbuot[[N]] kotibi[[N]] Mao Ningning[[NER]] aytishicha[[VB]], Tayvan[[NER]] masalasi[[N]] Xitoy[[NER]]-Amerika[[NER]] munosabatlaridagi[[N]] birinchi[[NUM]] qizil[[JJ]] chiziq[[N]] bo‘lib[[VB]], uni[[P]] bosib o‘tish[[IB]] mumkin emas[[VB]].
+
+Uning[[P]] qo‘shimcha qilishicha[[VB]], Pekin[[NER]] Tayvandagi[[NER]] saylovlarga[[N]] har qanday[[P]] ko‘rinishdagi[[N]] aralashuvga[[VB]] qarshi[[II]].
+
+„Tayvan[[NER]] masalasi[[N]] Xitoyning[[NER]] ichki[[JJ]] ishi[[N]], Tayvan[[NER]] mintaqasidagi[[N]] saylovlar[[N]] esa[[C]] Xitoyning[[NER]] mahalliy[[JJ]] ishi[[N]] bo‘lib[[VB]], bu[[P]] borada[[II]] har qanday[[P]] tashqi[[JJ]] aralashuvga[[VB]] toqat[[N]] qilib bo‘lmaydi[[VB]]“, — dedi[[VB]] Mao Ning[[NER]] brifingda[[N]].
+
+Uning[[P]] so‘zlariga[[N]] ko‘ra[[II]], AQSH[[NER]] Tayvandagi[[NER]] saylovlarga[[N]] ochiqchasiga[[RR]] aralashishga[[VB]] urinmoqda[[VB]].
+
+„Shu[[P]] munosabat[[N]] bilan[[II]] Xitoy[[NER]] keskin[[JJ]] norozilik[[N]] bildiradi[[VB]].
+
+Pekin[[NER]] suverenitetni[[N]] himoya qilish[[VB]] uchun[[II]] qat’iy[[JJ]] va[[C]] samarali[[JJ]] choralar[[N]] ko‘radi[[VB]]“, — deya[[VB]] qo‘shimcha qildi[[VB]] Mao Ning[[NER]].
+
+13-yanvar[[NER]] kuni[[N]] Tayvanda[[NER]] prezidentlik[[N]] va[[C]] parlament[[N]] saylovlari[[N]] bo‘lib o‘tadi[[VB]].
+
+So‘rov[[VB]] natijalariga[[N]] ko‘ra[[II]], orol[[N]] ma’muriyati[[N]] rahbari[[N]] lavozimiga[[N]] nomzodlar[[N]] orasida[[II]] Demokratik[[JJ]] progressiv[[JJ]] partiya[[N]] (DPP[[NER]]) vakili[[N]] Uilyam Lay[[NER]] yetakchilik[[N]] qilmoqda[[VB]].
+
+DPP[[NER]] Tayvanning[[NER]] mustaqilligi[[N]] va[[C]] uning[[P]] Qo‘shma Shtatlar[[NER]] bilan[[II]] yanada[[RR]] yaqinlashishi[[VB]] g‘oyasini[[N]] doimo[[RR]] ilgari surib[[IB]] kelgan[[VB]].
+
+Afg‘onistonning[[NER]] Kobul[[NER]] va[[C]] Mozori Sharif shaharlarida[[NER]] 11-yanvar[[NER]] kuni[[N]] uchta[[NUM]] portlash[[N]] sodir bo‘ldi[[VB]].
+
+Oqibatda[[RR]] bir necha[[RR]] kishi[[N]] halok bo‘ldi[[VB]] va[[C]] yaralandi[[VB]].
+
+Bu[[P]] haqida[[II]] „Daryo“ning[[NER]] Afg‘onistondagi[[NER]] muxbiri[[N]] xabar berdi[[VB]].
+
+Kobulda[[NER]] ikkita[[NUM]] portlash[[N]] yuz bergan[[VB]], birinchisi[[NUM]] Dasht Barchi[[NER]] hududida[[N]] yuz bergan[[VB]].
+
+Oqibatda[[RR]] ikki[[NUM]] kishi[[N]] halok bo‘lgan[[VB]], yana[[RR]] 12[[NUM]] kishi[[N]] jarohatlangan[[VB]].
+
+Guvohlardan[[N]] biri[[NUM]] portlash[[N]] hududida[[N]] 10 dan[[NUM]] ortiq[[JJ]] odam[[N]] jasadini[[N]] ko‘rganini[[VB]] aytmoqda[[VB]].„Tolibon[[NER]]“ noma’lum[[JJ]] sababga[[N]] ko‘ra[[II]] portlashning[[N]] bir necha[[RR]] guvohlarini[[N]] voqea[[N]] joyidan[[RR]] olib ketgan[[VB]].
+
+Guvohlardan[[N]] biri[[NUM]] bir[[NUM]] o‘zi[[P]] besh[[NUM]] o‘lik[[N]] va[[C]] 10[[NUM]] nafar[[N]] yaradorni[[N]] mashinaga[[N]] olib ketgan[[VB]].
+
+Hozircha[[RR]] hech kim[[P]] yoki[[C]] guruh[[N]] mazkur[[JJ]] portlash[[N]] uchun[[II]] javobgarlikni[[N]] o‘z[[P]] zimmasiga olmagan[[IB]].
+
+Ikkinchi[[NUM]] portlashni[[N]] „Afg‘oniston[[NER]] ozodlik[[N]] fronti[[N]]“ zimmasiga olgan[[IB]] va[[C]] „Tolibon[[NER]]“ razvedkasi[[N]] xodimlari[[N]] nishonga[[N]] olinganini[[VB]] aytgan[[VB]].
+
+Portlashda[[N]] „Tolibon“ning[[NER]] uch[[NUM]] a’zosi[[N]] halok bo‘lgan[[VB]], ikki[[NUM]]  nafari[[N]] yaralangan[[VB]].
+
+Afg‘oniston[[NER]] muvaqqat[[JJ]] hukumati[[N]] bu[[P]] borada[[II]] hech qanday[[P]] ma’lumot[[N]] bermagan[[VB]].
+
+Uchinchi[[NUM]] portlash[[N]] Balx viloyati[[NER]] markazi[[N]] Mozori Sharif shahrida[[NER]] yuz bergan[[VB]], kamida[[RR]] besh[[NUM]] kishi[[N]] jarohat olgan[[VB]].
+
+Hodisaga[[N]] mashinaga[[N]] o‘rnatilgan[[VB]] mina[[N]] sabab bo‘lgan[[VB]].
+
+6-yanvar[[NER]] kuni[[N]] ham[[Prt]] Dasht Barchi[[NER]] portlash[[N]] yuz bergandi[[VB]], jumladan[[MD]], kichik[[JJ]] avtobus[[N]] portlatilgan[[VB]].
+
+Hujum[[N]] oqibatida[[RR]] ikki[[NUM]] kishi[[N]] halok bo‘lgan[[VB]], yana[[RR]] 14[[NUM]] kishi[[N]] jarohatlangan[[VB]].
+
+Biroq[[C]], BMTning[[NER]] Afg‘onistondagi[[NER]] missiyasi[[N]] (UNAMA[[VB]]) hodisada[[N]] 25[[NUM]] kishini[[N]] o‘lgani[[VB]] va[[C]] yaralanganini[[VB]] ma’lum qildi[[VB]].
+
+Ushbu[[P]] portlash[[N]] uchun[[II]] javobgarlikni[[N]] IShID[[NER]] o‘z[[P]] zimmasiga oldi[[IB]].9-yanvar[[NER]] kuni[[N]] ham[[Prt]] Kobul[[NER]] shahri[[N]] sharqida[[N]] portlash[[N]] bo‘ldi[[VB]], oqibatda[[RR]] uch[[NUM]] kishi[[N]] halok bo‘ldi[[VB]], to‘rt[[NUM]] kishi[[N]] jarohatlandi[[VB]].
+
+IShID[[NER]] guruhi[[N]] hujum[[N]] uchun[[II]] javobgarlikni[[N]] o‘z[[P]] zimmasiga oldi[[IB]].
+
+Ta’kidlash[[VB]] joizki[[MD]], so‘nggi[[JJ]] paytlarda[[N]] Afg‘oniston[[NER]] viloyatlarida[[N]] portlashlar[[N]] avvalgidan[[JJ]] ham[[Prt]] kuchaygan[[VB]].
+
+Odamlar[[N]] esa[[C]] o‘z[[P]] xavfsizligidan[[N]] xavotirda[[N]].
+
+11-yanvar[[NER]] kuni[[N]] dunyoning[[N]] turli[[JJ]] burchaklaridan[[N]] olingan[[VB]] sara[[JJ]] suratlarni[[N]] e’tiboringizga[[N]] havola qilamiz[[VB]].
+
+Hibsga olingan[[VB]] tanker[[N]] AQSh[[NER]] tomonidan[[II]] 2023-yil-sentyabr[[NER]] oyida[[N]] Gretsiyaning[[NER]] Empire Navigation[[NER]] yuk[[N]] tashish[[VB]] kompaniyasidan[[N]] sanksiyalarni[[N]] buzgan[[VB]] holda[[II]] Eron[[NER]] neftini[[N]] tashish[[VB]] uchun[[II]] musodara qilingan[[VB]] edi[[VB]].
+
+Reuters[[NER]] agentligiga[[N]] ko‘ra[[II]], gap[[N]] Empire Navigation[[NER]] kompaniyasiga[[N]] tegishli[[JJ]] St.Nikolas[[NER]] tankeri[[N]] haqida[[II]] ketmoqda[[VB]].
+
+2022-yilda[[NER]] AQSh Adliya vazirligi[[NER]] tanker[[N]] sanksiyalarni[[N]] chetlab o‘tib[[VB]], Eron[[NER]] neftini[[N]] Fors ko‘rfazidagi[[NER]] Xarg[[N]] orolidan[[N]] olib ketayotganini[[VB]] ma’lum qilgandi[[VB]].
+
+Qurolli kuchlar[[NER]] oliy[[JJ]] bosh qo‘mondoni[[N]] Shavkat Mirziyoyev[[NER]] 11-yanvar[[NER]] kuni[[N]] Mudofaa[[N]] sanoati[[N]] agentligining[[N]] Toshkent viloyatida[[NER]] joylashgan[[VB]] ishlab chiqarish[[VB]] klasteriga[[N]] tashrif buyurdi[[VB]].
+
+Keyingi[[II]]-yillarda[[N]] qo‘shinlarning[[N]] tezkor[[JJ]] va[[C]] jangovar[[JJ]] tayyorgarligi[[N]] samarasi[[N]] va[[C]] sifatini[[N]] oshirish[[VB]], harbiy[[JJ]] xizmatchilarning[[N]] malaka[[N]] va[[C]] ko‘nikmalarini[[N]] yuksaltirish[[VB]] uchun[[II]] zamonaviy[[JJ]] sharoitlar[[N]] yaratish[[VB]] maqsadida[[N]] zarur[[JJ]] infratuzilmaga[[N]] ega[[JJ]] bir qator[[RR]] o‘quv[[N]] poligonlari[[N]] barpo etildi[[VB]] va[[C]] bu[[P]] boradagi[[II]] ishlar[[N]] izchil[[RR]] davom ettirilmoqda[[VB]].
+
+Bugungi[[JJ]] tashrif[[N]] davomida[[II]] prezidentga[[N]] Mudofaa[[N]] sanoati[[N]] agentligining[[N]] ishlab chiqarish[[VB]] salohiyatini[[N]] oshirish[[VB]], moddiy-texnik[[JJ]] bazasini[[N]] mustahkamlash[[VB]] bo‘yicha[[II]] qilinayotgan[[VB]] ishlar[[N]] va[[C]] kelgusi[[JJ]] rejalar[[VB]] to‘g‘risida[[II]] batafsil[[RR]] axborot berildi[[VB]].
+
+Davlat[[N]] rahbarining[[N]] topshirig‘iga[[N]] muvofiq[[II]] qisqa[[JJ]] muddatda[[N]] Mudofaa vazirligining[[NER]] bir nechta[[RR]] texnik[[JJ]] bo‘linmalari[[N]] negizida[[N]] qurilish[[VB]] ishlari[[N]] bajarildi[[VB]], mavjud[[N]] ob’ektlar[[N]] mukammal[[JJ]] ta’mirlandi[[VB]] va[[C]] rekonstruksiya[[N]] qilindi[[VB]].
+
+Davlat[[N]] rahbari[[N]] ushbu[[P]] quvvatlar[[VB]] faoliyati[[N]] bilan[[II]] tanishib[[VB]], sohaga[[N]] ilg‘or[[JJ]] texnologiyalarni[[N]] keng[[JJ]] jalb qilish[[VB]], yangi[[JJ]] ish[[N]] o‘rinlarini[[N]] yaratish[[VB]] zarurligini[[N]] qayd etdi[[VB]], korxonalar[[N]] faoliyatini[[N]] yanada[[RR]] takomillashtirish[[VB]] yuzasidan[[II]] ko‘rsatmalar[[N]] berdi[[VB]].
+
+Shuningdek[[MD]], davlat[[N]] rahbariga[[N]] Mudofaa[[N]] sanoati[[N]] agentligining[[N]] yangi[[JJ]] klasteridagi[[N]] ishlab chiqarish[[VB]] quvvatlari[[N]] tomonidan[[II]] ta’mirlangan[[VB]] va[[C]] modernizatsiya[[N]] qilingan[[VB]] harbiy[[JJ]] texnika[[N]] va[[C]] qurol-yarog‘[[N]] namunalari[[N]] namoyish etildi[[VB]].
+
+Tashrif[[N]] chog‘ida[[RR]] oliy[[JJ]] bosh[[N]] qo‘mondon[[N]] yangi[[JJ]] turdagi[[N]] harbiy[[JJ]] mahsulotlarni[[N]] ishlab chiqarish[[VB]] bo‘yicha[[II]] korxona[[N]] faoliyatiga[[N]] start[[N]] berdi[[VB]].
+
+Yakunda[[N]] prezident[[N]] mutasaddilarga[[N]] mudofaa[[N]] sanoati[[N]] korxonalarining[[N]] ishlab chiqarish[[VB]] imkoniyatlarini[[N]] yanada[[RR]] kengaytirish[[VB]] yuzasidan[[II]] aniq[[JJ]] topshiriqlar[[N]] berdi[[VB]].
+
+Xalqaro[[JJ]] Gaaga[[NER]] sudi[[N]] Janubiy Afrika[[NER]] Respublikasining[[N]] (JAR[[N]]) Isroilni[[NER]] genotsidda[[N]] ayblagan[[VB]] da’vosi[[N]] bo‘yicha[[II]] tinglovlarni[[N]] boshladi[[VB]].
+
+Gaagadagi[[NER]] tinglovlar[[N]] 11-12-yanvar[[NER]] kunlari[[N]] bo‘lib o‘tadi[[VB]].
+
+20 dan[[NUM]] ortiq[[JJ]] kishidan[[N]] iborat[[MD]] Janubiy Afrika[[NER]] Respublikasi[[NER]] delegatsiyasiga[[N]] JAR[[N]] Adliya[[NER]] va[[C]] axloq[[N]] tuzatish[[VB]] xizmatlari[[N]] vaziri[[N]] Ronald Lamola[[NER]] boshchilik[[N]] qilmoqda[[VB]].
+
+Sud[[N]] majlislarida[[N]] 15[[NUM]] nafar[[N]] sudyalar[[N]] hay’ati[[N]] ishtirok etadi[[VB]].
+
+Yig‘ilishda[[N]] Isroilning[[NER]] katta[[JJ]] delegatsiyasi[[N]] ham[[Prt]] qatnashadi[[VB]] va[[C]] 12-yanvar[[NER]] kuni[[N]] nutq so‘zlaydi[[VB]].
+
+Ayblov[[N]] xulosasi[[N]] 80[[NUM]] sahifadan[[N]] iborat[[MD]].
+
+JAR[[N]] 29-dekabr[[NER]] kuni[[N]] G‘azo[[NER]] sektoridagi[[N]] vaziyat[[N]] yuzasidan[[II]] Xalqaro[[JJ]] sudga[[N]] genotsid[[N]] konvensiyasi[[N]] bo‘yicha[[II]] Isroilga[[NER]] qarshi[[II]] ish[[N]] qo‘zg‘atib[[VB]], Isroil[[NER]] rasmiylariga[[N]] nisbatan[[II]] vaqtinchalik[[N]] choralar[[N]] ko‘rishga[[VB]] chaqirdi[[VB]].
+
+JAR[[N]] Isroilning[[NER]] G‘azo[[NER]] sektoridagi[[N]] falastinliklarga[[N]] qarshi[[II]] harakatlarini[[N]] „Genotsid[[N]] konvensiyasi[[N]] bo‘yicha[[II]] majburiyatlarni[[N]] buzish[[VB]]“ ekanini[[VB]] ta’kidladi[[VB]].
+
+Birinchi[[NUM]] chora[[N]] sifatida[[N]] Isroildan[[NER]] G‘azo[[NER]] sektoridagi[[N]] harbiy[[JJ]] amaliyotini[[N]] zudlik bilan[[RR]] to‘xtatish[[VB]] talab qilinmoqda[[VB]].
+
+Isroil[[NER]] rasmiylari[[N]] bu[[P]] ayblovlarni[[N]] rad etib[[VB]], davlatning[[N]] o‘zini[[P]] himoya qilishning[[VB]] yagona[[JJ]] yo‘li[[N]] „HAMASni[[NER]] butunlay[[RR]] yo‘q qilish[[VB]]“ ekanini[[VB]] ta’kidlamoqda[[VB]].
+
+Ommaviy axborot vositalari[[NER]] quyidagi[[JJ]] davlatlar[[N]] Xalqaro[[JJ]] sudda[[N]] Isroilga[[NER]] qarshi[[II]] genotsid[[N]] ayblovini[[N]] qo‘llab-quvvatlaganini[[VB]] ma’lum qildi[[VB]].
+
+1)[[NUM]] Misr[[NER]]2[[NUM]]) Jazoir[[NER]] 3)[[NUM]] Bahrayn[[NER]]4[[NUM]]) Bangladesh[[NER]]5[[NUM]]) Braziliya[[NER]]6[[NUM]]) Komor orollari[[NER]]7[[NUM]]) Jibuti[[NER]]8[[NUM]]) Eron[[NER]]9[[NUM]]) Iroq[[NER]] 
+10)[[NUM]] Iordaniya[[NER]]11[[NUM]]) Kuvayt[[NER]]12[[NUM]]) Livan[[NER]]13[[NUM]]) Liviya[[NER]]14[[NUM]]) Malayziya[[NER]]15[[NUM]]) Maldiv orollari[[NER]]16[[NUM]]) Marokash[[NER]]17[[NUM]]) Mavritaniya[[NER]] 
+18)[[NUM]] Namibiya[[NER]] 19)[[NUM]] Nikaragua[[NER]]20[[NUM]]) Ummon[[NER]]21[[NUM]]) Pokiston[[NER]]22[[NUM]]) Falastin[[NER]]23[[NUM]]) Qatar[[NUM]]24[[NUM]]) Saudiya Arabistoni[[NER]]25[[NUM]]) Somali[[NER]]26[[NUM]]) Sudan[[NER]]27[[NUM]]) Suriya[[NER]]28[[NUM]]) Tunis[[NER]] 29)[[NUM]] Turkiya[[NER]]30[[NUM]]) BAA[[NER]]31[[NUM]]) Venesuela[[NER]] 32) Yaman[[NER]] IIV[[NER]] Tezkor-qidiruv[[JJ]] departamenti[[N]] Kiberxavfsizlik[[N]] markazi[[N]] tomonidan[[II]] Telegram’da[[N]] „Hello Tashkent[[NER]], salam Tashkent[[NER]]“ nomli[[JJ]] kanal[[N]] hamda[[C]] guruhlarni[[N]] tashkil etib[[VB]], ularga[[P]] fuqarolarning[[N]] sha’ni[[N]] va[[C]] qadr-qimmatini[[N]] kamsituvchi[[VB]] videotasvirlarni[[N]] joylashtirib[[VB]] kelgan[[VB]] guruh[[N]] aniqlanib[[VB]], qo‘lga olingan[[VB]] edi[[VB]].
+
+Xabar berilishicha[[VB]], jinoyat ishlari[[NER]] bo‘yicha[[II]] Mirzo Ulug‘bek tuman[[NER]] sudida[[N]] Jinoyat kodeksining[[NER]] 130-moddasi[[NER]] (pornografik[[JJ]] mahsulot[[N]] tayyorlash[[VB]], olib kirish[[VB]], tarqatish[[VB]], reklama[[N]] qilish[[VB]], namoyish etish[[VB]]) 2-qismi[[NER]] „b[[N]]“ bandi[[N]], 139-moddasi[[NER]] (tuhmat[[N]]) 3-qismi[[NER]] „a[[N]]“, “g[[N]]“ bandlari[[N]], 140-moddasi[[NER]] (haqorat qilish[[VB]]) 2-qismi[[NER]], 141-3-moddasi[[NER]] (shaxsning[[N]] sha’nini[[N]] va[[C]] qadr-qimmatini[[N]] kamsituvchi[[VB]] hamda[[C]] inson[[N]] hayotining[[N]] sir[[N]] tutiladigan[[VB]] tomonlarini[[II]] aks ettiruvchi[[VB]] ma’lumotlarni[[N]] oshkor qilish[[VB]]) 2-qismi[[NER]] „b[[N]]“, „v[[N]]“ bandlari[[N]] va[[C]] 165-moddasi[[NER]] (tovlamachilik[[NER]]) 2-qismi[[NER]] „a[[N]]“, „v[[N]]“ bandlarida[[N]] nazarda tutilgan[[IB]] jinoyatlarni[[N]] sodir etgan[[VB]] guruh[[N]] a’zolariga[[N]] oid[[II]] jinoyat ishini[[NER]] ko‘rib chiqish[[VB]] bo‘yicha[[II]] sud[[N]] jarayoni[[N]] yakunlanib[[VB]], sud[[N]] hukmi[[N]] e’lon qilindi[[VB]].
+
+Finlyandiya[[NER]] ichki ishlar vaziri[[NER]] Mari Rantanen[[NER]] matbuot[[N]] anjumanida[[N]] Finlyandiya[[NER]] hukumatining[[N]] Rossiya[[NER]] bilan[[II]] chegaradagi[[N]] nazorat-o‘tkazish[[VB]] punkti[[N]] yopilishini[[VB]] 11-fevralgacha[[NER]] uzaytirish[[VB]] to‘g‘risidagi[[II]] qarorini[[N]] ma’lum qildi[[VB]].
+
+Uning[[P]] so‘zlariga[[N]] ko‘ra[[II]], „Rossiyaning[[NER]] harakatlari[[N]] mamlakat[[N]] rahbariyatiga[[N]] boshqacha[[RR]] qaror[[N]] qabul qilishga[[VB]] imkoniyat[[N]] qoldirmadi[[VB]]“.
+
+Finlyandiya[[NER]] IIV[[NER]] rahbari[[N]], shuningdek[[MD]], „Rossiyaning[[NER]] gibrid[[N]] ta’siri[[N]] xavfi[[N]] hali[[RR]] ham[[Prt]] mavjud bo‘lgani[[VB]] uchun[[II]] chegaralarni[[N]] yopib qo‘yishni[[VB]] davom ettirish[[VB]] kerakligini[[N]]“ aytdi[[VB]].
+
+9-yanvar[[NER]] kuni[[N]] Mari Rantanen[[NER]] nazorat-o‘tkazish[[VB]] punktining[[N]] yopilishini[[VB]] uzaytirish[[VB]] va[[C]] hatto[[Prt]] chegaralarni[[N]] butunlay[[RR]] yopib qo‘yishga[[VB]] ruxsat berdi[[VB]].
+
+Bungacha[[RR]] 14-dekabr[[NER]] kuni[[N]] Finlyandiya[[NER]] hukumati[[N]] Rossiya[[NER]] bilan[[II]] chegarani[[N]] bir[[NUM]] oyga[[N]] butunlay[[RR]] yopgan[[VB]] edi[[VB]].
+
+Finlyandiya[[NER]] hukumati[[N]] chegaralar[[N]] yopilishiga[[VB]] migrantlar[[N]] oqimini[[N]] sabab[[N]] qilib ko‘rsatmoqda[[VB]].
+
+Finlyandiya prezidenti[[NER]] Sauli Niinistyo[[NER]] migrantlar[[N]] oqimining[[N]] yuzaga kelishida[[VB]] rossiyalik[[N]] chegarachilarni[[N]] aybladi[[VB]].
+
+Buni[[P]] Finlyandiya[[NER]] NATOga[[NER]] qo‘shilishga[[VB]] intilayotgani[[VB]] uchun[[II]] „Kremlning qasosi[[NER]]“ deb[[II]] atadi[[VB]].
+
+O‘zbekistonda xizmat ko‘rsatgan artist[[NER]] Abdurashid Yo‘ldoshev[[NER]] yangi[[JJ]] avtomobil[[N]] xarid qildi[[VB]] hamda[[C]] quvonchini[[N]] muxlislari[[N]] bilan[[II]] bo‘lishdi[[VB]].
+
+Jahongir Xo‘jayev[[NER]] va[[C]] Asal Abdullayeva[[NER]] qizi[[N]] Yasminaning[[NER]] tug‘ilgan[[VB]] kunini[[N]] nishonlamoqda[[VB]].
+
+Yosh[[JJ]] xonanda[[N]] Izzat Shukurov[[NER]] rafiqasini[[N]] tug‘ilgan[[VB]] kuni[[N]] bilan[[II]] qanday[[P]] tabriklashgani[[VB]] aks etgan[[IB]] video[[N]] bilan[[II]] bo‘lishdi[[VB]].
+
+Bloger[[N]] Dili.me[[NER]] ota-onasi[[N]] bilan[[II]] umra[[NER]] safaridan[[N]] qaytdi[[VB]].
+
+Xonanda[[N]] Umidaxon[[NER]] otasini[[N]] tug‘ilgan[[VB]] kuni[[N]] bilan[[II]] tabrikladi[[VB]].
+
+Bir necha[[RR]] kun[[N]] avval[[RR]] Dubayga[[NER]] oilasi[[N]] va[[C]] ijodiy[[JJ]] jamoasi[[N]] bilan[[II]] ko‘chib ketgan[[VB]] Liil Xurramov[[NER]] firibgarlik[[N]] tufayli[[II]] 14[[NUM]] ming[[NUM]] dollarga[[N]] kuyib qolgani[[VB]] haqida[[II]] so‘zlab berdi[[VB]] Shukrullo Isroilov[[NER]] rafiqasini[[N]] tug‘ilgan[[VB]] kuni[[N]] bilan[[II]] tabrikladi[[VB]].
+
+So‘z[[N]] ustasi[[N]] Ortiq Sultonov[[NER]] Hamdam Sobirovning[[NER]] intervyulardan[[N]] birida[[NUM]] „Kitob[[NER]] o‘qimayman[[VB]]“ degan[[II]] gapini[[N]] tanqid[[N]] ostiga[[II]] oldi[[VB]].
+
+„San’tkorlar[[N]] o‘z[[P]] ortidan[[II]] ergashtiruvchi[[VB]] hisoblanadi[[VB]].
+
+Men[[P]] masalan[[MD]], Erkin Vohidovning[[NER]] kitobini[[N]] o‘qiyman[[VB]] desam[[VB]], kuzatuvchilarim[[N]] ham[[Prt]] shu[[P]] kitobni[[N]] qo‘liga oladi[[VB]].
+
+Hamdamning[[NER]] qo‘shiqlari[[N]] so‘zlaridan[[N]] ham[[Prt]] savodsizligi[[N]] bilinib turadi[[VB]]“, deydi[[VB]] qiziqchi[[N]].
+
+Xonanda[[N]] Abdulla Qurbonovning[[NER]] ukasi[[N]] vafot etdi[[VB]].
+
+Durdona Qurbonova[[NER]] egizak[[JJ]] jiyanlari[[N]] bilan[[II]] tushgan[[VB]] suratini[[N]] sahifasiga[[N]] joyladi[[VB]].
+
+Asal Shodiyeva[[NER]] muxlislari[[N]] uchun[[II]] yangi[[JJ]] fotosessiya[[N]] uyushtirdi[[VB]].
+
+Malika Ravshanova[[NER]] oilasi[[N]] bilan[[II]] Istanbulda[[NER]] hordiq chiqarmoqda[[VB]].
+
+Iqtisodiyot va moliya vazirligi[[NER]] Toshkent shahridagi[[NER]] „Qo‘yliq[[NER]]“ va[[C]] „Chorsu[[NER]]“ bozorlaridagi[[VB]] asosiy[[JJ]] qishloq[[N]] xo‘jaligi[[N]] mahsulotlari[[N]] ulgurji[[JJ]] narxlarini[[N]] e’lon qilishni[[VB]] to‘xtatdi[[VB]].
+
+Bunga[[P]] sabab[[N]] sifatida[[N]] „Qo‘yliq[[NER]]“ bozori[[N]] rekonstruksiyaga[[N]] olingani[[VB]] keltirilgan[[VB]].
+
+Kunlik[[JJ]] narxlar[[N]] bir muddat[[RR]] tanaffusdan[[N]] so‘ng[[II]] 2023-yilning-oktyabr[[NER]] oyidan[[N]] beri[[II]] o‘rganilayotgandi[[VB]].
+
+Toshkent shahar hokimligi[[NER]] rekonstruksiya[[N]] davrida[[N]] „Qo‘yliq[[NER]]“da[[Prt]] ish olib borayotgan[[VB]] savdogarlarga[[N]] yangi[[JJ]] qurilgan[[VB]] Food City[[NER]] bozori[[N]] yoki[[C]] Tashkent[[NER]] Index’ra[[NER]] ko‘chishni[[VB]] tavsiya qilgan[[VB]].
+
+Iqtisodchi[[N]] Otabek Bakirov[[NER]] Telegram[[NER]] kanalida[[N]] kunlik[[JJ]] narxlar[[N]] e’lonini[[N]] to‘xtatish[[VB]] noto‘g‘ri[[JJ]] ekanini[[VB]] yozib[[VB]], endilikda[[RR]] Food City’dagi[[NER]] mahsulotlar[[N]] narxlarini[[N]] ma’lum qilib[[VB]] borish[[VB]] maqsadga[[N]] muvofiq bo‘lishini[[VB]] bildirdi[[VB]].
+
+Eslatib o‘tmiz[[VB]], poytaxt[[N]] hokimligi[[N]] 2021-yil-dekabrda[[NER]] „Qo‘yliq[[NER]]“ bozori[[N]] ko‘chirilishi[[VB]] haqida[[II]] xabar bergan[[IB]] edi[[VB]].
+
+Bunda[[P]] yo‘l[[N]] infratuzilmasini[[N]] yaxshilash[[VB]], kommunikatsiya[[N]] tarmoqlarini[[N]] takomillashtirish[[VB]] va[[C]] tirbandliklarning[[N]] oldini olish[[VB]] maqsad[[N]] qilingani[[VB]] ta’kidlangan[[VB]].
+
+Mazkur[[JJ]] e’londan[[N]] so‘ng[[II]] bozor[[N]] buzilishidan[[N]] norozi[[JJ]] odamlar[[N]] ko‘chaga[[N]] chiqqan[[VB]], turli[[JJ]] nizolar[[N]] yuz bergandi[[VB]].
+
+Keyin[[II]] bozor[[N]] „Qo‘yliq[[NER]]“dan[[NUM]] 6,5[[NUM]] kilometr[[N]] uzoqlikda[[N]] joylashgan[[VB]] Food City[[NER]] savdo[[N]] majmuasiga[[N]] ko‘chirilishi[[VB]] haqida[[II]] xabarlar[[N]] tarqaldi[[VB]].
+
+2022-yil[[NER]] iyunda[[N]] sobiq[[JJ]] shahar[[N]] hokimi[[N]] Jahongir Ortiqxo‘jayev[[NER]] bozor[[N]] hududi[[N]] yo‘l o‘tkazgich[[N]] qurilishi[[VB]] sabab[[N]] davlat[[N]] ehtiyojlari[[N]] uchun[[II]] olib qo‘yilishiga[[VB]] ruxsat bergan[[VB]] qaror[[N]] qabul qilgan[[VB]].
+
+Muhokamalar[[N]] avj olgach[[VB]], hokimlik[[N]] „Qo‘yliq[[NER]]“ dehqon[[N]] bozorining[[N]] to‘liq[[JJ]] hududi[[N]] davlat[[N]] va[[C]] jamiyat[[N]] ehtiyojlari[[N]] uchun[[II]] olib qo‘yilishi[[VB]] ko‘zda tutilmaganini[[IB]] ma’lum qilgan[[VB]].
+
+„Asosiy[[JJ]] kirish[[VB]] joyi[[N]] oldidagi[[II]] avtoturargoh[[N]] hududining[[N]] bir qismi[[RR]] va[[C]] bir nechta[[RR]] vaqtincha[[RR]] savdo[[N]] qurilmalarining[[N]] o‘rni[[N]] qurilish[[VB]] jarayoniga[[N]] jalb etiladi[[VB]].
+
+Bunda[[P]], asosiy[[JJ]] bino[[N]] va[[C]] savdo[[N]] rastalarining[[N]] aksariyati[[RR]] o‘z[[P]] joyida[[RR]] qoladi[[VB]].
+
+Loyihaga[[N]] ko‘ra[[II]], jalb etiladigan[[VB]] hududning[[N]] umumiy[[JJ]] maydoni[[N]] 10[[NUM]] ming[[NUM]] kv.metr[[N]]atrofida[[II]] bo‘ladi[[VB]]“,––deya[[VB]] holatni[[N]] izohlagan[[VB]] hokimlik[[N]].
+
+AQSh[[NER]] Rossiya[[NER]] aktivlarini[[N]] musodara qilgan[[VB]] taqdirda[[N]] oqibatlarga[[N]] duch keladi[[IB]].
+
+Bu[[P]] haqida[[II]] Kreml[[NER]] matbuot[[N]] kotibi[[N]] Dmitriy Peskov[[NER]] „RIA Novosti“ga[[NER]] ma’lum qildi[[VB]].
+
+Shuningdek[[MD]], Peskov[[NER]] Oq uy[[NER]] Moskvaning[[NER]] muzlatilgan[[VB]] aktivlarini[[N]] musodara qilishga[[VB]] qaratilgan[[VB]] qonun[[N]] loyihasini[[N]] qo‘llab-quvvatlayotgani[[VB]] haqidagi[[II]] xabarga[[N]] munosabat[[N]] bildirdi[[VB]].
+
+Jumladan[[MD]], qarorni[[N]] qo‘llab-quvvatlash[[VB]] AQShning[[NER]] moliyaviy[[JJ]] nufuzi[[N]] va[[C]] xalqaro[[JJ]] investorlarning[[N]] unga[[P]] bo‘lgan[[VB]] ishonchini[[N]] susaytirishga[[VB]] qaratilgan[[VB]] qadam[[N]] ekanini aytdi[[VB]].
+
+Peskov[[NER]] bu[[P]] borada[[II]] AQSh[[NER]] Moskvani[[NER]] xabardor qilmagani[[VB]], Vashington[[NER]] bilan[[II]] aloqa[[N]] kanallari[[N]] deyarli[[RR]] yo‘qligini[[N]] ta’kidladi[[VB]].
+
+Davlat[[N]] rahbarining[[N]] topshirig‘iga[[N]] muvofiq[[II]] qisqa[[JJ]] muddatda[[N]] Mudofaa vazirligining[[NER]] bir nechta[[RR]] texnik[[JJ]] bo‘linmalari[[N]] negizida[[N]] qurilish[[VB]] ishlari[[N]] bajarildi[[VB]], mavjud[[N]] obyektlar[[N]] mukammal[[JJ]] ta’mirlandi[[VB]] va[[C]] rekonstruksiya[[N]] qilindi[[VB]].
+
+Futbol[[N]] bo‘yicha[[II]] Ispaniya[[NER]] Superkubogining[[NER]] yarim[[NUM]] finalida[[N]] „Barselona[[NER]]“ va[[C]] „Osasuna[[VB]]“ jamoalari[[N]] 11-yanvar[[NER]], payshanba[[N]] kuni[[N]] bahs olib bordi[[VB]].
+
+Uchrashuvning[[N]] birinchi[[NUM]] bo‘limida[[N]] darvozalar[[N]] ishg‘ol[[N]] etilmadi[[VB]].
+
+Ikkinchi[[NUM]] bo‘limda[[N]] kataloniyaliklar[[N]] faollikni[[N]] oshirdi[[VB]] va[[C]] hisobni ochdi[[VB]].
+
+59-daqiqada[[NER]] Gundo‘ganning[[NER]] uzatmasidan[[VB]] so‘ng[[II]] Robert Levandovski[[NER]] darvozani[[N]] ishg‘ol qildi[[VB]].
+
+O‘yin[[N]] oxirida[[N]] LaminYamal[[NER]] ham[[Prt]] o‘z[[P]] nomini[[N]] tabloga[[N]] yozdirib qo‘ydi[[VB]] va[[C]] jamoasining[[N]] ishonchli[[JJ]] g‘alabasini[[N]] ta’minladi[[VB]].
+
+Shu[[P]] tariqa[[II]] „Barselona[[NER]]“ Ispaniya[[NER]] Superkubogi[[NER]] finaliga[[N]] yo‘l oldi[[VB]].
+
+Ikkinchi[[NUM]] yarim[[NUM]] finalda[[N]] „Real[[NER]]“ „Atletiko[[NER]]“ ustidan[[II]] 5:3[[NUM]] hisobida[[N]] g‘alaba qozonib[[VB]], finalga[[N]] chiqqan edi[[VB]].
+
+Gollar[[N]]: 1:0 – 59[[NUM]] Levandovski[[NER]], 2:0 – 90[[NUM]] Yamal[[NER]] 90+3[[NUM]].
+
+„Barselona[[NER]]“: Penya[[NER]], Kunde[[NER]], Kristensen[[NER]], Arauxo[[NER]], Balde[[NER]], Serji Roberto[[NER]] (Pedri[[NER]], 61[[NUM]]), Gundo‘g‘an[[NER]], de Yong[[NER]], Rafinya[[NER]] (Yamal[[NER]], 42[[NUM]]), Ferran Torres[[NER]] (Joau Feliks[[NER]], 61[[NUM]]), Levandovski[[NER]].
+
+„Osasuna[[VB]]“: Errera[[NER]], Areso[[NER]], Xuan Krus[[NER]] (Barxa[[NER]], 85[[NUM]]), David Garsiya[[NER]], Katena[[NER]], Penya[[NER]] (Moxika[[NER]], 78[[NUM]]), Moyses[[NER]] Gomes[[NER]] (Ruben Garsiya[[NER]], 85[[NUM]]), Oros[[NER]], Munyos[[NER]] (Monkayola[[NER]], 70[[NUM]]), Arnais[[NER]] (Raul Garsiya[[NER]], 70[[NUM]]), Budimir[[NER]].
+
+Ogohlantirishlar[[N]]: Katena[[NER]] (32[[NUM]]), Munyos[[NER]] (39[[NUM]]), Arnais[[NER]] (56[[NUM]]).
+
+Jahon[[N]] va[[C]] o‘zbek[[N]] sporti[[N]] vakillarining[[N]] ijtimoiy[[JJ]] tarmoqlardagi[[N]] sahifalariga[[N]] joylashtirilgan[[VB]] qiziqarli[[JJ]] foto[[N]] va[[C]] videolarni[[N]] e’tiboringizga[[N]] havola etamiz[[VB]].
+
+OFK[[NER]] rasmiy[[JJ]] sahifasida[[N]] O‘zbekiston[[NER]] terma[[JJ]] jamoasining[[N]] Osiyo kubogidagi[[NER]] ishtirokiga[[N]] oid[[II]] qiziqarli[[JJ]] video[[N]] taqdim etildi[[VB]].
+
+Bahodir Jalolovning[[NER]] Instagram[[NER]] sahifasidan[[N]].
+
+Srechko Katanes[[NER]] boshchiligidagi[[N]] O‘zbekiston milliy terma jamoasining[[NER]] Osiyo kubogi[[NER]] uchun[[II]] yakuniy[[JJ]] ro‘yxati[[N]] e’lon qilindi[[VB]].
+
+WBC[[NER]] Bahodir Jalolovning[[NER]] „Humo Arena[[NER]]“da[[Prt]] Kris Tompsonga[[NER]] qarshi[[II]] jangdagi[[N]] nokautini[[JJ]] yodga oldi[[VB]].
+
+Krishtianu Ronaldudan[[NER]] master-klass[[N]].
+
+Premyer Ligada[[NER]] tarix[[N]] yoza olgan[[VB]] osiyolik[[N]] futbolchilar[[N]] Bu[[P]] kun[[N]] hech qachon[[P]] ularning[[P]] yodidan chiqmaydi[[VB]]!
+
+„Vulverhempton[[NER]]“ asosiy[[JJ]] tarkib[[N]] futbolchilari[[N]] va[[C]] akademiyaning[[N]] 8[[NUM]] yoshli[[JJ]] bolalari[[N]] o‘rtasida[[II]] o‘yin[[N]] tashkil etildi[[VB]].
+
+O‘zbekiston[[NER]] terma[[JJ]] jamoasining[[N]] Osiyo Kubogiga[[NER]] tayyorgarlik[[N]] mashg‘ulotlaridan[[N]] fotosuratlar[[N]].
+
+„Osasuna[[VB]]“: Errera[[NER]], Areso[[NER]], Xuan Krus[[NER]] (Barxa[[NER]], 85[[NUM]]), David Garsiya[[NER]], Katena[[NER]], Penya[[NER]] (Moxika[[NER]], 78[[NUM]]), Moyses Gomes[[NER]] (Ruben Garsiya[[NER]], 85[[NUM]]), Oros[[NER]], Munos[[NER]] (Monkayola[[NER]], 70[[NUM]]), Arnais[[NER]] (Raul Garsiya[[NER]], 70[[NUM]]), Budimir[[NER]].
+
+Ogohlantirishlar[[N]]: Katena[[NER]] (32[[NUM]]), Munos[[NER]] (39[[NUM]]), Arnais[[NER]] (56[[NUM]]).
+
+„Xalqaro[[JJ]] shartnomani[[N]] tasdiqlash[[VB]] to‘g‘risida“gi[[II]] prezident[[N]] qarorlari[[N]] qabul qilindi[[VB]].
+
+Qarorlar[[N]] bilan[[II]] O‘zbekiston[[NER]] hamda[[C]] Qatar[[NER]] davlati[[N]] hukumatlari[[N]] o‘rtasida[[II]] quyidagi[[JJ]] bitimlar[[N]] tasdiqlandi[[VB]]:
+
+Mazkur[[JJ]] bitimlar[[N]] 2023-yil[[NER]] 6-iyunda[[NER]] Samarqand shahrida[[NER]] imzolangan[[VB]].
+
+Shunga[[P]] ko‘ra[[II]], tegishlicha[[RR]] Investitsiyalar[[N]], sanoat[[N]] va[[C]] savdo[[N]] vazirligi[[N]] hamda[[C]] Soliq[[N]] qo‘mitasi[[N]] xalqaro[[JJ]] shartnomani[[N]] amalga oshirish[[IB]] uchun[[II]] mas’ul[[JJ]] vakolatli[[JJ]] organlar[[N]] etib belgilangan[[VB]].
+
+Vazirlar Mahkamasi[[NER]] hamda[[C]] tegishli[[JJ]] vazirlik[[N]] va[[C]] idoralarning[[N]] rahbarlari[[N]] ushbu[[P]] xalqaro[[JJ]] shartnoma[[N]] kuchga kirganidan[[VB]] keyin[[II]] uning[[P]] qoidalari[[N]] amalga oshirilishi[[VB]] ustidan[[II]] belgilangan[[VB]] tartibda[[N]] nazoratni[[N]] ta’minlaydi[[VB]].
+
+Eslatib o‘tamiz[[VB]], iyun[[N]] oyida[[N]] Samarqandda[[NER]] Shavkat Mirziyoyev[[NER]] va[[C]] davlat[[N]] tashrifi[[N]] bilan[[II]] O‘zbekistonga[[NER]] kelgan[[VB]] Qatar amiri[[NER]] shayx[[N]] Tamim ibn Hamad al-Soniyning[[NER]] muzokaralari[[N]] bo‘lib o‘tgandi[[VB]].
+
+Muzokaralar[[N]] yakunida[[N]] savdo-iqtisodiy[[JJ]], investitsiyaviy[[JJ]], madaniy-gumanitar[[JJ]] va[[C]] boshqa[[JJ]] sohalardagi[[N]] hamkorlikni[[N]] rivojlantirishga[[VB]] qaratilgan[[VB]] 15 ta[[NUM]] hujjat[[N]] imzolangan[[VB]].
+
+Jinoyat ishlari[[NER]] bo‘yicha[[II]] Oltiariq[[NER]] tuman[[N]] sudida[[N]] qo‘pol[[JJ]] turdagi[[N]] qoidabuzarliklarni[[N]] sodir etgan[[VB]] shaxslarga[[N]] jazo[[N]] tayinlandi[[VB]].
+
+Ma’lum qilinishicha[[VB]], sud[[N]] qilinganlar[[VB]] orasida[[II]] mast[[JJ]] holatda[[N]] Nexia-3[[NER]] avtomobilini[[N]] boshqargan[[VB]] fuqaro[[N]] ham[[Prt]] bor[[MD]].
+
+Haydovchining[[N]] so‘zlariga[[N]] ko‘ra[[II]], u[[P]] mashinani[[N]] boshqarib[[VB]] ketayotgan[[VB]] vaqtida[[RR]] YPX[[NER]] xodimlari[[N]] tomonidan[[II]] to‘xtatilgan[[VB]], biroq[[C]] u[[P]] haydovchilik[[N]] guvohnomasi[[N]] yo‘qligi[[N]] sabab[[N]] to‘xtamasdan[[VB]], qochishga[[VB]] uringan[[VB]].
+
+Sud[[N]] qarori[[N]] bilan[[II]] qoidabuzar[[JJ]] haydovchiga[[N]] Ma’muriy javobgarlik[[NER]] to‘g‘risidagi[[II]] kodeksning[[N]] 131-modda[[NER]] (transport[[N]] vositalarini[[N]] mast[[JJ]] holda[[II]] boshqarish[[VB]]) 2-qismi[[NER]] bilan[[II]] 15[[NUM]] sutka[[N]] ma’muriy[[JJ]] qamoq[[N]] jazosi[[N]] tayinlandi[[VB]].
+
+Farg‘ona viloyati[[NER]] IIB[[NER]] YHXB[[NER]] ma’lumotlariga[[N]] ko‘ra[[II]], 2023-yilning[[NER]] shu[[P]] vaqtiga[[P]] 104[[NUM]] nafar[[N]] haydovchi[[N]] transport[[N]] vositalarini[[N]] mast[[JJ]] holatda[[N]] boshqargani[[VB]], yana[[RR]] 61[[NUM]] nafar[[N]] shaxs[[N]] esa[[C]] tibbiy[[JJ]] ko‘rikdan[[N]] transport[[N]] vositalari[[N]] haydovchilarining[[N]] va[[C]] yo‘l[[N]] harakati[[N]] boshqa[[JJ]] ishtirokchilarining[[N]] mastligi[[N]] yoki[[C]] mast[[JJ]] emasligini[[N]] aniqlash[[VB]] uchun[[II]] tekshiruvdan[[N]] o‘tishdan[[VB]] bo‘yin tovlagani[[N]] uchun[[II]] javobgarlikka tortilgan[[VB]].
+
+Sentyabr[[N]] oyida[[N]] yo‘l-transport[[N]] hodisalarining[[N]] kelib chiqish[[VB]] sabablarini[[N]] tahlil qilgan[[VB]] Oliy Majlis Senatining[[NER]] Mudofaa[[N]] va[[C]] xavfsizlik[[N]] masalalari[[N]] qo‘mitasi[[N]] raisi[[N]] Qutbitdin Burxonov[[NER]] yetti[[NUM]] oy[[N]] davomida[[II]] sodir bo‘lgan[[VB]] YTHlar[[NER]] oqibatida[[RR]] 1 115[[NUM]] kishi[[N]] halok bo‘lgani[[VB]], 4[[NUM]] ming[[NUM]] 564[[NUM]] nafari[[N]] turli[[JJ]] tan[[N]] jarohatlari[[N]] olganini[[VB]] ma’lum qilgandi[[VB]].
+
+Namangan viloyatida[[NER]] voyaga yetmagan[[VB]] shaxs[[N]] otasining[[N]] Equinox[[NER]] avtomobilida[[N]] qator[[N]] qoidabuzarliklar[[N]] sodir etib[[VB]], YTHga[[NER]] uchradi[[VB]].
+
+Bu[[P]] haqida[[II]] IIV[[NER]] YHXX[[NER]] axborot[[N]] xizmati[[N]] xabar berdi[[VB]].
+
+Ijtimoiy[[JJ]] tarmoqlarda[[N]] Namanganda[[NER]] avtoraqamsiz[[N]] holda[[II]] qoidalarni[[N]] buzib[[VB]] yurgan[[VB]] Equinox[[NER]] mashinasi[[N]] tasvirlangan[[VB]] video[[N]] tarqaldi[[VB]].
+
+Ma’lum qilinishicha[[VB]], videoda[[N]] tasvirlangan[[VB]] holat[[N]] 2023-yil[[NER]] sentyabr[[N]] oyida[[N]] sodir bo‘lgan[[VB]].
+
+2007-yilda[[NER]] tug‘ilgan[[VB]] o‘smir[[N]] otasi[[N]] xizmat safariga[[VB]] ketganidan[[VB]] foydalanib[[VB]], unga[[P]] tegishli[[JJ]] mashinani[[N]] so‘roqsiz[[JJ]] haydagan[[VB]].
+
+U[[P]] mashina[[N]] davlat[[N]] raqamlarini[[N]] yechib[[VB]], shahar[[N]] ko‘chalari[[N]] bo‘ylab[[II]] qoidalarni[[N]] qo‘pol[[JJ]] tarzda[[II]] buzgan[[VB]] holda[[II]] harakatlangan[[VB]].
+
+So‘ng[[II]] holatni[[N]] videoga[[N]] olib[[VB]], ijtimoiy[[JJ]] tarmoqlarga[[N]] joylagan[[VB]].
+
+Namangan viloyati[[NER]] IIB[[NER]] YHXB[[NER]] xodimlari[[N]] tomonidan[[II]] o‘smir[[N]] va[[C]] mashina[[N]] topilib[[VB]], unga[[P]] nisbatan[[II]] tegishli[[JJ]] choralar[[N]] ko‘rilgan[[VB]].
+
+Jumladan[[MD]], mashina[[N]] egasiga[[N]] nisbatan[[II]]:
+
+Avvalroq[[RR]] Namangan[[NER]] shahar[[N]] Islom Karimov[[NER]] ko‘chasida[[N]] 1-yanvar[[NER]] kechasi[[RR]] bir qator[[RR]] qoidabuzarliklarni[[N]] sodir etgan[[VB]] Mercedes[[NER]]-Benz[[NER]] haydovchisiga[[N]] chora ko‘rilgani[[VB]] to‘g‘risida[[II]] xabar berilgandi[[VB]].
+
+Toshkent shahar[[NER]] Chilonzor tumanida[[NER]] yangi-yil[[N]] kechasi[[RR]] qo‘pol[[JJ]] qoidabuzarlik[[N]] sodir etgan[[VB]] yigitlar[[N]] javobgarlikka[[N]] tortildi[[VB]].
+
+Bu[[P]] haqida[[II]] „Vaziyat 24“[[NER]] informatsion[[JJ]] dasturida[[N]] ma’lum qilindi[[VB]].
+
+Qayd etilishicha[[VB]], 2024-yil[[NER]] 1-yanvar[[NER]] kuni[[N]] soat[[N]] 00:10 da[[NER]] Chilonzor tumani[[NER]] So‘galli[[N]] ota[[N]] ko‘chasida[[N]] joylashgan[[VB]] „Zarhal[[NER]]“ to‘yxonasi[[N]] oldida[[II]] to‘rt[[NUM]] nafar[[N]] fuqaro[[N]] bir nechta[[RR]] mashinada[[N]] turli[[JJ]] avariyaviy[[N]] holatlar[[N]] sodir etib[[VB]], avtomobil[[N]] boshqargan[[VB]].
+
+Ushbu[[P]] fuqarolar[[N]] hududda[[N]] xizmat[[N]] olib borayotgan[[VB]] ichki ishlar[[NER]] xodimlarining[[N]] qonuniy[[JJ]] talablariga[[N]] bo‘ysunmasdan[[VB]], jamiyatda[[N]] yurish-turish[[N]] qoidalarini[[N]] qasddan[[RR]] buzgan[[VB]].
+
+Shuningdek[[MD]], voyaga yetmagan[[VB]] ikki[[NUM]] nafar[[N]] shaxsning[[N]] ota-onasiga[[N]] nisbatan[[II]] Ma’muriy javobgarlik[[NER]] to‘g‘risidagi[[II]] kodeksning[[N]] 47-modda[[NER]] (bolalarni[[N]] tarbiyalash[[VB]] va[[C]] ularga[[P]] ta’lim berish[[VB]] borasidagi[[II]] majburiyatlarni[[N]] bajarmaslik[[VB]]) 1-qismi[[NER]] bilan[[II]] chora ko‘rilgan[[VB]].
+
+Aniqlanishicha[[VB]], shu kuni[[RR]] qoidabuzarlik[[N]] sodir etib[[VB]], mashina[[N]] haydagan[[VB]] shaxslarning[[N]] birortasida[[P]] haydovchilik[[N]] guvohonasi[[N]] bo‘lmagan[[VB]].
+
+Jinoyat ishlari[[NER]] bo‘yicha[[II]] Chilonzor[[NER]] tuman[[N]] sudi[[N]] tomonidan[[II]] to‘rt[[NUM]] nafar[[N]] fuqaro[[N]] Ma’muriy javobgarlik[[NER]] to‘g‘risidagi[[II]] kodeksning[[N]] 183[[NUM]] (mayda[[JJ]] bezorilik[[N]]) hamda[[C]] 194-moddalarida[[NER]] (Ichki ishlar organlari[[NER]] xodimining[[N]] qonuniy[[JJ]] talablarini[[N]] bajarmaslik[[VB]]) nazarda tutilgan[[IB]] huquqbuzarlikni[[N]] sodir etganlikda[[VB]] aybli[[JJ]] deb topildi[[VB]].
+
+Ularning[[P]] har biriga[[P]] BHMning[[N]] bir[[NUM]] baravari[[RR]] miqdorida[[N]] (340[[NUM]] ming[[NUM]] so‘m[[N]]) jarima[[N]] hamda[[C]] 15[[NUM]] sutka[[N]] ma’muriy[[JJ]] qamoq[[N]] jazosi[[N]] tayinlandi[[VB]].
+
+Samarqand shahrida[[NER]] 2023-yil[[NER]] 1-yanvarga[[NER]] o‘tar kechasi[[N]] Mercedes[[NER]]-Benz’da[[NER]] drift[[N]] qilgan[[VB]] haydovchi[[N]] javobgarlikka tortilgan[[VB]] edi[[VB]].
+
+Undan[[P]] oldin[[II]] esa[[C]] Nukusda[[NER]] raqamsiz[[N]] harakatlanib[[VB]], drift[[N]] qilgan[[VB]] „shumaxer[[N]]“ topilgandi[[VB]].
+
+Hamidjon Homidiy[[NER]] 1935-yil[[NER]] 4-oktyabrda[[NER]] Namangan viloyati[[NER]], Kosonsoy shahrida[[NER]] etikdo‘z[[N]] oilasida[[N]] tug‘ilgan[[VB]].
+
+Avvalroq[[RR]] Zulfiya mukofoti[[NER]] sovrindori[[N]] Ayjamal Joldasbayeva[[NER]]-Janibekova[[NER]] 27[[NUM]] yoshida[[N]] vafot etgani[[IB]] to‘g‘risida[[II]] xabar berilgandi[[VB]].
+
+AQSH[[NER]] va[[C]] Buyuk Britaniya[[NER]] Yamandagi[[NER]] husiy[[N]] obyektlariga[[N]] zarbalar berdi[[IB]].
+
+Bu[[P]] haqida[[II]] Reuters[[NER]] amerikalik[[N]] rasmiylarga[[JJ]] tayanib[[VB]] xabar berdi[[VB]].
+
+Guvohlar[[N]] Yaman[[NER]] poytaxti[[N]] Sanadagi[[NER]] portlashlar[[N]] haqida[[II]] ma’lum qildi[[VB]].
+
+CNN[[NER]] ma’lumotlariga[[N]] ko‘ra[[II]], AQSH[[NER]] zarbalar[[N]] uchun[[II]] Tomahawk[[NER]] bombardimonchi[[N]] samolyotlari[[N]] va[[C]] qanotli[[JJ]] raketalardan[[N]] foydalanmoqda[[VB]].
+
+Telekanalning[[N]] aniqlik kiritishicha[[VB]], Amerika[[NER]] harbiylari[[JJ]] husiylarning[[N]] „ko‘plab[[RR]]“ nishonlariga[[N]] hujum qilgan[[VB]].
+
+Reuters[[NER]] agentligining[[N]] yozishicha[[VB]], zarbalar[[N]] qiruvchi[[JJ]] samolyotlar[[N]], kemalar[[N]] va[[C]] suv[[N]] osti[[N]] kemalaridan[[N]] yo‘llangan[[VB]].
+
+Yaman[[NER]] husiylari[[N]] vakili[[N]] AQSH[[NER]] va[[C]] Britaniya[[NER]] zarbalari[[N]] Yaman[[NER]] poytaxti[[N]] hamda[[C]] Xodeyda[[NER]], Saada[[NER]] va[[C]] Dhamar[[NER]] shaharlariga[[N]] berilganini[[VB]] ma’lum qildi[[VB]], deb yozadi[[VB]] The Guardian[[NER]].
+
+AQSH[[NER]] rasmiysining[[JJ]] CNN[[NER]] telekanaliga[[N]] aytishicha[[VB]], AQSH[[NER]] va[[C]] Buyuk Britaniya[[NER]] husiylarning[[N]] o‘ndan[[NUM]] ortiq[[JJ]] nishonlariga[[N]] zarbalar[[N]] bergan[[VB]].
+
+Nishonlar[[N]] husiylarning[[N]] Qizil dengizdagi[[NER]] kemalarga[[N]] hujum[[N]] qobiliyatini[[N]] qanchalik[[RR]] zaiflashtirishi[[VB]] mumkinligiga[[N]] qarab tanlangan[[VB]].
+
+The Guardian[[NER]], The Times[[NER]] va[[C]] Wall Street Journal[[NER]] nashrlari[[N]] xabariga[[N]] ko‘ra[[II]], Vashington[[NER]] va[[C]] London[[NER]] bunday[[P]] operatsiya[[N]] to‘g‘risidagi[[II]] qarorni[[N]] Qizil dengizdan[[NER]] o‘tayotgan[[VB]] kemalarga[[N]] Eron[[NER]] tomonidan[[II]] qo‘llab-quvvatlangan[[VB]] husiylarning[[N]] davomli[[JJ]] hujumlari[[N]] sabab[[N]] qabul qilgan[[VB]].
+
+Zarbalar[[N]] boshlanganidan[[VB]] taxminan[[RR]] bir soat[[NER]] o‘tib[[VB]], AQSH prezidenti[[NER]] Jo Bayden[[NER]] bayonot[[N]] bilan[[II]] chiqdi[[VB]].
+
+Bayden[[NER]] husiylarga[[N]] qarshi[[II]] zarbalarni[[N]] „mudofaa[[N]] harakati[[N]]“ deb[[II]] atadi[[VB]].
+
+10-yanvar[[NER]] kuni[[N]] Buyuk Britaniya[[NER]] Mudofaa vazirligi[[NER]] Britaniya[[NER]] floti[[N]] esminetslari[[N]] Amerika[[NER]] kemalari[[N]] bilan[[II]] birgalikda[[RR]] Yamanning[[NER]] „Ansor Alloh[[NER]]“ husiy[[N]] harakatining[[N]] Qizil dengizdagi[[NER]] eng[[RR]] yirik[[JJ]] hujumini[[N]] qaytarganini[[RR]] ma’lum qildi[[VB]].
+
+Husiylarning[[N]] raketa[[N]] va[[C]] Eron[[NER]] dronlari[[N]] yordamida[[II]] amalga oshirilgan[[IB]] hujumi[[N]] 9-yanvar[[NER]] kuni[[N]] kechqurun[[RR]] boshlangan[[VB]].
+
+AQSH[[NER]] Markaziy[[JJ]] qo‘mondonligining[[N]] ta’kidlashicha[[VB]], AQSH[[NER]] aviatashuvchilari[[N]] Britaniya esminetsi[[NER]] bilan[[II]] birga[[RR]] 18 ta[[NUM]] dron[[N]], ikkita[[NUM]] kemaga[[N]] qarshi[[II]] qanotli[[JJ]] raketa[[N]] va[[C]] bitta[[NUM]] kemaga[[N]] qarshi[[II]] ballistik[[JJ]] raketani[[N]] urib tushirgan[[VB]].
+
+Husiylar[[N]] yetakchisi[[N]] Yamandagi[[NER]] hujumga[[N]] javob qaytarish[[VB]] bilan[[II]] tahdid qildi[[VB]].
+
+Agar[[C]] Qo‘shma Shtatlardan[[NER]] yordam[[N]] kelmasa[[VB]],-yanvar[[N]] oyidayoq[[N]] ijtimoiy[[JJ]] va[[C]] gumanitar[[JJ]] to‘lovlar[[N]] bilan[[II]] bog‘liq[[JJ]] muammolar[[N]] paydo bo‘lishi mumkin[[VB]], deb[[II]] ogohlantirgandi[[VB]] Oliy Rada[[NER]] budjet[[N]] qo‘mitasi[[N]] rahbari[[N]] Roksolana Podlasa[[NER]] bir[[NUM]] oy[[N]] oldin[[II]].
+
+Prezidentning[[NER]] „Xalq[[N]] xizmatkori[[N]]“ partiyasidagi[[N]] manba[[N]] aniqlik kiritishicha[[VB]],-yanvar[[N]] oyidagi[[N]] kamomad[[N]] 20[[NUM]] milliard[[N]] grivnaga[[N]] yetishi[[VB]] mumkin[[MD]], 2024-yil[[NER]] uchun[[II]] umumiy[[JJ]] budjet[[N]] taqchilligi[[N]] 1,57[[NUM]] trillion[[N]] grivnani[[N]] tashkil qiladi[[VB]].
+
+Ukraina[[NER]] 1-mart[[NER]] sanasidan[[N]] oldin[[II]] G‘arb[[NER]] yordamini[[N]] olmasa[[VB]], ushbu[[P]] oyga[[N]] rejalashtirilgan[[VB]] pensiyalarni[[N]] indeksatsiya[[N]] qilish[[VB]], bekor qilinishi[[VB]] mumkin[[MD]], deb aytgandi[[VB]] ijtimoiy siyosat vaziri[[NER]] Oksana Jolnovich[[NER]]-dekabr[[N]] oyida[[N]].
+
+Financial Times[[NER]] gazetasining[[N]] yozishicha[[VB]], Ukrainaning[[NER]] 2024-yilgi[[NER]] budjetida[[N]] 41[[NUM]] milliard[[N]] dollarlik[[N]] kamomad[[N]] mavjud bo‘lib[[VB]], bu[[P]] kamomad[[N]] G‘arbning[[NER]] moliyaviy[[JJ]] ko‘magi[[N]] bilan[[II]] qoplanishi[[VB]] rejalashtirilgan[[VB]].
+
+Shunday qilib[[MD]], Kiyev[[NER]] Yevropa Ittifoqidan[[NER]] 18[[NUM]] milliard[[N]] dollar[[N]], AQSHdan[[NER]] 8,5[[NUM]] milliard[[N]], XVJdan[[NER]] 5,4[[NUM]] milliard[[N]] dollar[[N]] olishni[[VB]], qolgan[[VB]] mablag‘ni[[N]] Britaniya[[NER]] va[[C]] taraqqiyot[[N]] banklaridan[[N]] olishni[[VB]] kutmoqda[[VB]].
+
+O‘zbekistonda prezident[[NER]] qarori[[N]] bilan[[II]] aholiga[[N]] qaytariladigan[[RR]] 1[[NUM]] foizlik[[N]] keshbek[[N]] summasiga[[N]] chegaraviy[[JJ]] miqdor[[N]] o‘rnatilgandi[[VB]].
+
+Soliq[[N]] qo‘mitasi[[N]] keshbek[[N]] bo‘yicha[[II]] cheklov[[N]] fuqarolarning[[N]] 98[[NUM]] foiziga[[N]] ta’sir o‘tkazmasligini[[VB]] bildirdi[[VB]].
+
+Prezident[[N]] qarorida[[N]] jismoniy[[JJ]] shaxslar[[N]] tomonidan[[II]] bir[[NUM]] oy[[N]] davomida[[II]] sotib olingan[[VB]] tovarlar[[N]] (xizmatlar[[N]]) qiymatining[[N]] BHMning[[N]] 60[[NUM]] baravaridan[[RR]] (20,4[[NUM]] million[[N]] so‘mdan[[N]]) oshmagan[[VB]] qismidan[[N]] 1[[NUM]] foizi[[N]] ularning[[P]] fiskal[[JJ]] belgili[[JJ]] cheklari[[N]] soliq[[N]] organlarining[[N]] maxsus[[JJ]] mobil[[N]] ilovasi[[N]] orqali[[II]] ro‘yxatdan[[N]] o‘tkazilgan[[VB]] taqdirda[[N]] qaytarilishi[[RR]] belgilangandi[[VB]].
+
+Ya’ni[[C]], endi[[RR]] „Ijtimoiy[[JJ]] himoya[[N]] yagona[[JJ]] reyestri[[N]]“ga[[NUM]] kirmagan[[VB]] fuqaroning[[N]] xaridlari[[N]] uchun[[II]] oyiga[[N]] olishi[[VB]] mumkin bo‘lgan[[VB]] maksimal[[JJ]] soliq[[N]] keshbeki[[N]] miqdori[[N]] 204[[NUM]] ming[[NUM]] so‘mni[[N]] tashkil etadi[[VB]].
+
+Soliq[[N]] qo‘mitasi[[N]] bosh[[N]] inspektori[[N]] Anvar Ne’matov[[NER]] ushbu[[P]] cheklov[[N]] foydalanuvchilarning[[N]] 98[[NUM]] foiziga[[N]], ya’ni[[C]] oy[[N]] davomida[[II]] odatda[[RR]] 20,4[[NUM]] million[[N]] so‘mgacha[[N]] miqdorda[[N]] xaridlarni[[N]] amalga oshiruvchilarga[[IB]] ta’sir qilmasligini[[VB]] aytdi[[VB]].
+
+Uning[[P]] bildirishicha[[VB]], boshqa[[JJ]] shaxslarga[[N]] tegishli[[JJ]] cheklar[[N]] summasini[[N]] o‘zlashtirish[[VB]] yoki[[C]] tadbirkorlar[[N]] tomonidan[[II]] chekni[[N]] xaridorga[[N]] bermasdan[[VB]], o‘zlari[[P]] yoki[[C]] qarindoshlari[[N]] tomonidan[[II]] o‘tkazish[[VB]] holatlari[[N]] yuzasidan[[II]] shikoyatlar[[N]] ko‘pligi[[N]] sababli[[II]] mazkur[[JJ]] tartib[[N]] joriy etildi[[VB]].
+
+Ko‘pchilik[[N]] Yangi-yilda[[N]] „Uyda yolg‘iz[[NER]]“ va[[C]] Gollivudning[[NER]] boshqa[[JJ]] filmlarini[[N]] tomosha qiladi[[VB]].
+
+Ammo[[C]], tan olish[[IB]] kerakki[[MD]], bu[[P]] kabi[[II]] mashhur[[JJ]] filmlar[[N]] eng[[RR]] ashaddiy[[JJ]] muxlislarining[[N]] ham[[Prt]] joniga tegishi[[IB]] mumkin[[MD]].
+
+Shu[[P]] bois[[II]] dunyoning[[N]] turli[[JJ]] burchaklarida[[N]] suratga[[N]] olingan[[VB]] Yangi-yil[[N]] haqidagi[[II]] filmlarni[[N]] to‘pladik[[VB]].
+
+Yangi-yildan[[N]] keyin[[II]] ularning[[P]] jurnalida[[N]] xodimlar[[N]] sonini[[N]] qisqartirish[[VB]] kutilmoqda[[VB]].
+
+Rojdestvo[[NER]] haqida[[II]] eng[[RR]] yaxshi[[JJ]] maqola[[N]] yozgan[[VB]] kishi[[N]] ishda[[N]] qoladi[[VB]].
+
+Qahramonlar[[N]] tog‘-chang‘i[[N]] kurortiga[[N]] xizmat[[N]] safariga[[N]] boradi[[VB]].
+
+Biroq[[C]] yo‘lda[[N]] ular[[P]] qor[[N]] bo‘roniga[[N]] tushib qolishadi[[VB]].
+
+Jenna[[NER]] va[[C]] Kevin[[NER]] keksa[[JJ]] er-xotin[[N]] boshqaradigan[[VB]] kichik[[JJ]] mehmonxonada[[N]] qoladi[[VB]].
+
+Va[[C]] ular[[P]] bu[[P]] bino[[N]] buzilishi[[VB]] haqida[[II]] xabar topadi[[IB]].
+
+Qahramonlar[[N]] mehmonxona[[N]] uchun[[II]] kurashishga[[VB]] va[[C]] bu[[P]] haqida[[II]] maqola[[N]] yozishga[[VB]] qaror qiladi[[VB]].
+
+Bu[[P]] yo‘lda[[N]] ular[[P]] bir-birlari[[RR]] bilan[[II]] yanada[[RR]] yaqinlashadi[[VB]].
+
+„Santa Hryakus[[NER]]: dahshatli[[JJ]] ertak[[N]]“ (Buyuk Britaniya[[NER]], 2006[[NUM]])
+
+Bu[[P]] xayoliy[[JJ]] Yassi[[NER]] dunyoda[[N]] sodir bo‘ladi[[VB]].
+
+Bu yerda[[RR]] Rojdestvo[[NER]] emas[[VB]], balki[[C]] Qo‘rquv[[N]] kuni[[N]] nishonlanadi[[VB]].
+
+O‘z[[P]] navbatida[[N]] hammaga[[P]] sovg‘alarni[[N]] Santa Klaus[[NER]] emas[[VB]], balki[[C]] Santa Hryakus[[NER]] keltiradi[[VB]].
+
+Ammo[[C]] keyingi[[JJ]] bayram[[N]] arafasida[[II]] Rojdestvo[[NER]] afsungari[[N]] va[[C]] tish[[N]] parisi[[N]] yo‘qolib[[VB]] qoladi[[VB]].
+
+Yassi[[NER]] dunyo[[N]] sehrgarlari[[N]] yo‘qolganlarni[[VB]] topish[[VB]] uchun[[II]] qo‘ldan kelgancha[[VB]] harakat qiladi[[VB]].
+
+„Santa[[NER]] va[[C]] kompaniya[[N]]“ (Fransiya[[NER]], 2017[[NUM]])
+
+IMDb[[NER]] reytingi[[N]] — 6,3[[NUM]] Rojdestvo[[NER]] arafasida[[II]] elflar[[N]] tushunarsiz[[JJ]] kasallikka[[N]] chalinadi[[VB]].
+
+Ammo[[C]] sayyoradagi[[N]] barcha[[P]] bolalar[[N]] sovg‘alarni[[N]] o‘z[[P]] vaqtida[[RR]] olishlari[[VB]] kerak[[MD]].
+
+Ya’ni[[C]] elflar[[N]] sovg‘a[[N]] tarqatish[[VB]] uchun[[II]] javobgar[[N]].
+
+Yordamchilari[[N]] uchun[[II]] mo‘jizaviy[[JJ]] davo[[N]] izlab[[VB]], Santa[[NER]] Yerga[[N]] uchadi[[VB]].
+
+Ammo[[C]] bu yerda[[RR]] yana[[RR]] bir[[NUM]] muammo[[N]] tug‘iladi[[VB]]: bizning[[P]] dunyomizda[[N]] uni[[P]] hech kim[[P]] tanimaydi[[VB]].
+
+„Mening[[P]] do‘stim[[N]] Santa Klaus[[NER]]“ (Fransiya[[NER]], 2014[[NUM]])
+
+„Uyda yolg‘iz[[NER]]“ filmi[[N]] muxlislari[[N]] uchun[[II]] juda[[RR]] mos[[JJ]] film[[N]].
+
+Film[[N]] voqealari[[N]] Rojdestvo[[NER]] oqshomida[[N]] o‘g‘riga[[N]] duch kelgan[[VB]] bola[[N]] atrofida[[II]] sodir bo‘ladi[[VB]].
+
+Ammo[[C]] film[[N]] qahramoni[[N]] Antuan[[NER]] o‘g‘rini[[N]] Santa Klaus[[NER]] deb[[II]] o‘ylaydi[[VB]].
+
+Axir[[Prt]], jinoyatchi[[N]] qorboboga[[N]] o‘xshab[[VB]] kiyinib olgandi[[VB]]-da[[Prt]].
+
+Antuan[[NER]] haqiqiy[[JJ]] Qorbobo[[N]] bilan[[II]] chana[[N]] uchishni[[VB]] orzu qiladi[[VB]].
+
+Shuning[[P]] uchun[[II]], u[[P]] Parij[[NER]] kvartiralari[[N]] bo‘ylab[[II]] „sayohat qilayotgan[[VB]]“ o‘g‘ri[[N]] bilan[[II]] birga[[RR]] ketadi[[VB]].
+
+„Yangi-yil arafasi[[NER]]“ (Janubiy Koreya[[NER]], 2021[[NUM]])
+
+Sakkiz[[NUM]] xil[[N]] qahramon[[JJ]] — har bir[[P]] insonning[[N]] munosabatlarda[[N]] o‘ziga xos[[JJ]] qiyinchiliklari[[N]] bor[[MD]].
+
+Li Xye Yon[[NER]] eri[[N]] bilan[[II]] ajrashadi[[VB]] va[[C]] darhol[[RR]] Kang Ji Xo[[NER]] bilan[[II]] tanishadi[[VB]].
+
+Sportchi[[N]] Rae Xvan[[NER]] va[[C]] uning[[P]] sevgilisi[[N]] Oh Vol[[NER]] ko‘p[[RR]] to‘siqlarga[[N]] duch keladi[[IB]], lekin[[C]] sevgi[[N]] yordamida[[II]] hamma[[P]] narsani[[N]] yengishga[[VB]] harakat qilishadi[[VB]].
+
+Yong Chan[[NER]] xitoylik[[N]] Yaolin[[NER]] ismli[[JJ]] ayolga[[N]] uylanmoqchi[[VB]], lekin[[C]] avvalo[[MD]] ularni[[P]] mashaqqatli[[JJ]] sinov[[N]] kutmoqda[[VB]].
+
+Yigiti[[N]] tomonidan[[II]] tashlab ketilgan[[VB]] Min Jin A[[NER]] esa[[C]] Argentinaga[[NER]] qochib ketadi[[VB]] va[[C]] kelishgan[[JJ]] Li Chje Xong[[NER]] bilan[[II]] tanishadi[[VB]].
+
+„Rojdestvo ertagi[[NER]]“ (Shvetsiya[[NER]], 2021[[NUM]])
+
+Karl[[NER]] badavlat[[JJ]] oiladan[[N]] chiqqan[[VB]] bola[[N]].
+
+Badavlat[[JJ]] bo‘lsa[[C]] ham[[Prt]], u[[P]] pochta[[N]] bo‘limida[[N]] ishlaydi[[VB]].
+
+Karlning[[NER]] kumiri[[N]] bor[[MD]] — Robin Gud[[NER]].
+
+Shuning[[P]] uchun[[II]] Rojdestvo[[NER]] kunida[[N]] yigit[[N]] o‘zining[[P]] sevimli[[JJ]] qahramonidek[[N]] harakat qilishga[[VB]] qaror qiladi[[VB]]: boylar[[JJ]] uchun[[II]] mo‘ljallangan[[VB]] sovg‘alarni[[N]] kambag‘allarga[[JJ]] yuborish[[VB]].
+
+Ayni paytda[[RR]] Karl[[NER]] yetim[[JJ]] qiz[[N]] bilan[[II]] tanishib qoladi[[VB]].
+
+Va[[C]], albatta[[MD]], ular[[P]] o‘rtasida[[II]] samimiy[[JJ]] muhabbat[[N]] uyg‘onadi[[VB]].
+
+Tashqi mehnat migratsiyasi agentligi[[NER]] Qozog‘istonda[[NER]] bo‘lib turgan[[VB]] va[[C]] tranzit[[N]] yo‘nalishida[[N]] harakatlanayotgan[[VB]] O‘zbekiston[[NER]] fuqarolariga[[N]] ogohlantirish[[N]] bilan[[II]] chiqdi[[VB]].
+
+Qayd etilishicha[[VB]], so‘nggi[[JJ]] kunlarda[[N]] Qozog‘istonning[[NER]] hududlarida[[N]] ob-havoning[[N]] keskin[[JJ]] sovushi[[VB]] natijasida[[N]] yo‘llarda[[N]] harakatlanish[[VB]] bilan[[II]] bog‘liq[[JJ]] qator[[N]] noqulayliklar[[N]] yuzaga kelmoqda[[VB]].
+
+Shuningdek[[MD]], yaqin[[RR]] haftalar[[N]] davomida[[II]] ham[[Prt]] sovuq[[JJ]] havo[[N]] harorati[[N]] saqlanib qolishi[[VB]] sababli[[II]] respublika[[N]] darajasidagi[[N]] avtoyo‘llarda[[N]] harakatlanish[[VB]] cheklangan[[VB]].
+
+Dekabr[[N]] o‘rtalarida[[RR]] Qozog‘istonning[[NER]] Qarag‘andi viloyatidagi[[NER]] trassada[[N]] avtobusda[[N]] sovuqda[[N]] qolib ketgan[[VB]] 20[[NUM]] nafar[[N]] o‘zbekistonlikka[[N]] yordam berilgandi[[VB]].
+
+Ekologiya[[N]], atrof-muhitni[[N]] muhofaza qilish[[VB]] va[[C]] iqlim[[N]] o‘zgarishi[[VB]] vazirligi[[N]] „O‘zbekiston[[NER]] hududida[[N]] chiqindilar[[N]], ayrim[[JJ]] turdagi[[N]] xavfli[[JJ]] mahsulot[[N]] va[[C]] kimyoviy[[JJ]] moddalar[[N]] muomalasi[[N]] bilan[[II]] bog‘liq[[JJ]] nazoratni[[N]] yanada[[RR]] takomillashtirish[[VB]] chora-tadbirlari[[N]] to‘g‘risida“gi[[II]] qarori[[N]] loyihasini[[N]] muhokamaga[[N]] qo‘ydi[[VB]].
+
+Vena[[NER]] konvensiyasiga[[N]] ko‘ra[[II]], O‘zbekistonga[[NER]] import[[N]] qilinishi[[VB]] taqiqlangan[[VB]] ozonni[[N]] buzuvchi[[VB]] moddalar[[N]] va[[C]] tarkibida[[N]] ular[[P]] mavjud bo‘lgan[[VB]] mahsulotlarning[[N]] yangilangan[[VB]] ro‘yxati[[N]], import[[N]] va[[C]] eksport qilinishi[[VB]] davlat[[N]] tomonidan[[II]] tartibga solinadigan[[N]] va[[C]] majburiy[[JJ]] ekologik[[JJ]] sertifikat[[N]] bo‘yicha[[II]] amalga oshiriladigan[[IB]] ozonni[[N]] buzuvchi[[VB]] moddalar[[N]] va[[C]] tarkibida[[N]] ular[[P]] mavjud bo‘lgan[[VB]] mahsulotlarning[[N]] yangilangan[[VB]] ro‘yxati[[N]] tasdiqlanadi[[VB]].
+
+Shuningdek[[MD]], 2024-yil[[NER]] 1-iyuldan[[NER]] boshlab[[II]], ozonni[[N]] buzuvchi[[VB]] moddalar[[N]] va[[C]] tarkibida[[N]] ular[[P]] mavjud bo‘lgan[[VB]] yoki[[C]] ulardan[[P]] foydalanishga[[VB]] mo‘ljallangan[[VB]] mahsulotlarni[[N]] import[[N]] va[[C]] eksport qilish[[VB]] ekologik[[JJ]] sertifikat[[N]] asosida[[N]] faqat[[Prt]] „Yagona darcha[[NER]]“ bojxona[[N]] axborot[[N]] tizimi[[N]] orqali[[II]] amalga oshiriladi[[IB]].
+
+Stokgolm[[NER]] konvensiyasiga[[N]] muvofiq[[II]] 32[[NUM]] turdagi[[N]] o‘simliklarni[[N]] himoya qilish[[VB]] vositalari[[N]] va[[C]] boshqa[[JJ]] turg‘un[[JJ]] organik[[JJ]] ifloslantiruvchi[[VB]] moddalarni[[N]] O‘zbekiston[[NER]] hududiga[[N]] olib kirilishi[[VB]] taqiqlanadi[[VB]].
+
+Ekologiya[[N]] vazirligi[[N]] uch[[NUM]] oy[[N]] muddatda[[N]] xorijiy[[JJ]] tajriba[[N]] asosida[[N]] chiqindilarni[[N]] utilizatsiya[[N]] qilish[[VB]] va[[C]] qayta ishlash[[VB]] faoliyatini[[N]] litsenziyalanadigan[[VB]] faoliyat[[N]] turlari[[N]] ro‘yxatiga[[N]] kiritishni[[VB]] nazarda tutuvchi[[IB]] qonun[[N]] loyihasini[[N]] Vazirlar Mahkamasiga[[NER]] kiritadi[[VB]].
+
+Avvalroq[[RR]] Toshkent[[NER]], Angren[[NER]], Andijon[[NER]], Buxoro[[NER]] va[[C]] Termiz[[NER]] shaharlarida[[N]] hamda[[C]] Toshkent[[NER]] tumanidagi[[N]] ko‘p[[RR]] qavatli[[JJ]] uylar[[N]] joylashgan[[VB]] hududlardagi[[N]] chiqindi[[N]] yig‘ish[[VB]] maydonlarida[[N]] „qayta ishlanadigan[[VB]]“ toifaga[[N]] mansub[[N]] chiqindi[[N]] turlari[[N]] sotib olish[[VB]] yo‘li[[N]] bilan[[II]] qabul qilinishi[[VB]] to‘g‘risida[[II]] xabar berilgandi[[VB]].
+
+Toshkent shahrida[[NER]] havo[[N]] biroz[[RR]] bulutli[[JJ]] bo‘ladi[[VB]], vaqti-vaqti[[RR]] bilan[[II]] yomg‘ir[[N]] yog‘adi[[VB]].
+
+Qoraqalpog‘iston Respublikasi[[NER]] va[[C]] Xorazm viloyatida[[NER]] havo[[N]] biroz[[RR]] bulutli[[JJ]] bo‘ladi[[VB]], ba’zi[[P]] joylarda[[N]] yog‘ingarchilik[[N]] (yomg‘ir[[N]], qor[[N]]) bo‘ladi[[VB]], tuman[[N]] tushishi mumkin[[VB]].
+
+Buxoro[[NER]] va[[C]] Navoiy viloyatlarida[[NER]] havo[[N]] biroz[[RR]] bulutli[[JJ]] bo‘ladi[[VB]], ba’zi[[P]] joylarda[[N]] yomg‘ir[[N]] yog‘adi[[VB]], tuman[[N]] tushishi mumkin[[VB]].
+
+Toshkent[[NER]], Samarqand[[NER]], Jizzax[[NER]] va[[C]] Sirdaryo[[NER]] viloyatlarida[[N]] havo[[N]] biroz[[RR]] bulutli[[JJ]] bo‘ladi[[VB]], ba’zi[[P]] joylarda[[N]] yomg‘ir[[N]] yog‘adi[[VB]], tuman[[N]] tushishi mumkin[[VB]].
+
+Qashqadaryo[[NER]] va[[C]] Surxondaryo viloyatlarida[[NER]] havo[[N]] biroz[[RR]] bulutli[[JJ]] bo‘ladi[[VB]], ba’zi[[P]] joylarda[[N]] yomg‘ir[[N]] yog‘adi[[VB]], tuman[[N]] tushishi mumkin[[VB]].
+
+Andijon[[NER]], Namangan[[NER]] va[[C]] Farg‘ona[[NER]] viloyatlarida[[N]] havo[[N]] biroz[[RR]] bulutli[[JJ]] bo‘ladi[[VB]], kechga[[RR]] tomon[[II]] ba’zi[[P]] joylarda[[N]] yomg‘ir[[N]] yog‘ishi[[N]] mumkin[[MD]].
+
+Respublikaning[[N]] tog‘li[[JJ]] hududlarida[[N]] havo[[N]] biroz[[RR]] bulutli[[JJ]] bo‘ladi[[VB]], vaqti-vaqti bilan[[RR]] yog‘ingarchilik[[N]] (yomg‘ir[[N]], qor[[N]]), ba’zi[[P]] joylarda[[N]] kuchli bo‘ladi[[VB]].
+
+Qoraqalpog‘iston Respublikasi[[NER]], Samarqand[[NER]] va[[C]] Toshkent[[NER]] viloyatlarida[[N]] qalbaki[[JJ]] aksiz[[N]] markali[[JJ]] alkogol[[N]] mahsulotlarini[[N]] muomalaga[[N]] kiritilishiga[[VB]] chek qo‘yildi[[VB]], deb xabar beradi[[VB]] Bosh prokuratura[[NER]] huzuridagi[[N]] departament[[N]].
+
+Ma’lum qilinishicha[[VB]], departament[[N]] hamda[[C]] DXXning[[NER]] Bulung‘ur[[NER]] tumani[[N]] bo‘limlari[[N]] tomonidan[[II]] tezkor[[JJ]] tadbirlar[[N]] o‘tkazilgan[[VB]].
+
+Tadbirlar[[N]] davomida[[II]] tumandagi[[N]] „O.I.[[NER]]“ va[[C]] „SH.H.[[NER]]“ MCHJlarga[[NER]] qarashli[[II]] savdo[[N]] do‘konlarida[[N]] har xil[[JJ]] turdagi[[N]] jami[[P]] 5 018[[NUM]] dona[[N]] qalbaki[[JJ]] aksiz[[N]] markali[[JJ]] iste’molga[[N]] yaroqsiz[[JJ]] alkogol[[N]] mahsulotlari[[N]] sotuvga[[N]] qo‘yilgani[[VB]] aniqlanib[[VB]], ashyoviy[[JJ]] dalil[[N]] sifatida[[N]] olingan[[VB]].
+
+Departamentning[[NER]] Qoraqalpog‘iston Respublikasi[[NER]] boshqarmasi[[N]] va[[C]] YHXB[[NER]] xodimlari[[N]] hamkorligida[[N]] o‘tkazilgan[[VB]] tezkor[[JJ]] tadbirda[[N]] Cobalt[[NER]] rusumli[[JJ]] avtotransport[[N]] vositasi[[N]] to‘xtatilib[[VB]] ko‘zdan kechirilganda[[IB]], fuqaro[[N]] U.Q.[[NER]]qo‘lbola[[JJ]] usulda[[N]] tayyorlangan[[VB]] 666[[NUM]] dona[[N]] qalbaki[[JJ]] aksiz[[N]] markali[[JJ]] alkogol[[N]] mahsulotini[[N]] Nukus shahrida[[NER]] sotish[[VB]] maqsadida[[N]] olib kelayotganligi[[VB]] aniqlangan[[VB]].
+
+Departamentning[[NER]] Qibray[[NER]] tuman[[N]] bo‘limi[[N]], IIB[[NER]] va[[C]] Soliq[[N]] inspeksiyasi[[N]] xodimlari[[N]] hamkorligida[[N]] o‘tkazilgan[[VB]] tezkor[[JJ]] tadbirda[[N]] tumandagi[[N]] „O[[NER]].“ MFY hududidagi[[NER]] xonadonlardan[[N]] birida[[NUM]] yashovchi[[VB]] R.Q.[[NER]] alkogol[[N]] va[[C]] tamaki[[N]] mahsulotlari[[N]] savdosi[[N]] bilan[[II]] shug‘ullanib kelayotgani[[VB]] aniqlanib[[VB]], uning[[P]] xonadonidan[[N]] 434[[NUM]] dona[[N]] qalbaki[[JJ]] aksiz[[N]] markali[[JJ]] alkogol[[N]] mahsuloti[[N]] ashyoviy[[JJ]] dalil[[N]] sifatida[[N]] olingan[[VB]].
+
+Mazkur[[JJ]] holatlar[[N]] yuzasidan[[II]] Jinoyat kodeksining[[NER]] 176-moddasi[[NER]] (qalbaki[[JJ]] pul[[N]], aksiz[[N]] markasi[[N]] yoki[[C]] qimmatli[[JJ]] qog‘ozlar[[N]] yasash[[VB]], ularni[[P]] o‘tkazish[[VB]]) va[[C]] 186-1-moddasi[[NER]] (etil[[N]] spirti[[N]], alkogolli[[JJ]] mahsulot[[N]] va[[C]] tamaki[[N]] mahsulotini[[N]] qonunga[[N]] xilof[[JJ]] ravishda[[N]] ishlab chiqarish[[VB]] yoki[[C]] muomalaga[[N]] kiritish[[VB]]) bilan[[II]] jinoyat ishlari[[NER]] qo‘zg‘atilib[[VB]], tergov[[N]] harakatlari[[N]] o‘tkazilmoqda[[VB]].
+
+„Xalqaro[[JJ]] shartnomani[[N]] tasdiqlash[[VB]] to‘g‘risida“gi[[II]] prezident[[N]] qarori[[N]] qabul qilindi[[VB]], deb[[II]] xabar beradi[[VB]] Telegram’dagi[[NER]] „Huquqiy axborot[[NER]]“ kanali[[N]].
+
+Qarorga[[N]] ko‘ra[[II]], O‘zbekiston[[NER]] va[[C]] Qatar[[NER]] davlati[[N]] hukumatlari[[N]] o‘rtasida[[II]] ishchilarni[[N]] ishga[[N]] qabul qilish[[VB]] bo‘yicha[[II]] hamkorlik[[N]] to‘g‘risidagi[[II]] bitim[[N]] tasdiqlandi[[VB]].
+
+Mazkur[[JJ]] bitim[[N]] 2023-yil[[NER]] 6-iyunda[[NER]] Samarqand shahrida[[NER]] imzolangan[[VB]].
+
+Sirdaryoda[[NER]] metan[[N]] zapravka[[N]] 62[[NUM]] milliard[[N]] 488[[NUM]] million[[N]] so‘mlik[[N]] tabiiy[[JJ]] gazdan[[N]] noqonuniy[[JJ]] foydalangani[[VB]] aniqlandi[[VB]].
+
+Bu[[P]] haqida[[II]] Energetika vazirligi[[NER]] matbuot xizmati[[NER]] xabar berdi[[VB]].
+
+Ma’lum qilinishicha[[VB]], bu[[P]] holat[[N]] vazirlik[[N]] huzuridagi[[N]] „O‘zenergoinspeksiya[[NER]]“ tomonidan[[II]] DXX[[NER]] va[[C]] IIV[[NER]] bilan[[II]] hamkorlikda[[N]] Sirdaryo[[NER]] viloyatida[[N]] joylashgan[[VB]] avtomobillarga[[N]] gaz[[N]] to‘ldirish[[VB]] kompressor[[N]] shoxobchasida[[N]] o‘tkazilgan[[VB]] nazorat[[N]] tadbiri[[N]] davomida[[II]] aniqlangan[[VB]].
+
+Boyovut tumanida[[NER]] joylashgan[[VB]] „B[[N]].“ MCHJga[[NER]] qarashli[[II]] AGTKSHga[[NER]] tortilgan[[VB]] gaz[[N]] quvuri[[N]] ko‘zdan kechirilganida[[VB]], gaz[[N]] hisoblagichdan[[VB]] oldin[[II]] yer[[N]] ostidan[[II]] shoxobcha[[N]] hududiga[[N]] gaz[[N]] quvuri[[N]] olib kirilib[[VB]], rezina[[JJ]] shlang[[N]] orqali[[II]] tabiiy[[JJ]] gazni[[N]] sotishga[[VB]] yo‘naltirilgan[[VB]] holda[[II]] undan[[P]] noqonuniy[[JJ]] foydalanib kelinayotgani[[VB]] ma’lum bo‘lgan[[VB]].
+
+Buning[[P]] natijasida[[N]] dastlabki[[RR]] hisob-kitoblarga[[N]] ko‘ra[[II]], davlat[[N]] manfaatlariga[[N]] yetkazilgan[[VB]] zarar[[N]] miqdori[[N]] jami[[P]] 62[[NUM]] milliard[[N]] 488[[NUM]] million[[N]] so‘mni[[N]] tashkil etgan[[VB]].
+
+Toshkent shahrida[[NER]] 2023-yil-dekabr[[NER]] oyida[[N]] uy-joy[[N]] ijara[[N]] narxlarida[[N]] tushish[[VB]] kuzatildi[[VB]].
+
+Bu[[P]] haqida[[II]] Makroiqtisodiy[[JJ]] va[[C]] hududiy[[JJ]] tadqiqotlar[[N]] instituti[[N]] xabar berdi[[VB]].
+
+Mutaxassislar[[N]] ijara[[N]] narxlari[[N]] to‘g‘risida[[II]] „olx.uz“[[NER]] saytidagi[[N]]-noyabr[[N]] va-[[C]] dekabr[[N]] oylari[[N]] uchun[[II]] 40[[NUM]] mingdan[[NUM]] ortiq[[JJ]] ma’lumotlarni[[N]] tahlil qilgan[[VB]] holda[[II]] shunday[[P]] xulosaga keldi[[VB]].
+
+Unga[[P]] ko‘ra[[II]], 2023-yilning[[NER]] so‘nggi[[JJ]] oyida[[N]] o‘rtacha[[RR]] ta’mirlangan[[VB]] xonadonlar[[N]] uchun[[II]] taklif etilgan[[VB]] ijara[[N]] narxlari-noyabr[[N]] oyiga[[N]] nisbatan[[II]] o‘rtacha[[RR]] 0,3[[NUM]] foizga[[N]] pasaydi[[VB]].
+
+Ushbu[[P]] guruhda[[N]] bir[[NUM]] xonali[[JJ]] xonadonlar[[N]] uchun[[II]] taklif etilgan[[VB]] ijara[[N]] narxlari-noyabr[[N]] oyiga[[N]] nisbatan[[II]] o‘rtacha[[RR]] 0,2[[NUM]] foizga[[N]] pasayib[[VB]], 400[[NUM]] dollarni[[N]] tashkil etgan[[VB]] bo‘lsa[[C]], ikki[[NUM]] xonali[[JJ]] xonadonlar[[N]] uchun[[II]] o‘rtacha[[RR]] ijara[[N]] narxlari[[N]] (443[[NUM]] dollar[[N]]) 1[[NUM]] foizga[[N]], uch[[NUM]] xonali[[JJ]] uylarning[[N]] ijara[[N]] narxlari[[N]] (515[[NUM]] dollar[[N]]) 0,7[[NUM]] foizga[[N]] arzonlagan[[VB]].
+
+To‘rt[[NUM]] xonali[[JJ]] uylarning[[N]] o‘rtacha[[RR]] ijara[[N]] narxlari[[N]] (594[[NUM]]dollar[[N]]) esa[[C]] 0,7[[NUM]] foizga[[N]] oshgan[[VB]].
+
+Xususan[[MD]], shahar[[N]] bo‘yicha[[II]] bir[[NUM]] xonali[[JJ]] uylar[[N]] uchun[[II]] o‘rtacha[[RR]] ijara[[N]] narxlari[[N]] (476[[NUM]] dollar[[N]]) 2[[NUM]] foizga[[N]] arzonlagan[[VB]] bo‘lsa[[C]], ikki[[NUM]] xonali[[JJ]] (653[[NUM]] dollar[[N]]) va[[C]] uch[[NUM]] xonali[[JJ]] (782[[NUM]] dollar[[N]]) uylar[[N]] uchun[[II]] ushbu[[P]] ko‘rsatkich[[N]] mos[[JJ]] ravishda[[N]] 0,3[[NUM]] foiz[[N]] va[[C]] 0,4[[NUM]] foizni[[N]] tashkil etgan[[VB]].
+
+Lekin[[C]], to‘rt[[NUM]] xonali[[JJ]] uylar[[N]] uchun[[II]] o‘rtacha[[RR]] ijara[[N]] narxlari[[N]] 0,9[[NUM]] foizga[[N]] qimmatlab[[JJ]], 915[[NUM]] dollarga[[N]] yetgan[[VB]].
+
+Toshkentda[[NER]] otasi[[N]] Ichki ishlar vazirligida[[NER]] ishlashini[[VB]] aytib[[VB]], bir necha[[RR]] yo‘l[[N]] harakati[[N]] qoidalarini[[N]] buzgan[[VB]] holda[[II]] avtomobil[[N]] boshqargan[[VB]] yigitning[[N]] onasi[[N]] javobgarlikka[[N]] tortildi[[VB]], deb xabar beradi[[VB]] IIV[[NER]] YHXX[[NER]] axborot[[N]] xizmati[[N]].
+
+Qayd etilishicha[[VB]], surishtiruvda[[VB]] ijtimoiy tarmoqlarda[[NER]] tarqalgan[[VB]] videodagi[[N]] shaxs[[N]] 2006-yilda[[NER]] tug‘ilgani[[VB]] aniqlanib[[VB]], yigit[[N]] va[[C]] uning[[P]] onasi[[N]] bilan[[II]] suhbat[[N]] uyushtirilgan[[VB]].
+
+Jarayonda[[N]] yigit[[N]] otasi[[N]] vazirlikda[[N]] emas[[VB]], balki[[C]] „O‘zdonmahsulot“ AJda[[NER]] ishlashi[[VB]], bu[[P]] gapni[[N]] video[[N]] olish[[VB]] uchungina[[II]] aytganini[[VB]] ta’kidlagan[[VB]].
+
+Yigit[[N]] o‘z[[P]] mashinasidan[[N]] tashqari[[II]] boshqa[[JJ]] fuqaroga[[N]] tegishli[[JJ]] Equinox[[NER]] avtomobilini[[N]] va yana[[RR]] boshqa[[JJ]] mashinalarni[[N]] ham[[Prt]] boshqargani[[VB]] aniqlangan[[VB]].
+
+Bu[[P]] holatlarda[[N]] bir nechta[[RR]] qoidabuzarliklarga[[N]] yo‘l qo‘yilgan[[IB]] va[[C]] ular[[P]] tasvirga[[N]] olinib[[VB]], ijtimoiy[[JJ]] tarmoqlarga[[N]] joylangan[[VB]].
+
+Yigit[[N]] boshqargan[[VB]] boshqa[[JJ]] shaxsga[[N]] tegishli[[JJ]] Equinox[[NER]] avtomobili[[N]] ham[[Prt]] topilib[[VB]], jarima[[N]] maydonchasiga[[N]] joylashtirilgan[[VB]].
+
+Yigitning[[N]] qilgan[[VB]] harakati[[N]] yuzasidan[[II]] uning[[P]] onasiga[[N]] nisbatan[[II]] Ma’muriy javobgarlik[[NER]] to‘g‘risidagi[[II]] kodeksning[[N]] 47-moddasi[[NER]] bo‘yicha[[II]] (bolalarni[[N]] tarbiyalash[[VB]] va[[C]] ularga[[P]] ta’lim berish[[VB]] borasidagi[[II]] majburiyatlarni[[N]] bajarmaslik[[VB]]) ma’muriy[[JJ]] bayonnoma[[N]] rasmiylashtirilgan[[VB]] va[[C]] BHMning[[N]] 5[[NUM]] baravari[[RR]] miqdorida[[N]] (1[[NUM]] million[[N]] 700[[NUM]] ming[[NUM]] so‘m[[N]]) jarima[[N]] belgilangan[[VB]].
+
+Avvalroq[[RR]] Namangan viloyatida[[NER]] voyaga yetmagan[[VB]] shaxs[[N]] otasining[[N]] Equinox[[NER]] avtomobilida[[N]] qator[[N]] qoidabuzarliklar[[N]] sodir etib[[VB]], YTHga[[NER]] uchragani[[VB]] to‘g‘risida[[II]] xabar berilgandi[[VB]].
+
+Toshkentda[[NER]] fuqaroning[[N]] omonat[[N]] hisob[[N]] raqamidagi[[N]] pullarni[[N]] yechib olgan[[VB]] shaxslar[[N]] qo‘lga olindi[[VB]], deb[[II]] xabar beradi[[VB]] poytaxt[[N]] IIBB[[NER]] axborot[[N]] xizmati[[N]].
+
+Qayd etilishicha[[VB]], fuqaro[[N]] IIBBga[[NER]] murojaat qilib[[VB]], omonat[[N]] hisob[[N]] raqamida[[N]] mavjud bo‘lgan[[VB]] 460[[NUM]] million[[N]] so‘m[[N]] pul[[N]] noma’lum[[JJ]] shaxslar[[N]] tomonidan[[II]] yechib olinganini[[VB]] bildirgan[[VB]].
+
+Murojaat[[N]] asosida[[N]] olib borilgan[[VB]] tadbirlar[[N]] davomida[[II]] jinoiy[[JJ]] guruh[[N]] a’zolari[[N]] jabrlanuvchining[[N]] shaxsiy[[JJ]] ma’lumotlarini[[N]] qo‘lga kiritgan[[IB]] holda[[II]] unga[[P]] tegishli[[JJ]] pullarni[[N]] mobil[[N]] ilovalar[[N]] orqali[[II]] yechib olgani[[VB]] aniqlanib[[VB]], jinoyatchilar[[N]] daliliy[[N]] ashyolar[[N]] bilan[[II]] qo‘lga olingan[[VB]].
+
+Hozirda[[RR]] mazkur[[JJ]] shaxslarga[[N]] nisbatan[[II]] Jinoyat kodeksining[[NER]] 169-moddasi[[NER]] (o‘g‘irlik[[N]]) bilan[[II]] jinoyat ishi[[N]] qo‘zg‘atilgan[[VB]].
+
+Shuningdek[[MD]], qo‘lga olingan[[VB]] shaxslarning[[N]] boshqa[[JJ]] jinoyatlarga[[N]] aloqadorligi[[N]] tekshirilmoqda[[VB]].
+
+Toshkent[[NER]] IIBB[[NER]] mazkur[[JJ]] fuqarolardan[[N]] jabr ko‘rganlar[[VB]] bo‘lsa[[C]], Toshkent shahar[[NER]] IIBB[[NER]] Axborot[[N]] texnologiyalar[[N]] sohasidagi[[N]] jinoyatlarga[[N]] qarshi kurashish[[VB]] boshqarmasining[[N]] telefon[[N]] raqamiga[[N]] (71 206 49 44)[[NUM]] qo‘ng‘iroq qilib[[VB]], ariza[[N]] berishni[[VB]] so‘ramoqda[[VB]].
+
+Bundan[[P]] oldin[[II]] Surxondaryo viloyatining[[NER]] Oltinsoy[[NER]] va[[C]] Termiz tumanlarida[[NER]] 11[[NUM]] milliard[[N]] so‘mdan[[N]] ortiq[[JJ]] kredit[[N]] mablag‘larini[[N]] o‘zlashtirgan[[VB]] MCHJ[[NER]] rahbarlari[[N]] aniqlangandi[[VB]].
+
+Shuningdek[[MD]], Surxondaryo[[NER]] va[[C]] Farg‘onada[[NER]] oilaviy[[JJ]] korxonalar[[N]] rahbarlari[[N]] 1,2[[NUM]] milliard[[N]] so‘mdan[[N]] ortiq[[JJ]] imtiyozli[[JJ]] kreditlarni[[N]] talon[[N]]-toroj qilgani[[VB]] to‘g‘risida[[II]] xabar berilgan edi[[VB]].
+
+„Mehridaryo[[NER]]“ loyihasiga[[N]] Farg‘ona viloyati[[NER]], Bog‘dod tumanida[[NER]] yashovni[[VB]] Nargiza Mamadaliyeva[[NER]] murojaat qilib[[VB]], ayni damda[[RR]] Hindistonda[[NER]] jarrohlik[[N]] amaliyotiga[[N]] tayyorlanayotgan[[VB]] turmush[[N]] o‘rtog‘i[[N]] Husniddin Mamadaliyev[[NER]] uchun[[II]] xalqdan[[N]] yordam so‘radi[[VB]].
+
+— Turmush[[N]] o‘rtog‘im[[N]] oxirgi[[JJ]] bir[[NUM]] yil[[N]] davomida[[II]] jigar[[N]] sirrozi[[N]] kasalligi[[N]] bilan[[II]] jiddiy[[JJ]] kurashdi[[VB]].
+
+Biz[[P]] bu[[P]] kasallikka[[N]] chalinganini[[VB]] bilganimizda[[VB]] tanasida[[N]] avj[[N]] olib ulgurgan[[VB]] ekan[[VB]].
+
+Faqatgina[[Prt]] qorni[[N]] va[[C]] oyoqlari[[N]] shishib[[VB]] belgi[[N]] berganidan[[VB]] keyingina[[RR]] bu[[P]] haqida[[II]] bildik[[VB]].
+
+Jigar[[N]] kasallansa[[VB]] og‘riq[[N]] bermas ekan[[VB]].
+
+Shifokorlar[[N]] oxiri[[RR]] davolash[[VB]] besamar[[JJ]] ekanini[[VB]], Hindistonga[[NER]] borib[[VB]] jigar[[N]] ko‘chirib[[VB]] o‘tish[[VB]] amaliyotini[[N]] qildirish[[VB]] kerakligini aytdi[[VB]].
+
+Uch[[NUM]] nafar[[N]] qizim[[N]] bor[[MD]], qishloq[[N]] sharoitidagi[[N]] oddiy[[JJ]] uyda[[N]] turamiz[[VB]].
+
+Turmush[[N]] o‘rtog‘imga[[N]] akasining[[N]] o‘g‘li[[N]] donar[[N]] bo‘ladigan[[VB]] bo‘ldi[[VB]], ular[[P]] ham[[Prt]] qo‘lidan kelgancha[[RR]] yordam beryapti[[VB]].
+
+Hatto[[Prt]], uyini[[N]] sotib[[VB]], biznikiga[[P]] ko‘chib o‘tdi[[VB]].
+
+Uyning[[N]] sotilgan[[VB]] 12[[NUM]] ming[[NUM]] AQSH[[NER]] dollar[[N]] pulini[[N]] olib[[VB]], tavakkal qilib[[VB]] Hindistonga[[NER]] ketishdi[[VB]].
+
+Ammo[[C]] bizga[[P]] 32[[NUM]] ming[[NUM]] AQSH[[NER]] dollari[[N]] kerakligini[[N]] aytishgan[[VB]].
+
+Qarz[[N]] so‘raydigan[[VB]] odamimiz[[N]] yo‘q[[MD]], buncha[[RR]] pulni[[N]] hech kim[[P]] berolmaydi[[VB]].
+
+Bir[[NUM]] donagina[[N]] uyimiz[[N]] bor[[MD]], uni[[P]] ham[[Prt]] sotsak[[VB]] bola-chaqa[[N]] bilan[[II]] ko‘chada[[N]] qolamiz[[VB]].
+
+Turmush[[N]] o‘rtog‘im[[N]] ham[[Prt]], donor[[N]] ham[[Prt]] operatsiyaga[[N]] tayyor[[JJ]].
+
+Ammo[[C]] mablag‘i[[N]] yetarli[[JJ]] bo‘lmagani[[VB]] uchun[[II]] shifokorlar[[N]] operatsiya[[N]] qilishmayapti[[VB]].
+
+Yaxshi[[JJ]] insonlar[[N]] sizlardan[[P]] o‘tinib so‘rayman[[VB]], qo‘lingizdan[[N]] kelgan[[VB]] moddiy[[JJ]] yordam bering[[VB]].
+
+Turmush[[N]] o‘rtog‘im[[N]] sog‘ayib[[VB]], hayotda[[N]] qaytishini[[VB]] xohlayman[[VB]], — deydi[[VB]] Nargiza Mamadaliyeva[[NER]].
+
+Bemor[[N]] Husniddin Mamadaliyevga[[NER]] xayriya[[N]] qilmoqchi bo‘lsangiz[[VB]],
+
+4073 4200 8167 0477[[NUM]] (Xusniddin Mamadaliyev[[NER]])
+
+Murojaat[[N]] uchun[[II]]: +998 90 851 12 81[[NUM]] Aftidan[[MD]], Vindzor[[NER]] aristokratiyasi[[N]] yuqumliga[[JJ]] o‘xshaydi[[VB]].
+
+Shahzoda Uilyamning[[NER]] rafiqasi[[N]] Britaniya[[NER]] monarxiyasi[[N]] uchun[[II]] „toza[[JJ]] havo[[N]]“ bo‘lishini[[VB]] kutganlar[[VB]] endi[[RR]] Uels malikasining[[NER]] ikkinchi[[NUM]] Yelizaveta[[NER]] obrazini[[N]] sinab ko‘rishini[[VB]] qayg‘u[[N]] va[[C]] afsus[[N]] bilan[[II]] kuzatishlari[[VB]] mumkin[[MD]].
+
+Ketrinning[[NER]] garderobi[[N]] tarkibi[[N]]-yil[[N]] sayin[[II]] qimmatlashmoqda[[VB]].
+
+2016-yilda[[NER]] Uilyamning[[NER]] rafiqasi[[N]] yangi[[JJ]] liboslar[[N]] uchun[[II]] 100[[NUM]] ming[[NUM]] funt[[N]] sarflagandi[[VB]].
+
+2017-yilda[[NER]] bu[[P]] miqdor[[N]] 119[[NUM]] mingga[[NUM]] oshgan[[VB]].
+
+2018-yilda[[NER]] Keyt-yilning[[NER]] ko‘p[[RR]] qismini[[N]] tug‘uruq[[N]] ta’tilida[[N]] o‘tkazdi[[VB]], ammo[[C]] u[[P]] omma[[N]] oldida[[II]] ko‘rinish bergan[[VB]] olti[[NUM]] oy[[N]] davomida[[II]] kiyim-kechaklariga[[N]] 75[[NUM]] ming[[NUM]] funt sterling[[N]] sarflandi[[VB]].
+
+Brendlar[[N]] ham[[Prt]] o‘zgardi[[VB]]: mahalliy[[JJ]] modaning[[N]] taniqli[[JJ]] vakillari[[N]] bilan[[II]] bir qatorda[[RR]] Keyt[[NER]] Dolce&Gabbana[[NER]] va[[C]] Chanel[[NER]] kabi[[II]] hashamatli[[JJ]] xorijiy[[JJ]] brendlardan[[N]] faol[[JJ]] xarid[[N]] qila boshladi[[VB]].
+
+Mavzuga[[N]] doir[[II]]: Million[[N]] dollarlik[[N]] garderob[[N]]: gersoginya[[N]] Keyt Middltonning[[NER]] eng[[RR]] qimmat[[JJ]] liboslari[[N]].
+
+Deyarli[[RR]] cheksiz[[JJ]] moddiy[[JJ]] imkoniyatlarga[[N]] qaramay[[II]], Uels malikasining[[NER]] liboslari[[N]] juda[[RR]] zerikarli[[JJ]] va[[C]] rasmiy[[JJ]] bo‘lib qolmoqda[[VB]].
+
+Deyarli[[RR]] o‘n[[NUM]]-yil[[N]] davomida[[II]] Ketrin[[NER]] kutilmagan[[VB]] ko‘ylaklarda[[N]] o‘zini[[P]] ko‘rsatish[[VB]] imkoniyati[[N]] bo‘lgan[[VB]] holatlar[[N]] barmoq[[N]] bilan[[II]] sanarli[[JJ]].
+
+Uning[[P]] tanlaydigan[[VB]] liboslarini[[N]] oldindan[[RR]] aytish mumkin[[VB]], ammo[[C]] u[[P]] bunchalik[[RR]] konservativ[[JJ]] bo‘lish[[VB]] uchun[[II]] hali[[RR]] juda[[RR]] yosh[[JJ]].
+
+Xuddi[[Prt]] shu[[P]] narsa[[N]] aksessuarlar[[N]] va[[C]] poyabzallarga[[N]] ham[[Prt]] tegishli[[JJ]].
+
+Gap[[N]] shundaki[[P]], Ketrin[[NER]] marhum[[N]] qirolichadan[[N]] juda[[RR]] minnatdor[[N]] va[[C]] ko‘p-yillar[[RR]] oldin[[II]] o‘zi[[P]] imzolagan[[VB]] „o‘yin[[N]] qoidalari“ni[[N]] chuqur[[JJ]] hurmat qiladi[[VB]].
+
+Mashhur[[JJ]] qaynonasidan[[N]] farqli o‘laroq[[II]], Uels malikasi[[NER]] erini[[N]] moda[[N]] liboslari[[N]] va[[C]] fotosessiyalar[[N]] bilan[[II]] ortda[[II]] qoldirishni[[VB]] xayoliga ham keltirmaydi[[IB]].
+
+Uning[[P]] liboslari[[N]] qirollik[[N]] uslubiga[[N]] hurmat[[N]] — benuqson[[JJ]] va[[C]] ehtiyotkor[[JJ]].
+
+Zamonaviy[[JJ]] moda[[N]] bu yondashuvga[[VB]] javob berishni[[VB]] istamaydi[[VB]], u[[P]] yulduz[[N]] emas[[VB]], balki[[C]] qirolicha[[N]] bo‘lmoqchiligini[[N]] tushunish[[VB]] mumkin[[MD]].
+
+Mavzuga[[N]] doir[[II]]: Oltin[[JJ]] qafas[[N]] ichidagi[[II]] hayot[[N]]: Uels malikasi[[NER]] Keyt Middltonga[[NER]] taqiqlangan[[VB]] 10 ta[[NUM]] narsa[[N]].
+
+Ketrinning[[NER]] yagona[[JJ]] qiziqishi[[VB]] zargarlik[[N]] buyumlari[[N]] hisoblanadi[[VB]] — eksklyuziv[[JJ]], yuqori[[JJ]] sifatli[[JJ]] va[[C]], albatta[[MD]], nihoyatda[[RR]] qimmatbaho[[JJ]].
+
+Aynan[[RR]] shunday[[P]] namunalar[[N]] kelajakda[[N]] „qirolicha[[N]] Yekaterina[[NER]] kolleksiyasidan[[N]]“ nomi[[N]] bilan[[II]] avloddan-avlodga[[N]] o‘tishi[[VB]] ham[[Prt]] mumkin[[MD]].
+
+Mavzuga[[N]] doir[[II]]: Rekord[[N]] darajadagi[[N]] summa[[N]]: Uels malikasi[[NER]] Keyt Middlton[[NER]] 2022-yilda[[NER]] garderobiga[[N]] qancha[[P]] pul[[N]] sarfladi[[VB]]?
+
+Farzandlar[[N]] Uels[[NER]] shahzodasi[[N]] va[[C]] malikasi[[N]] Britaniya[[NER]] monarxlarining[[N]] yangi[[JJ]] avlodini[[N]] tarbiyalayotganliklarini[[VB]] yaxshi biladi[[VB]].
+
+Kichik Jorj[[NER]], Sharlotta[[NER]] va[[C]] Lui[[NER]] anchadan beri[[RR]] jamoatchilik[[N]] fikrini[[N]] manipulyatsiya[[N]] qilish[[VB]] vositasi[[N]] bo‘lib kelgan[[VB]].
+
+Ular[[P]] nafaqat[[Prt]] Buyuk Britaniyada[[NER]], balki[[C]] butun[[JJ]] dunyoda[[N]] seviladi[[VB]] va[[C]] hurmat qilinadi[[VB]] — ikkita[[NUM]] katta[[JJ]] farzand[[N]] strategik[[JJ]] ahamiyatga[[N]] ega[[JJ]] qirollik[[N]] sayohatlarida[[N]] bir necha bor[[RR]] ota-onalariga[[N]] hamroh[[N]] bo‘lishlari[[VB]] bejiz emas[[VB]].
+
+Mavzuga[[N]] doir[[II]]: „Zaxira[[NER]]“ farzand[[N]], to‘rttagacha[[NUM]] ism[[N]], maxsus[[JJ]] agent[[N]] sifatida[[N]] ishlashi[[VB]] mumkin bo‘lgan[[VB]] enagalar[[N]] — Qirollik[[N]] merosxo‘rlarining[[N]] tug‘ilishi[[VB]] va[[C]] tarbiyasi[[N]] bilan[[II]] bog‘liq[[JJ]] eng[[RR]] noodatiy[[JJ]] an’analar[[N]] Shunday qilib[[MD]], ular[[P]] so‘nggi[[JJ]] bir necha[[RR]] o‘n[[NUM]]yilliklarda[[NUM]] o‘zlarini[[P]] ikki[[NUM]] farzand[[N]] bilan[[II]] cheklamagan[[VB]] birinchi[[NUM]] Vindzor[[NER]] juftligiga[[N]] aylandi[[VB]].
+
+Bundan[[P]] tashqari[[II]], ularning[[P]] bolalari[[N]] bir kun[[RR]] kelib[[VB]] to‘rtta[[NUM]] bo‘ladi[[VB]], deb[[II]] ishonish[[VB]] uchun[[II]] barcha[[P]] asoslar[[N]] bor[[MD]], chunki[[C]] Yelizaveta[[NER]] va[[C]] Filippning[[NER]] ham[[Prt]] farzandlari[[N]] 4 ta[[NUM]] bo‘lgan[[VB]].
+
+Mavzuga[[N]] doir[[II]]: Bo‘lajak[[JJ]] qirollar[[N]] qanday[[P]] tarbiyalanadi[[VB]]? Shahzoda[[N]] Jorj[[NER]] va[[C]] Lui[[NER]], malika Sharlottaga[[NER]] qilish[[VB]] mumkin[[MD]] va[[C]] mumkin[[MD]] bo‘lmagan[[VB]] ishlar[[N]] Mubolag‘asiz[[JJ]], Jorj[[NER]], Sharlotta[[NER]] va[[C]] Lui[[NER]] Buyuk Britaniyadagi[[NER]] eng[[RR]] mashhur[[JJ]] bolalardir[[VB]].
+
+Hatto[[Prt]] skeptiklar[[N]] ham[[Prt]] ularning[[P]] jamoatchilik[[N]] ongiga[[N]] ta’siriga[[N]] shubha qilmaydi[[IB]].
+
+Agar[[C]] ularning[[P]] sevimli[[JJ]] o‘yinchog‘i[[N]] tasodifan[[RR]] kadrga[[N]] tushib qolsa[[VB]], u[[P]] bir necha[[RR]] daqiqada[[N]] aniqlanadi[[VB]] va[[C]] xuddi[[Prt]] shunday[[P]] tezlikda[[N]] sotiladi[[VB]].
+
+Xuddi[[Prt]] shu[[P]] narsa[[N]] bolalar[[N]] kiyimlariga[[N]] ham[[Prt]] tegishli[[JJ]]: Ketrin[[NER]] farzandlarini[[N]] ataylab[[RR]] bir xil[[RR]] kiyimda[[N]] kiyintirishga[[VB]] qaror qilgani[[VB]] bejiz emas[[VB]].
+
+Shahzodalar[[N]] Jorj[[NER]] va[[C]] Lui[[NER]] kiygan[[VB]] shorti[[N]] va[[C]] ko‘ylak[[N]], malika[[N]] Sharlotta[[NER]] sochidagi[[N]] bantigidan[[N]] tortib[[VB]] ko‘ylagigacha[[N]] — bularning[[P]] barchasi[[P]] XX[[NUM]] asrning[[N]] birinchi[[NUM]] yarmidagi[[NUM]] bolalar[[N]] modasini[[N]] yodga soladi[[VB]].
+
+Mavzuga[[N]] doir[[II]]: Keyt Middltonning[[NER]] qizi[[N]] — malika[[N]] Sharlotta[[NER]] qanday qilib[[VB]] puli[[N]] bo‘lmay[[VB]] turib[[VB]], dunyodagi[[N]] eng[[RR]] badavlat[[JJ]] bolaga[[N]] aylandi[[VB]]? 
+
+Qanchalik[[RR]] bema’ni[[JJ]] tuyulmasin[[VB]], ularning[[P]] farzandlari[[N]] nafaqat[[Prt]] ota-onalarining[[N]] quvonchi[[N]], balki[[C]] kelajakda[[N]] qirollikka[[N]] xizmat qilishlari[[VB]] uchun[[II]] ham[[Prt]] tarbiyalanadi[[VB]].
+
+Vindzorlar[[NER]] uslubidagi[[JJ]] konservativ[[JJ]] tarbiya[[N]] elektron[[JJ]] qurilmalardan[[VB]] foydalanishni[[VB]] cheklaydi[[VB]] va[[C]] jamoat[[N]] joylarida[[N]] jahl[[N]] qilishni[[VB]] taqiqlaydi[[VB]].
+
+Hatto[[Prt]] jamoat[[N]] oldida[[II]] Kembrij[[NER]] gersoglari[[N]] va[[C]] ularning[[P]] bolalari[[N]] faqat[[Prt]] protokol[[N]] talablariga[[N]] muvofiq[[II]] ko‘rinish beradi[[VB]]: unga[[P]] ko‘ra[[II]] Jorj[[NER]] har doim[[RR]] otasining[[N]], Sharlotta[[NER]] va[[C]] Lui[[NER]] esa[[C]] onasining[[N]] qo‘lini[[N]] ushlab turishi[[VB]] kerak[[MD]].
+
+Mavzuga[[N]] doir[[II]]: Qat’iy[[JJ]] qoida[[N]]: nega[[P]] Keyt Middltonning[[NER]] farzandlariga[[N]] ota-onasi[[N]] bilan[[II]] birga[[RR]] ovqatlanish[[VB]] taqiqlangan[[VB]]?
+
+O‘zini tutishi[[IB]] Ketrin[[NER]] hammaga[[P]] marhum[[N]] qaynonasi[[N]] kabi[[II]] beparvo[[JJ]] va[[C]] kibrli[[JJ]] bo‘lishdan[[VB]] yiroq[[JJ]] ekanligini[[N]] ko‘rsata oldi[[VB]].
+
+Uning[[P]] kelib chiqishi[[VB]] unga[[P]] yanada[[RR]] katta[[JJ]] mas’uliyat[[N]] yuklaydi[[VB]] va[[C]] agar[[C]] malika[[N]] Dianaga[[NER]] doimo[[RR]] bo‘lajak[[JJ]] qirolning[[N]] onasi[[N]] ekanligini[[N]] eslatib turishi[[VB]] kerak bo‘lsa[[VB]], Uels[[NER]] malikasi[[N]] buni[[P]] hech kim[[P]] aytmasa[[VB]] ham[[Prt]] yaxshi[[JJ]] uddalaydi[[VB]].
+
+Mavzuga[[N]] doir[[II]]: „Atrofdagilarning[[N]] gap-so‘zlari[[N]] e’tibor berishingizga[[IB]] arzimaydi[[VB]]“.
+
+Uels[[NER]] malikasi[[N]] Keyt Middlton[[NER]] kamsitilishlar[[N]] bilan[[II]] qanday[[P]] kurashgani[[VB]] haqida[[II]] Ketrinning[[NER]] aslzodalarga[[N]] xos[[JJ]] o‘zini tutishi[[IB]] 2017-yilda[[NER]] Sandrigemdagi[[NER]] qirollik[[N]] oilasining[[N]] Rojdestvo[[NER]] bayramida[[N]] saroydagi[[N]] hayoti[[N]] davomida[[II]] qirollik[[N]] protokoli[[N]] bilan[[II]] kurashgan[[VB]] shahzoda Garrining[[NER]] amerikalik[[N]] qallig‘i[[N]] Megan Markl[[NER]] bilan[[II]] birinchi[[NUM]] marta[[N]] omma[[N]] oldida[[II]] chiqish qilganida[[ VB]] yaqqol[[RR]] namoyon bo‘ldi[[VB]].
+
+Aslida[[MD]] Keyt[[NER]] va[[C]] Meganning[[NER]] kelib chiqishi[[VB]] deyarli[[RR]] bir[[NUM]] xil[[N]], lekin[[C]] Uels[[NER]] malikasi[[N]] cherkovdan[[N]] chiqayotganda[[VB]] bo‘lajak[[JJ]] ovsiniga[[N]] bergan[[VB]] bir nechta[[RR]] do‘stona[[RR]] maslahatlardan[[N]] tashqari[[II]], Uilyamning[[NER]] rafiqasi[[N]] ularni[[P]] solishtirish[[VB]] uchun[[II]] atrofdagilarga[[N]] hech qanday[[P]] imkon[[N]] qoldirmadi[[VB]].
+
+Bir[[NUM]]-yil[[N]] o‘tib[[VB]], 2018-yil[[NER]] 25-dekabrda[[NER]] Ketrin[[NER]] va[[C]] Megan[[NER]] o‘rtasidagi[[II]] kontrast[[N]] yanada[[RR]] sezildi[[VB]].
+
+Uels[[NER]] malikasi[[N]] aslzoda[[JJ]] zodagon[[N]] va[[C]] bo‘lajak[[JJ]] qirolichaga[[N]], Sasseks[[NER]] gersoginyasi[[N]] esa[[C]] oddiy[[JJ]] qizga[[N]] o‘xshardi[[VB]].
+
+Megan[[NER]] bundan[[P]] xijolat bo‘lib[[VB]], Ketrindan[[NER]] unga[[P]] yordam berishini[[VB]] va[[C]] tadbir[[N]] muhitini[[N]] biroz[[RR]] yengillashtirishini[[VB]] juda[[RR]] xohlaydi[[VB]].
+
+Ammo[[C]] gap[[N]] shundaki[[P]], Uels[[NER]] malikasi[[N]] qirollik[[N]] protokolini[[N]] biladi[[VB]] va[[C]] ehtimol[[MD]] bu[[P]] ba’zilar[[JJ]] uchun[[II]] bema’ni[[JJ]] bo‘lib tuyulishi[[VB]] mumkin[[MD]], ammo[[C]] Megandan[[NER]] farqli o‘laroq[[II]] – Ketrin[[NER]] dugonalarga[[N]] muhtoj emas[[VB]].
+
+Ehtimol[[MD]] shu[[P]] sababdan[[N]] u[[P]] Meganni[[NER]] o‘ziga[[P]] yaqin olib[[VB]], do‘stlashib[[VB]] ketmagan[[VB]].
+
+Mavzuga[[N]] doir[[II]]: „Quchoqlamoqchi[[VB]] bo‘lganimda[[VB]] ular[[P]] o‘zlarini[[P]] juda[[RR]] sovuqqon[[JJ]] tutgan[[VB]]“.
+
+Megan Markl[[NER]] shahzoda[[N]] Uilyam[[NER]] va[[C]] Keyt Middlton[[NER]] u[[P]] bilan[[II]] qanday[[P]] tanishgani[[VB]] haqida[[II]] Yunusabad Residence[[NER]] turar[[JJ]] joy[[N]] majmuasi[[N]] Toshkentdagi[[NER]] zamonaviy[[JJ]] standartlar[[N]] asosida[[N]] qurilgan[[VB]] va[[C]] kelajakka[[N]]yo‘naltirilgan[[VB]] premium[[JJ]] rezidensiyadir[[N]].
+
+Aholiga[[N]] maksimal[[JJ]] darajada[[N]] qulaylik[[N]] yaratish[[VB]] va[[C]] ularning[[P]] hayot[[N]] sifatini[[N]] yaxshilash[[VB]] maqsadida[[N]] turar-joy[[N]] majmuasi[[N]] atrofida[[II]] qulay[[JJ]] infratuzilmani[[N]] yaratishga[[VB]] alohida[[JJ]] e’tibor qaratilgan[[VB]].
+
+Toshkentning[[NER]] Yunusobod tumanida[[NER]] joylashgan bo‘lib[[VB]], 38 m[[NUM]]² dan[[NUM]] 126 m[[NUM]]² gacha bo‘lgan[[VB]] premium[[JJ]] xonadonlar[[N]] va[[C]] 85 ta[[NUM]] kottejlarni[[N]], savdo[[N]] va[[C]] biznes[[N]] markazi[[N]], ochiq[[JJ]] va[[C]] yopiq[[JJ]] bolalar[[N]] maydonchasi[[N]], kafe[[N]], basseyn[[N]], sport[[N]] zali[[N]], kinoteatr[[N]], SPA[[NER]], alohida[[JJ]] avtoturargoh[[N]] va[[C]] elektrokarlarni[[N]] quvvatlash[[VB]] punktlarini[[N]] o‘z[[P]] ichiga oladi[[IB]].
+
+Majmua[[N]] shaharning[[N]] baland[[JJ]] nuqtalaridan[[N]] birida[[NUM]] joylashgan bo‘lib[[VB]], uning[[P]] atrofidagi[[II]] hududning[[N]] ajoyib[[JJ]] manzaralari[[N]] ochiladi[[VB]].
+
+Hozirda[[RR]] boshlang‘ich[[JJ]] to‘lovsiz[[JJ]] bo‘lib[[VB]] to‘lash[[VB]] sharti[[N]] bilan[[II]] xonadon[[N]] egasiga[[N]] aylanishingiz[[VB]] mumkin[[MD]].
+
+Naqd[[JJ]] va[[C]] kreditga[[N]] xarid qiladiganlar[[VB]] uchun[[II]] esa[[C]] 7[[NUM]] foiz[[N]] chegirma[[N]] mavjud[[N]]!
+
+Shoshiling[[VB]] taklif[[N]] cheklangan[[VB]]!
+
+To‘liq[[JJ]] ma’lumot[[N]] olish[[VB]] uchun[[II]] biz[[P]] bilan[[II]] bog‘laning[[VB]] AQSh[[NER]] va[[C]] Buyuk Britaniya[[NER]] Yamandagi[[NER]] husiy[[N]] ob’ektlariga[[N]] zarbalar berdi[[IB]].
+
+CNN[[NER]] ma’lumotlariga[[N]] ko‘ra[[II]], AQSh[[NER]] zarbalar[[N]] uchun[[II]] Tomahawk[[NER]] bombardimonchi[[N]] samolyotlari[[N]] va[[C]] qanotli[[JJ]] raketalardan[[N]] foydalanmoqda[[VB]].
+
+Yaman[[NER]] husiylari[[N]] vakili[[N]] AQSh[[NER]] va[[C]] Britaniya[[NER]] zarbalari[[N]] Yaman[[NER]] poytaxti[[N]] hamda[[C]] Xodeyda[[NER]], Saada[[NER]] va[[C]] Dhamar[[NER]] shaharlariga[[N]] berilganini[[VB]] ma’lum qildi[[VB]], deb yozadi[[VB]] The Guardian[[NER]].
+
+AQSh[[NER]] rasmiysining[[JJ]] CNN[[NER]] telekanaliga[[N]] aytishicha[[VB]], AQSh[[NER]] va[[C]] Buyuk Britaniya[[NER]] husiylarning[[N]] o‘ndan[[NUM]] ortiq[[JJ]] nishonlariga[[N]] zarbalar[[N]] bergan[[VB]].
+
+The Guardian[[NER]], The Times[[NER]] va[[C]] WSJ[[NER]] nashrlari[[N]] xabariga[[N]] ko‘ra[[II]], Vashington[[NER]] va[[C]] London[[NER]] bunday[[P]] operatsiya[[N]] to‘g‘risidagi[[II]] qarorni[[N]] Qizil dengizdan[[NER]] o‘tayotgan[[VB]] kemalarga[[N]] Eron[[NER]] tomonidan[[II]] qo‘llab-quvvatlangan[[VB]] husiylarning[[N]] davomli[[JJ]] hujumlari[[N]] sabab[[N]] qabul qilgan[[VB]].
+
+Zarbalar[[N]] boshlanganidan[[VB]] taxminan[[RR]] bir[[NUM]] soat[[N]] o‘tib[[VB]], AQSh prezidenti Jo Bayden[[NER]] bayonot[[N]] bilan[[II]] chiqdi[[VB]].
+
+AQSh[[NER]] Markaziy[[JJ]] qo‘mondonligining[[N]] ta’kidlashicha[[VB]], AQSh[[NER]] aviatashuvchilari[[N]] Britaniya[[NER]] esminetsi[[N]] bilan[[II]] birga[[RR]] 18 ta[[NUM]] dron[[N]], ikkita[[NUM]] kemaga[[N]] qarshi[[II]] qanotli[[JJ]] raketa[[N]] va[[C]] bitta[[NUM]] kemaga[[N]] qarshi[[II]] ballistik[[JJ]] raketani[[N]] urib tushirgan[[VB]].
+
+„Aql bovar qilmas[[IB]] Rojdestvo[[NER]]“ (Germaniya[[NER]], 2007[[NUM]])
+
+Li Xe Yon[[NER]] eri[[N]] bilan[[II]] ajrashadi[[VB]] va[[C]] darhol[[RR]] Kang Ji Xo[[NER]] bilan[[II]] tanishadi[[VB]].
+
+Toshkent shahar hokimligi[[NER]] rekonstruksiya[[N]] davrida[[N]] „Qo‘yliq[[NER]]“da[[Prt]] ish[[N]] olib borayotgan[[VB]] savdogarlarga[[N]] yangi[[JJ]] qurilgan[[VB]] Food City[[NER]] bozori[[N]] yoki[[C]] Tashkent[[NER]] Index’ga[[NER]] ko‘chishni[[VB]] tavsiya qilgan[[VB]].
+
+Tadbirlar[[N]] davomida[[II]] tumandagi[[N]] „O.I.“[[NER]] va[[C]] „Sh.H[[NER]].“ MChJlarga[[NER]] qarashli[[II]] savdo[[N]] do‘konlarida[[N]] har xil[[JJ]] turdagi[[N]] jami[[P]] 5 018[[NUM]] dona[[N]] qalbaki[[JJ]] aksiz[[N]] markali[[JJ]] iste’molga[[N]] yaroqsiz[[JJ]] alkogol[[N]] mahsulotlari[[N]] sotuvga[[N]] qo‘yilgani[[VB]] aniqlanib[[VB]], ashyoviy[[JJ]] dalil[[N]] sifatida[[N]] olingan[[VB]].
+
+Boyovut tumanida[[NER]] joylashgan[[VB]] „B[[N]].“ MChJga[[NER]] qarashli[[II]] AGTKShga[[NER]] tortilgan[[VB]] gaz[[N]] quvuri[[N]] ko‘zdan kechirilganida[[VB]], gaz[[N]] hisoblagichdan[[VB]] oldin[[II]] yer[[N]] ostidan[[II]] shoxobcha[[N]] hududiga[[N]] gaz[[N]] quvuri[[N]] olib kirilib[[VB]], rezina[[JJ]] shlang[[N]] orqali[[II]] tabiiy[[JJ]] gazni[[N]] sotishga[[VB]] yo‘naltirilgan[[VB]] holda[[II]] undan[[P]] noqonuniy[[JJ]] foydalanib kelinayotgani[[VB]] ma’lum bo‘lgan[[VB]].
+
+Bundan[[P]] oldin[[II]] Surxondaryo viloyatining[[NER]] Oltinsoy[[NER]] va[[C]] Termiz tumanlarida[[NER]] 11[[NUM]] milliard[[N]] so‘mdan[[N]] ortiq[[JJ]] kredit[[N]] mablag‘larini[[N]] o‘zlashtirgan[[VB]] MChJ[[NER]] rahbarlari[[N]] aniqlangandi[[VB]].
+
+Uyning[[N]] sotilgan[[VB]] 12[[NUM]] ming[[NUM]] AQSh[[NER]] dollar[[N]] pulini[[N]] olib[[VB]], tavakkal qilib[[VB]] Hindistonga[[NER]] ketishdi[[VB]].
+
+Ammo[[C]] bizga[[P]] 32[[NUM]] ming[[NUM]] AQSh[[NER]] dollari[[N]] kerakligini[[N]] aytishgan[[VB]].
+
+Xuddi[[Prt]] shu[[P]] narsa[[N]] aksessuarlar[[N]] va[[C]] poyabzallarga[[N]] ham[[Prt]] tegishli[[JJ]].
+
+Kichik Jorj[[NER]], Sharlotta[[NER]] va[[C]] Lui[[NER]] anchadan beri[[RR]] jamoatchilik[[N]] fikrini[[N]] manipulyasiya[[N]] qilish[[VB]] vositasi[[N]] bo‘lib kelgan[[VB]].
+
+Megan[[NER]] bundan[[P]] xijolat bo‘lib[[VB]], Ketrindan[[NER]] unga[[P]] yordam berishini[[VB]] va[[C]] tadbir[[N]] muhitini[[N]] biroz[[RR]] yengillashtirishini[[VB]] juda[[RR]] xohlaydi[[VB]].
+
+AQSH[[NER]] Rossiya[[NER]] aktivlarini[[N]] musodara qilgan[[VB]] taqdirda[[N]] oqibatlarga[[N]] duch keladi[[IB]].
+
+Jumladan[[MD]], qarorni[[N]] qo‘llab-quvvatlash[[VB]] AQSHning[[NER]] moliyaviy[[JJ]] nufuzi[[N]] va[[C]] xalqaro[[JJ]] investorlarning[[N]] unga[[P]] bo‘lgan[[VB]] ishonchini[[N]] susaytirishga[[VB]] qaratilgan[[VB]] qadam[[N]] ekanini aytdi[[VB]].
+
+Peskov[[NER]] bu[[P]] borada[[II]] AQSH[[NER]] Moskvani[[NER]] xabardor qilmagani[[VB]], Vashington[[NER]] bilan[[II]] aloqa[[N]] kanallari[[N]] deyarli[[RR]] yo‘qligini[[N]] ta’kidladi[[VB]].
+
+Hukumat[[N]] qarori[[N]] (468-son[[NER]], 22.08.2022-y[[NER]].) bilan[[II]] Boshqa[[JJ]] shaxsga[[N]] o‘tkazish[[VB]] taqiqlab[[VB]] yoki[[C]] xatlab[[VB]] qo‘yilgan[[VB]] mol-mulklar[[N]] elektron[[JJ]] ma’lumotlar[[N]] bankini[[N]] shakllantirish[[VB]], yuritish[[VB]] va[[C]] undan[[P]] foydalanish[[VB]] to‘g‘risidagi[[II]] nizom[[N]] tasdiqlandi[[VB]].
+
+Qarorga[[N]] ko‘ra[[II]], 2022-yil[[NER]] 1-oktyabrdan[[NER]] „Notarius[[NER]]“ avtomatlashtirilgan[[VB]] axborot[[N]] tizimida[[N]] mol-mulkni[[N]] boshqa[[JJ]] shaxsga[[N]] o‘tkazish[[VB]] taqiqlab[[VB]] (xatlab[[VB]]) qo‘yilganligi[[VB]], shuningdek[[MD]], taqiqlab[[VB]] (xatlab[[VB]]) qo‘yish[[VB]] bekor qilinganligi[[IB]] to‘g‘risidagi[[II]] elektron[[JJ]] ma’lumotlar[[N]] banki[[N]] joriy etiladi[[VB]].
+
+Ma’lumotlarni[[N]] elektron[[JJ]] ma’lumotlar[[N]] bankiga[[N]] kiritishda[[VB]]:
+
+Notarius[[N]] elektron[[JJ]] ma’lumotlar[[N]] banki[[N]] orqali[[II]] mol-mulkni[[N]] boshqa[[JJ]] shaxsga[[N]] o‘tkazishni[[VB]] taqiqlab qo‘yishi[[VB]] va[[C]] taqiqni[[N]] bekor qilishi[[IB]] mumkin[[MD]].
+
+Mol-mulkni[[N]] boshqa[[JJ]] shaxsga[[N]] o‘tkazishni[[VB]] taqiqlab[[VB]] yoki[[C]] xatlab[[VB]] qo‘yish[[VB]], shuningdek[[MD]], uni[[P]] bekor qilishda[[IB]] to‘lov[[N]] undirilmaydi[[VB]].
+
+Murojaatga[[N]] asosan[[MD]] elektron[[JJ]] ma’lumotlar[[N]] bankida[[N]] mavjud[[N]] ma’lumotlar[[N]] notarius[[N]] va[[C]] (yoki[[C]]) notarial[[JJ]] arxiv[[N]] mudiri[[N]] tomonidan[[II]] to‘g‘ridan-to‘g‘ri[[RR]] yoki[[C]] YAIDXP[[NER]] (my.gov.uz)[[NER]] orqali[[II]] yoxud[[C]] E-notarius.uz axborot[[NER]] portali[[N]] orqali[[II]] taqdim etiladi[[VB]].
+
+„Qoraqalpog‘iston Respublikasi[[NER]] aholisini[[N]] ijtimoiy[[JJ]] qo‘llab-quvvatlash[[VB]] hamda[[C]] jismoniy[[JJ]] shaxslar[[N]] tomonidan[[II]] qurilgan[[VB]] uy-joylarga[[N]] bo‘lgan[[VB]] huquqlarni[[N]] e’tirof etish[[VB]] to‘g‘risida“gi[[II]] prezident[[N]] farmoni[[N]] qabul qilindi[[VB]].
+
+Farmonga[[N]] ko‘ra[[II]], Qoraqalpog‘iston Respublikasi[[NER]] hududida[[N]] fuqarolarning[[N]] huquq[[N]] belgilovchi[[VB]] hujjatlarsiz[[N]] qurilgan[[VB]] uy-joylari[[N]] joylashgan[[VB]] yer[[N]] uchastkasiga[[N]] ijara[[N]] huquqi[[N]], unda[[P]] joylashgan[[VB]] bino[[N]] va[[C]] inshootlarga[[N]] mulk[[N]] huquqi[[N]] e’tirof etiladi[[VB]].
+
+Jumladan[[MD]], buning[[P]] uchun[[II]] fuqaro[[N]] ushbu[[P]] uy-joydan[[N]] 2018-yil[[NER]] 1-maygacha[[NER]] bo‘lgan[[VB]] davrdan[[N]] boshlab[[II]] o‘ziniki[[P]] kabi[[II]] halol[[JJ]], oshkora[[JJ]] va[[C]] uzluksiz[[RR]] foydalangan[[VB]] bo‘lishi[[VB]], ushbu[[P]] holat[[N]] kosmik[[JJ]] suratlarni[[N]] qayta ishlash[[VB]] orqali[[II]] hamda[[C]] so‘nggi[[JJ]] 5-yil[[NER]] uchun[[II]] yer[[N]] solig‘cWId74057Ⅎ2Ⅎ[[NER]] mol-mulk[[N]] solig‘i[[N]] to‘langanligi[[VB]] bilan[[II]] tasdiqlangan bo‘lishi[[VB]] lozim[[MD]].
+
+Huquqlarni[[N]] e’tirof etish[[VB]] xalq[[N]] deputatlari[[N]] tuman[[N]] (shahar[[N]]) kengashlarining[[N]] qarorlari[[N]] bilan[[II]] tasdiqlanadigan[[VB]] uy-joylar[[N]] ro‘yxatiga[[N]] muvofiq[[II]] Jo‘qorg‘i Kenges[[NER]] qarori[[N]] bilan[[II]] rasmiylashtiriladi[[VB]].
+
+Lekin[[C]] u[[P]] butun[[JJ]] ittifoq[[N]] bo‘yicha[[II]] mashhurlikka[[N]] 1966-yilda[[NER]] premyerasi[[N]] bo‘lgan[[VB]] rejissor[[N]] Boris[ Ritsarevning[[NER]] „Alovuddunning sehrli chirog‘i[[NER]]“ filmidagi[[N]] jin[[N]] roli[[N]] orqali[[II]] erishdi[[VB]].
+
+2024-moliya-yilida[[NER]] Buyuk Britaniya[[NER]] Ukrainaga[[NER]] 2,5[[NUM]] milliard[[N]] funt sterling[[N]] (uch[[NUM]] milliard[[N]] dollardan[[N]] ortiq[[JJ]]) miqdorida[[N]] harbiy[[JJ]] yordam beradi[[VB]], deyiladi[[VB]] Britaniya[[NER]] hukumati[[N]] bayonotida[[N]].
+
+Buyuk Britaniya[[NER]] bosh vaziri[[NER]] Rishi Sunak[[NER]] 12-yanvar[[NER]] kuni[[N]] Kiyevga[[NER]] tashrifi[[N]] arafasida[[II]] harbiy[[JJ]] yordam[[N]] haqida[[II]] e’lon qildi[[VB]].
+
+Sunak[[NER]] Ukraina[[NER]] prezidenti[[N]] Vladimir Zelenskiy[[NER]] bilan[[II]] uchrashishni[[VB]] rejalashtirmoqda[[VB]].
+
+E’lon qilingan[[VB]] mablag‘ning[[N]] kamida[[RR]] 200[[NUM]] million[[N]] funt sterlingi[[N]] minglab[[RR]] dronlar[[N]], jumladan[[MD]], razvedka[[N]], hujum[[N]] va[[C]] dengiz[[N]] dronini[[N]] sotib olish[[VB]] va[[C]] ishlab chiqarishga[[VB]] sarflanadi[[VB]].
+
+Britaniya[[NER]] hukumati[[N]] bayonotida[[N]] bu[[P]] xarid[[N]] Ukrainaga[[NER]] eng[[RR]] katta[[JJ]] partiyada[[N]] dron[[N]] yetkazib berish[[VB]] deb[[II]] ataldi[[VB]].
+
+Bundan[[P]] tashqari[[II]], moliyalashtirish[[VB]] Ukrainani[[NER]] uzoq[[JJ]] masofaga[[N]] uchuvchi[[N]] raketalar[[N]], havo[[N]] hujumidan[[N]] mudofaa[[N]] tizimlari[[N]] va[[C]] artilleriya[[N]] o‘q-dorilari[[N]] bilan[[II]] ta’minlaydi[[VB]].
+
+Hukumat[[N]] saytida[[N]] qayd etilishicha[[VB]], Buyuk Britaniyaning[[NER]] yaqin[[RR]] ikki-yil[[NUM]] ichida[[II]] Ukrainaga[[NER]] harbiy[[JJ]] yordam[[N]] sifatida[[N]] ajratadigan[[VB]] mablag‘i[[N]] 2022—2023-yillardagidan[[NER]] 200[[NUM]] million[[N]] funt sterlingga[[N]] ko‘p bo‘ladi[[VB]].
+
+Bundan[[P]] tashqari[[II]], insonparvarlik[[N]] yordami[[N]] doirasida[[II]] Buyuk Britaniya[[NER]] yana[[RR]] 18[[NUM]] million[[N]] funt sterling[[N]] (taxminan[[RR]] 23[[NUM]] million[[N]] dollar[[N]]) ajratadi[[VB]], uning[[P]] bir qismi[[RR]] BMT[[NER]] va[[C]] Qizil Xochni[[NER]] qo‘llab-quvvatlash[[VB]] hamda[[C]] Rossiya[[NER]] hujumlari[[N]] fonida[[N]] Ukrainaning[[NER]] energetika[[N]] infratuzilmasini[[N]] mustahkamlashga[[VB]] yo‘naltiriladi[[VB]].
+
+Shuningdek[[MD]], Zelenskiy[[NER]] va[[C]] Sunak[[NER]] mamlakatlar[[N]] o‘rtasida[[II]] xavfsizlik[[N]] sohasida[[N]] hamkorlik[[N]] to‘g‘risidagi[[II]] bitimni[[N]] imzolashi[[VB]] rejalashtirilgan[[VB]].
+
+Bu[[P]] razvedka[[N]] ma’lumotlarini[[N]] almashish[[VB]], kiberxavfsizlik[[N]], tibbiy[[JJ]] va[[C]] harbiy[[JJ]] tayyorgarlik[[N]], mudofaa-sanoat[[N]] hamkorligini[[N]] o‘z[[P]] ichiga oladi[[IB]].
+
+Rishi Sunak[[NER]] 2022-yil-noyabrida[[NER]], Buyuk Britaniya[[NER]] bosh vaziri[[NER]] sifatida[[N]] Kiyevga[[NER]] birinchi marta[[NUM]] kelganida[[VB]] London[[NER]] Ukrainani[[NER]] qo‘llab-quvvatlashda[[VB]] davom etishini[[VB]] va’da qilgandi[[VB]].
+
+Jami[[P]] hisobda[[N]] Buyuk Britaniya[[NER]] Ukrainaga[[NER]] deyarli[[RR]] 12[[NUM]] milliard[[N]] funt sterling[[N]] ajratdi[[VB]], unga[[P]] bugun[[RR]] e’lon qilingan[[VB]] yordam[[N]] paketi[[N]] ham[[Prt]] kiradi[[VB]].
+
+Mamlakat[[N]], shuningdek[[MD]], Kiyevga[[NER]] boshqa[[JJ]] yordamlar[[N]], jumladan[[MD]], Storm Shadow[[NER]] qanotli[[JJ]] raketalari[[N]] va[[C]] Challenger-2[[NER]] tanklarining[[N]] eskadrilyalarini[[N]] ham[[Prt]] topshirgan[[VB]].
+
+AQSH[[NER]] Kongressda[[N]] budjet[[N]] bo‘yicha[[II]] kelishuvga[[VB]] erishilmagani[[VB]] sabab[[N]] Ukrainaga[[NER]] moliyaviy[[JJ]] yordam[[N]] to‘xtatgani[[VB]] haqida[[II]] e’lon qilgach[[VB]], Yevropa Ittifoqi[[NER]] diplomatiyasi[[N]] rahbari[[N]] Jozep Borrel[[NER]] Yevropa[[NER]] davlatlarini[[N]] Kiyevga[[NER]] yordamni[[N]] oshirishga[[VB]] chaqirdi[[VB]].
+
+Farmatsevtika[[N]] tarmog‘ini[[N]] rivojlantirish[[VB]] agentligining[[N]] „Dok-1 Maks[[NER]]“ siropi[[N]] bo‘yicha[[II]] sudlanayotgan[[VB]] sobiq[[JJ]] rahbari[[N]] S.K.[[NER]]sud[[N]] tibbiy[[JJ]] ekspertizasi[[N]] tayinlandi[[VB]].
+
+Bu[[P]] haqida[[II]] sudning[[N]] 12-yanvar[[NER]] kuni[[N]] davom etgan[[VB]] navbatdagi[[JJ]] majlisida[[N]] ma’lum qilindi[[VB]].
+
+Sudlanuvchining[[N]] advokati[[N]] Temur Rahmatov[[NER]] sud[[N]] hay’atiga[[N]] iltimosnoma[[N]] kiritib[[VB]], S.K.ning[[NER]] tergov[[N]] davomida[[II]] qiynoqqa[[N]] solingani[[VB]], g‘ayriqonuniy[[JJ]] tarzda[[II]] so‘roq[[N]] qilinib[[VB]], ruhiy[[JJ]] va[[C]] jismoniy[[JJ]] bosimlarga[[N]] uchraganini[[VB]] aytdi[[VB]].
+
+Hamda[[C]] holatni[[N]] sud[[N]] tibbiy[[JJ]] ekspertizasi[[N]] orqali[[II]] aniqlashtirishni[[VB]] iltimos qildi[[VB]].
+
+Va[[C]] tibbiy[[JJ]] ekspertiza[[N]] 15-yanvar[[NER]] kuni[[N]] o‘tkazilishini[[VB]] belgiladi[[VB]].
+
+Shuningdek[[MD]], sud[[N]] tibbiy[[JJ]] ekspertizasi[[N]] ekspertlariga[[N]] bir qator[[RR]] savollarga[[N]] javob topish[[VB]] majburiyatini[[N]] qo‘ydi[[VB]].
+
+Fuqarolarga[[N]] yoshga[[N]] doir[[II]] pensiya[[N]] tayinlashda[[VB]] bir qator[[RR]] hisob[[N]]–kitoblar[[N]] amalga oshiriladi[[IB]].
+
+Bu[[P]] haqida[[II]] Pensiya[[N]] jamg‘armasi[[N]] bo‘lim[[N]] boshlig‘i[[N]] Nozimjon Jo‘rayev[[NER]] ma’lumot[[N]] berdi[[VB]].
+
+Ish[[N]] staji[[N]] va[[C]] ish haqi[[N]] qanday[[P]] hisoblanadi[[VB]]?
+
+Pensiya[[N]] miqdori[[N]] ish[[N]] staji[[N]] va[[C]] ish[[N]] haqiga[[N]] bog‘liq[[JJ]].
+
+Qonunchilikka[[N]] ko‘ra[[II]], pensiya[[N]] tayinlashda[[VB]] ish[[N]] haqini[[N]] hisoblash[[VB]] uchun[[II]] fuqaro[[N]] mehnat[[N]] faoliyatini[[N]] to‘xtatgan[[VB]] davrigacha[[N]] bo‘lgan[[VB]] oxirgi[[JJ]] 10-yillikdan[[NER]] 5-yillik[[NER]] oylik[[N]]–maoshi[[N]] olinadi[[VB]].
+
+Masalan[[MD]], fuqaro[[N]] 2018-yilda[[NER]] mehnat[[N]] faoliyatini[[N]] tugatdi[[VB]].
+
+Bunda[[P]] oxirgi[[JJ]] 10-yillik[[NER]] — 2008-yildan[[NER]] 2018-yilgacha[[NER]] bo‘lgan[[VB]] davrdir[[N]].
+
+Shu[[P]] davrda[[N]] qancha[[P]] oylik[[N]]–maosh[[N]] olgan[[VB]] bo‘lsa[[C]], o‘sha[[P]] ish[[N]] haqlari[[N]] dasturga[[N]] kiritiladi[[VB]].
+
+Keyin[[II]] 10-yillik[[NER]] davrdan[[N]] eng[[RR]] yuqori[[JJ]] ish haqi[[N]] to‘langan[[VB]] ketma[[VB]]–ket[[VB]] 5-yili[[NER]] tanlab olinadi[[VB]].
+
+Bu[[P]] albatta[[MD]], fuqaroning[[N]] xohishi[[N]] bilan[[II]] amalga oshiriladi[[IB]].
+
+Ya’ni[[C]] fuqaro[[N]] buni[[P]] o‘zi[[P]] belgilaydi[[VB]].
+
+Misol uchun[[MD]], „men[[P]] 2008-yildan[[NER]] 2012-yilgacha[[NER]]“, yoki[[C]] „2012-yildan[[NER]] 2018-yilgacha[[NER]] davrda[[N]] yuqori[[JJ]] oylik[[N]] olganman[[VB]], shu[[P]] davrlarni[[N]] hisoblang[[VB]]“, deb[[II]] aytishi[[VB]] mumkin[[MD]].
+
+Har bir[[P]]-yilimiz[[N]] 12[[NUM]] oydan[[N]] bo‘lganda[[VB]] 5-yil[[NER]] 60[[NUM]] kalendar[[N]] oy[[N]] hisoblanadi[[VB]].
+
+Bu[[P]] vaqtdagi[[RR]] fuqaro[[N]] olgan[[VB]] oylik[[N]] ish[[N]] haqi[[N]] qo‘shib[[VB]] chiqiladi[[VB]] va[[C]] 60[[NUM]] oyga[[N]] bo‘linadi[[VB]].
+
+Natijada[[RR]] fuqaroni[[N]] o‘rtacha[[RR]] bir[[NUM]] oylik[[N]] ish[[N]] haqi[[N]] aniqlanadi[[VB]].
+
+Aniqlangan[[VB]] o‘rtacha[[RR]] ish[[N]] haqining[[N]] 55[[NUM]] foizi[[N]] fuqaroga[[N]] pensiyani[[N]] hisoblashning[[VB]] bazaviy[[JJ]] miqdori[[N]] deb[[II]] belgilanadi[[VB]].
+
+Aytaylik[[MD]], fuqaroning[[N]] ish[[N]] haqi[[N]] ikki[[NUM]] million[[N]] so‘m[[N]] bo‘lsa[[C]], shundan[[P]] 55[[NUM]] foizi[[N]] (1[[NUM]] million[[N]] 100[[NUM]] ming[[NUM]] so‘m[[N]]) olinadi[[VB]].
+
+Keyin[[II]] hisob[[N]]–kitoblarda[[N]] fuqaroning[[N]] ortiqcha[[RR]] ish[[N]] stajlari[[N]] ham[[Prt]] hisoblanadi[[VB]].

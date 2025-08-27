@@ -1,0 +1,800 @@
+Argentina[[NER]] terma[[JJ]] jamoasi[[N]] hujumchisi[[N]] mashhurligining[[N]] oshishi[[VB]] “JCh–2022”dagi[[NER]] g‘alaba[[N]] bilan[[II]] bog‘liq[[JJ]].
+
+Argentinalik[[N]] futbolchi[[N]] Lionel Messi[[NER]] Instagramda[[NER]] 500[[NUM]] milliondan[[NUM]] ortiq[[JJ]] obunachiga[[N]] ega bo‘lgan[[VB]] ikkinchi[[NUM]] shaxsga[[N]] aylandi[[VB]].
+
+Arizani[[N]] dastlab[[RR]] Toshkent[[NER]] tumanlararo[[JJ]] ma’muriy[[JJ]] sudi[[N]], keyin[[II]] Toshkent shahar[[NER]] ma’muriy[[JJ]] sudi[[N]] appelyatsiya[[N]] instansiyasi[[N]] va[[C]] Toshkent shahar[[NER]] ma’muriy[[JJ]] sudi[[N]] taftish[[N]] instansiyasi[[N]] ham[[Prt]] ko‘rib chiqib[[VB]], arizani[[N]] qanoatlantirishni[[VB]] rad etgan[[VB]].
+
+Arizani[[N]] ko‘rib chiqish[[VB]] hamda[[C]] ruxsatnoma[[N]] rasmiylashtirish[[VB]] uchun[[II]] yig‘im[[N]] undirilmaydi[[VB]].
+
+Arsenalda[[NER]], standart[[JJ]] shaklda[[N]] 670[[NUM]] litrgacha[[N]] yukni[[N]] sig‘dira oladi[[VB]] va[[C]] o‘rindiqlar[[N]] 1627[[NUM]] litrgacha[[N]] buklana oladigan[[VB]] o‘rindiqlarga[[N]] ega bo‘lgan[[VB]] to‘g‘ri[[JJ]] shakli[[N]] va[[C]] katta[[JJ]] ochilish[[VB]] bilan[[II]] ajralib turadigan[[VB]] juda[[RR]] keng[[JJ]] sig‘imli[[JJ]] bagaj[[N]].
+
+Asakabank[[NER]] Yevropaning[[NER]] yuqori[[JJ]] divizion[[N]] klublari[[N]] o‘rtasida[[II]] har[[P]] yili[[N]] o‘tkaziladigan[[VB]] xalqaro[[JJ]] UEFA[[NER]] futbol[[N]] turniri[[N]] munosabati[[N]] bilan[[II]] “350[[NUM]] ming[[NUM]] so‘m[[N]] evaziga[[N]] UEFA Chempionlar Ligasi[[NER]] finaliga[[N]]” aksiyasi[[N]] boshlanganini[[VB]] e’lon qildi[[VB]]! 
+
+Aslida[[MD]] esa[[C]] huquqlar[[N]] baravar[[JJ]], lekin[[C]] shu[[P]] huquqdan[[N]] foydalanish[[VB]] imkoniyati[[N]] turli[[JJ]] to‘siqlar[[N]] bilan[[II]] kamaytiriladi[[VB]].
+
+Aslida[[MD]] ham[[Prt]] shundaymi[[P]]? 
+
+Aslida[[MD]] ikki[[NUM]] qaror[[N]] ham[[Prt]] vakolatli[[JJ]] idoralarning[[N]] huquqiy[[JJ]] bahosiga[[N]] muhtoj[[JJ]].
+
+Aslida[[MD]] to‘rt[[NUM]] kishilik[[N]] bir[[NUM]] oilaga[[N]] bitta[[NUM]] mashina[[N]] yetarli[[JJ]].
+
+Aslida[[MD]], Doniyor Komilovning[[NER]] Moskvada[[NER]] ro‘yxatdan[[N]] o‘tgan[[VB]] kompaniyalari[[N]] talaygina[[RR]].
+
+Aslida[[MD]], aparteidning[[N]] asl[[JJ]] maqsadi[[N]] – Mandelani[[NER]] o‘lim[[N]] hukmi[[N]] orqali[[II]] yo‘qotish[[VB]] edi[[VB]].
+
+Aslida[[MD]], bu[[P]] G‘azoda[[NER]] o‘ldirilgan[[VB]] 15[[NUM]] mingga[[NUM]] yaqin[[JJ]] begunoh[[JJ]] bolaning[[N]] hikoyasidir[[N]].
+
+Aslida[[MD]], eng[[RR]] samarali[[JJ]] yo‘nalish[[N]] Qozog‘iston[[NER]] orqali[[II]] Rossiyaga[[NER]] savdoning[[N]] shimoliy[[JJ]] vektoridir[[N]].
+
+Asosan[[MD]] IT[[NER]], sog‘liqni[[N]] saqlash[[VB]] sohalarida[[N]] ish[[N]] yetishmovchiligi[[N]] mavjud[[MD]].
+
+Asosan[[MD]] Osiyo[[NER]] davlatlarida[[N]] bola[[N]] tarbiyasi[[N]] zo‘ravonlik[[N]] usullari[[N]] yordamida[[N]] olib borilishi[[VB]] ijtimoiylashgan[[VB]] umumiy[[JJ]] norma[[N]].
+
+Asosiy[[JJ]] ma’lumotlar[[N]] RF[[NER]] qo‘shini[[N]] Ukraina Prezidenti[[NER]] Vladimir Zelenskiy[[NER]] va[[C]] Gretsiya[[NER]] Bosh vaziri[[NER]] Kiriakos Mitsotakis[[NER]] tashrifi[[N]] vaqtida[[N]] Odessaga[[NER]] raketa[[N]] zarbasi[[N]] yo‘lladi[[VB]].
+
+Asosiy[[JJ]] shtatda[[N]] ishlaydigan[[VB]] fan[[N]] doktori[[N]] ilmiy[[JJ]] unvoniga[[N]] ega[[JJ]] 1[[NUM]] nafar[[N]] o‘qituvchi[[N]] yetishmaydi[[VB]] va[[C]] 1[[NUM]] nafar[[N]] o‘qituvchi[[N]] biriktirilgan[[VB]] fanlari[[N]] bo‘yicha[[II]] tayanch[[N]] oliy[[JJ]] ma’lumotga[[N]] muvofiq[[II]] emas[[VB]].
+
+Asosiy[[JJ]] shtatdagi[[N]] o‘qituvchilar[[N]] me’yordan[[N]] 58[[NUM]] foiz[[N]] kam[[RR]].
+
+Asosiysi[[JJ]], endilikda[[RR]] markazda[[N]] avtomobildan[[N]] chiqayotgan[[VB]] zararli[[JJ]] moddalar[[N]] miqdori[[N]] tekshiriladi[[VB]] va[[C]] ekologik[[JJ]] tekshiruv[[VB]] natijasidan[[N]] kelib chiqib[[VB]] RFID[[NER]] chip[[N]] o‘rnatilgan[[VB]] “qizil”[[JJ]], “sariq”[[JJ]] yoki[[C]] “yashil”[[JJ]] yorliq[[N]] (stiker[[N]]) mashinaning[[N]] old[[N]] oynasiga[[N]] yopishtiriladi[[VB]].
+
+Assalomu alaykum[[UH]] hozir[[RR]] qalampir.uzda[[NER]] sport[[N]] dayjesti[[N]] namoyish etiladi[[VB]].
+
+“Associated Press”[[NER]] tashkiloti[[N]] ma’lumotlariga[[N]] ko‘ra[[II]], kema[[N]] Los Anjelesda[[NER]] qaror topgan[[VB]] “Oaktree Capital Management”[[NER]] fondiga[[N]] tegishli[[JJ]].
+
+Atigi[[RR]] uch[[NUM]] yil[[N]] ichida[[II]] 15[[NUM]] million[[NUM]] yangi[[JJ]] ish[[N]] o‘rni[[N]] yaratildi[[VB]] – bu[[P]] rekord[[N]].
+
+Atmosfera[[N]] havosining[[N]] ifloslanish[[VB]] darajasi[[N]] oshgan[[VB]] kunlarda[[N]] tez[[RR]] yordam[[N]] xizmatining[[N]] chaqiriqlari[[N]] odatdagidan[[N]] 20-25[[NUM]] foizgacha[[N]] oshadi[[VB]].
+
+Atrof-muhitga[[N]] ta’sirini[[N]] kamaytirish[[VB]] choralari[[N]] orasida[[II]] samarali[[JJ]] isitish[[VB]] va[[C]] sovitish[[VB]] tizimlari[[N]], energiyani[[N]] tejaydigan[[VB]] LED[[NER]] yoritish[[VB]] va[[C]] ko‘proq[[RR]] atrof-muhitga[[N]] zararsiz[[JJ]] materiallardan[[N]] foydalanish[[VB]] kiradi[[VB]].
+
+Avariyaviy[[JJ]] holat[[N]] bartaraf qilingach[[VB]], gaz[[N]] agregatlari[[N]] to‘liq[[JJ]] kuch[[N]] bilan[[II]] ishlay boshlashi[[VB]] va[[C]] metan[[N]] zapravkalar[[N]] ham[[Prt]] belgilangan[[VB]] reja-grafik[[N]] asosida[[N]] (har[[P]] kuni[[N]] soat[[N]] 8:00dan[[NER]] 15:00gacha[[NER]] vaqt[[N]] oralig‘ida[[N]]) bosqichma-bosqich[[RR]] ishga[[N]] tushirilishi[[VB]] ma’lum qilingandi[[VB]].
+
+Avstraliyada[[NER]] fotogenik[[JJ]] ko‘llar[[N]] bor[[MD]].
+
+Avtohalokatga[[N]] uchragan[[VB]] mototsikl[[N]] ag‘darilib ketgan[[VB]] va[[C]] Rahmon[[NER]] bir necha[[P]] metr[[N]] uzoqlikka[[N]] otilib[[VB]] tushgan[[VB]].
+
+Avtomatik[[JJ]] uzatmalar[[N]] qutisi[[N]] (CVT Variator[[NER]]) va[[C]] elektr[[N]] boshqaruvli[[JJ]] rul[[N]] haydashingizni[[VB]] yanada[[RR]] qulay[[JJ]] qiladi[[VB]].
+
+Avtomobil[[N]] 10.9[[NUM]] soniyada[[N]] 100[[NUM]] km/soat[[NER]] tezlikka[[N]] erishadi[[VB]], shu[[P]] bilan[[II]] birga[[RR]] aralash[[JJ]] siklda[[N]] 100[[NUM]] km[[NER]] uchun[[II]] faqat[[Prt]] 5.9[[NUM]] l[[NER]] va[[C]] shahar[[N]] tashqarisidagi[[JJ]] yo‘lda[[N]] 4.7[[NUM]] l[[NER]] sarflaydi[[VB]].
+
+Avtomobil[[N]] “1LT T”[[NER]], “1LT RS”[[NER]] va[[C]] “3LT”[[NER]] komplektatsiyalarda[[N]] taqdim etiladi[[VB]].
+
+Avtomobil[[N]] Chevrolet[[NER]] rusumlarini[[N]] ishlab chiqarishda[[VB]] to‘plangan[[VB]] boy[[JJ]] tajriba[[N]] asosida[[N]] yaratilgan bo‘lib[[VB]], o‘zida[[P]] “Suv 3S”[[NER]] ya’ni[[C]] Stylish[[NER]], Spacious[[NER]], Smart[[NER]] (o‘ziga[[P]] xos[[JJ]] uslub[[N]], shinam[[JJ]] va[[C]] aqlli[[JJ]]) kabi[[II]] zamonaviy[[JJ]] konsepsiyani[[N]] mujassamlashtirgan[[VB]].
+
+Avtomobil[[N]] LT1[[NER]], LT2[[NER]], va[[C]] Premier[[NER]] komplektatsiyalarida[[N]] taqdim etiladi[[VB]].
+
+Avtomobil[[N]] motori[[N]] V8[[NER]] hajmdagi[[N]] 5.3[[NUM]] litr[[N]] va[[C]] 343[[NUM]] ot[[N]] kuchi[[N]] bilan[[II]] quvvatlantirilgan[[VB]], 10[[NUM]] pog‘onali[[JJ]] avtomatik[[JJ]] uzatma[[N]] va[[C]] moslashuvchan[[JJ]] osma[[JJ]] (podveska[[N]]) bilan[[II]] birgalikda[[RR]] har qanday[[P]] yo‘lda[[N]] unutilmas[[VB]] taassurot[[N]] taqdim etadi[[VB]].
+
+Avtomobil[[N]] taassurot qoldiradigan[[VB]] texnologiyalar[[N]] bilan[[II]] jihozlangan[[VB]]: Bagajni[[N]] qo‘lsiz[[JJ]] ochish[[VB]], avtomatik[[JJ]] tarzda[[N]] chiroqlarni[[N]] sozlash[[VB]] (uzoqni yaqinga o‘tkazish[[IB]]), simsiz[[JJ]] zaryadlash[[VB]] qurilmasi[[N]] (induksion[[JJ]]), 360[[NUM]] gradusli[[JJ]] kamera[[N]] va[[C]] boshqa[[JJ]].
+
+Avtomobillar[[N]] 2-turdagi[[NER]] CSS[[NER]] Prime[[NER]] yangi[[JJ]] avlod[[N]] dvigatellari[[N]] bilan[[II]] taqdim etiladi[[VB]].
+
+Avtomobillar[[N]], xizmat ko‘rsatish[[VB]] va[[C]] ehtiyot[[N]] qismlar[[N]] mavjudligi[[N]] butun[[P]] O‘zbekistonni[[NER]] qamrab oladi[[VB]].
+
+Avtomobilning[[N]] standart[[JJ]] jihozlari[[N]] ikki[[NUM]] bosqichli[[JJ]] elektron[[JJ]] boshqariladigan[[VB]] uzatish[[VB]] qutisini[[N]] o‘z[[P]] ichiga[[II]] oladi[[VB]], bu[[P]] yangi[[JJ]] “Chevrolet Tahoe”ning[[NER]] tengsiz[[JJ]] dinamik[[N]] imkoniyatlarini[[N]] kafolatlaydi[[VB]].
+
+Avval[[RR]] avtomototransport[[N]] vositasini[[N]] ro‘yxatdan[[N]] o‘tkazish[[VB]] jarayoni[[N]] olti-yetti[[NUM]] bosqichda[[N]] amalga oshirilgan[[VB]] bo‘lsa[[VB]], hozirda[[RR]] bosqichlar[[N]] soni[[N]] uchtaga[[NUM]] qisqardi[[VB]].
+
+Avval[[RR]] ayollar[[N]] faqatgina[[Prt]] yo‘lovchilar[[N]] soni[[N]] 14[[NUM]] kishidan[[N]] oshmaydigan[[VB]] avtobusni[[N]] boshqarishi[[VB]] mumkin[[MD]] bo‘lib[[VB]], katta[[JJ]] sig‘imli[[JJ]] avtobuslarni[[N]] (elektrobus[[N]]) boshqarish[[VB]] uchun[[II]] ularni[[P]] jalb etish[[VB]] imkoni[[N]] yo‘q[[MD]] edi[[VB]].
+
+“Avval[[RR]] aytganimizdek[[VB]], Hamas[[NER]] bu[[P]] kelishuvga[[N]] rozi bo‘lishi[[VB]] kerak[[MD]]”, – dedi[[VB]] Xarris[[NER]].
+
+Avval[[RR]] karantin[[N]], keyin[[II]] Buxoro[[NER]] va[[C]] ortidan[[II]] Sardoba[[NER]] talafotlari[[N]].
+
+Avval[[RR]] xabar berganimizdek[[IB]], poytaxtimizdagi[[N]] “Yunusobod”[[NER]] sport[[N]] majmuasida[[N]] oliy[[JJ]] liga[[N]] jamoalari[[N]] o‘rtasida[[II]] futzal[[N]] bo‘yicha[[II]] 9-tur[[NER]] uchrashuvlari[[N]] bo‘lib o‘tmoqda[[VB]].
+
+Avval[[RR]] xabar qilinganidek[[VB]], xorijda[[N]] O‘zbekistonning[[NER]] ijobiy[[JJ]] imijini[[N]] ilgari surish[[VB]] bo‘yicha[[II]] keng[[JJ]] ko‘lamli[[JJ]] tadbirlar[[N]] hamda[[C]] ziyorat[[N]] va[[C]] ta’lim[[N]] turizmi[[N]] doirasida[[N]] Jakartadagi[[NER]] O‘zbekiston[[NER]] elchixonasi[[N]] Indoneziyaning[[NER]] Gunadarm universitetida[[NER]] tahsil olayotgan[[VB]] 200[[NUM]] nafar[[N]] talaba[[N]] uchun[[II]] 2020-yil[[NER]] 4-martdan[[NER]] 18-martga[[NER]] qadar[[II]] O‘zbekistonga[[NER]] tashrif uyushtirgan[[VB]] edi[[VB]].
+
+Avvaliga[[RR]] Dnestrbo‘yi[[NER]] bilan[[II]] bog‘liq[[JJ]] mojaro[[N]] tarixiga[[N]] to‘xtalsak[[VB]].
+
+Avvaliga[[RR]] Kisida Saidovni[[NER]] Yaponiyaga[[NER]] ilk[[JJ]] tashrifi[[N]] bilan[[II]] qutlagan[[VB]] va[[C]] yanvar[[N]] oyida[[N]] Noto[[NER]] yarim[[JJ]] orolida[[N]] yuz bergan[[VB]] zilzila[[N]] munosabati[[N]] bilan[[II]] O‘zbekistondan[[NER]] kelgan[[VB]] hamdardlik[[N]] maktubi[[N]] uchun[[II]] minnatdorlik[[N]] bildirgan[[VB]]. 
+
+Avvaliga[[RR]] Raj[[NER]] protez[[N]] ishlatishni[[VB]] boshladi[[VB]], lekin[[C]] bunga[[P]] ko‘nika olmadi[[VB]] va[[C]] uning[[P]] yagona[[JJ]] umidi[[N]] qo‘l[[N]] ko‘chirib[[VB]] o‘tkazish[[VB]] operatsiyasini[[N]] o‘tkazish[[VB]] bo‘lib qoldi[[VB]].
+
+Avvallari[[RR]] ham[[Prt]] ular[[P]] ishtirok qiladigan[[VB]] konsertlarga[[N]] ko‘p[[RR]] tushardim[[VB]].
+
+Avvalroq[[RR]] AQSh[[NER]] razvedkasi[[N]] NUJni[[NER]] milliy[[JJ]] xavfsizlikka[[N]] tahdid[[N]] deb[[VB]] atagandi[[VB]].
+
+Avvalroq[[RR]] Amerika[[NER]] matbuotida[[N]] sobiq[[JJ]] prezident[[NER]] Donald Tramp[[NER]] kompaniyasiga[[N]] homiy[[N]] jalb qilish[[VB]] jarayonida[[N]] Mask[[NER]] bilan[[II]] uchrashgani[[VB]] haqida[[II]] xabarlar[[N]] paydo bo‘lgan[[VB]] edi[[VB]].
+
+Avvalroq[[RR]] kun.uz[[NER]] pora[[N]] bilan[[II]] qo‘lga tushgan[[VB]] Buxoro viloyat[[NER]] DSENB[[NER]] boshlig‘i[[N]] 3[[NUM]] yilga[[N]], Chilonzorda[[NER]] 1[[NUM]] gektar[[N]] yerni[[N]] 1.4[[NUM]] mln[[NER]] dollarga[[N]] sotmoqchi bo‘lgan[[VB]] mansabdorlar[[N]] 8[[NUM]] yilga[[N]] qamalganini[[VB]] xabar qilgandi[[VB]].
+
+Avvalroq[[RR]] sud[[N]] hukmi[[N]] bilan[[II]] sobiq[[JJ]] hokimga[[N]] 10[[NUM]] yil[[N]] ozodlikdan[[N]] mahrum qilish[[VB]] jazosi[[N]] tayinlangandi[[VB]].
+
+Avvalroq[[RR]] “Reyter”[[NER]] agentligi[[N]] Senegal Prezidenti[[NER]] Maki Sall[[NER]] avvalgi[[JJ]] hukumatni[[N]] tarqatib yuborgani[[VB]] va[[C]] Ichki ishlar vaziri[[NER]] Sidiqiy Kabuni[[NER]] yangi[[JJ]] Bosh vazir[[NER]] etib tayinlagani[[VB]] haqida[[II]] xabar[[N]] tarqatgan[[VB]] edi[[VB]].
+
+Avvalroq[[RR]], Hindiston[[NER]] Tashqi ishlar vazirligi[[NER]] Rossiyaga[[NER]] borib[[VB]], so‘ngra[[RR]] o‘z[[P]] xohishiga[[N]] qarshi[[JJ]] deyarli[[RR]] hech qanday[[P]] tayyorgarliksiz[[N]] frontga[[N]] jo‘natilgan[[VB]] 20ga[[NUM]] yaqin[[JJ]] hindistonlikni[[N]] aniqlagani[[VB]] xabar qilingandi[[VB]].
+
+Avvalroq[[RR]], Italiyaning[[NER]] mahalliy[[JJ]] nashrlari[[N]] uch[[NUM]] italiyalik[[N]] qilichboz[[N]] o‘zbekistonlik[[N]] 17[[NUM]] yoshli[[JJ]] sportchi[[N]] qizni[[N]] zo‘rlaganlikda[[N]] gumon qilinayotgani[[VB]] haqida[[II]] xabar bergandi[[IB]].
+
+Avvalroq[[RR]], ijtimoiy[[JJ]] tarmoqlarda[[N]] Buxoro[[NER]] parklaridan[[N]] birida[[NUM]] joylashgani[[VB]] aytilayotgan[[VB]] “ajal charxpalagi”[[NER]] deb[[VB]] atalgan[[VB]] nosoz[[JJ]] holdagi[[N]] attraksion[[N]] tasvirlari[[N]] tarqalib[[VB]], ko‘pchilikning[[N]] muhokamasiga[[N]] sabab bo‘lgan[[VB]] edi[[VB]].
+
+Axborot texnologiyalari va kommunikatsiyalarini rivojlantirish vazirligi[[NER]] ariza[[N]] va[[C]] hujjatlarni[[N]] qabul qiladi[[VB]] hamda[[C]] dastlabki[[JJ]] texnik[[JJ]] ekspertizadan[[N]] o‘tkazadi[[VB]].
+
+Axborot[[N]] texnologiyalari[[N]] yo‘nalishida[[N]] yutuqlarga[[N]] erishgan[[VB]] xotin-qizlar[[N]] ham[[Prt]] “Zulfiya nomidagi Davlat mukofoti”[[NER]] bilan[[II]] taqdirlanadigan[[VB]] bo‘ldi[[VB]].
+
+Axir[[Prt]] Iordaniyada[[NER]] ham[[Prt]] G‘azodagidan[[NER]] kam[[RR]] bo‘lmagan[[VB]] falastinliklar[[N]] yashaydi[[VB]].
+
+Axir[[Prt]], JAR[[NER]] – musulmon[[N]] davlati[[N]] emas[[VB]], yoki[[C]] Isroilning[[NER]] tarixiy[[JJ]] dushmani[[N]] ham[[Prt]] emas[[VB]].
+
+Aydarko‘l[[NER]] suv[[N]] qirg‘og‘idan[[N]] bozor[[N]] narxi[[N]] 20[[NUM]] million[[NUM]] so‘mlik[[N]] bo‘lgan[[VB]] “Merkuriy”[[NER]] rusumli[[JJ]] kichik[[JJ]] hajmli[[JJ]] qayiqlar[[N]] uchun[[II]] mo‘ljallangan[[VB]] 1[[NUM]] dona[[N]] qayiq[[N]] motori[[N]] Aldarqulning[[NER]] Arnasoy tumani[[NER]] “Yangibo‘ston”[[NER]] AXM[[NER]] hududidagi[[N]] yashash[[VB]] xonadonidan[[N]] topildi[[VB]].
+
+Aynan[[RR]] qanday[[P]] mavzularda[[N]] yozishim[[VB]] mumkinligi[[N]] haqida[[II]] maslahat[[N]] so‘raganimda[[VB]], javob bermadi[[VB]].
+
+Aynan[[RR]] shuning[[P]] uchun[[II]] ham[[Prt]] ayollarni[[N]] qo‘llab-quvvatlash[[VB]] va[[C]] ularning[[P]] kasbiy[[JJ]] rivojlanishi[[VB]] kompaniya[[N]] uchun[[II]] nafaqat[[Prt]] global[[JJ]], shu[[P]] jumladan[[MD]] O‘zbekiston[[NER]] kesimida[[N]] ham[[Prt]] ustuvor[[JJ]] vazifa[[N]] sanaladi[[VB]].
+
+Aynan[[RR]] shuning[[P]] uchun[[II]] ham[[Prt]] biz[[P]] har[[P]] ikki[[NUM]] tomonni[[N]] zudlik[[N]] bilan[[II]] gumanitar[[JJ]] maqsadlarda[[N]] murosaga[[N]] kelishga[[VB]], jangovar[[JJ]] harakatlarni[[N]] to‘xtatib[[VB]], nizoni[[N]] tinchlik[[N]] yo‘li[[N]] bilan[[II]] hal etishga[[VB]] chaqiramiz[[VB]].
+
+Ayni[[P]] damda[[N]] YUNVTO[[NER]] O‘zbekistonning[[NER]] mas’ul[[JJ]] vazirlik[[N]] va[[C]] idoralari[[N]] bilan[[II]] prezident[[NER]] Shavkat Mirziyoyevning[[NER]] tashabbuslarini[[N]] hayotga[[N]] tatbiq etish[[VB]] bo‘yicha[[II]] yaqindan[[RR]] hamkorlik[[N]] qilayotganini[[VB]] mamnuniyat[[N]] bilan[[II]] qayd etish[[VB]] kerak[[MD]].
+
+Ayni[[P]] kunlarda[[N]] o‘zbekistonlik[[N]] shaxmatchi[[N]] Chexiya[[NER]] poytaxti[[N]] Pragada[[NER]] o‘tkazilayotgan[[VB]] “Prague Chess Festival 2024”[[NER]] turnirida[[N]] ishtirok etmoqda[[VB]].
+
+Ayni[[P]] maqsadda[[N]] universitet[[N]] axborot-resurs[[N]] markazi[[N]] ichki[[JJ]] mablag‘lar[[N]] hisobidan[[N]] to‘liq[[JJ]] kapital[[N]] ta’mirlandi[[VB]] hamda[[C]] prezident[[NER]] sovrini[[N]] sifatida[[N]] qabul qilib[[VB]] olingan[[VB]] zamonaviy[[JJ]] avtomatlashtirilgan[[VB]] kutubxona[[N]] jihozlari[[N]] bilan[[II]] to‘liq[[JJ]] raqamlashtirildi[[VB]].
+
+Ayni[[P]] paytda[[N]] Jizzax viloyatidagi[[NER]] mavjud[[MD]] 309ta[[NUM]] mahalla[[N]] fuqarolar[[N]] yig‘inidagi[[N]] 268[[NUM]] ming[[NUM]] 800[[NUM]] xonadonning[[N]] 355[[NUM]] ming[[NUM]] 100[[NUM]] oilasida[[N]] 1[[NUM]] million[[NUM]] 460[[NUM]] ming[[NUM]] aholi[[N]] istiqomat qiladi[[VB]].
+
+Ayni[[P]] paytda[[N]] Samarqand viloyatida[[NER]] ham[[Prt]] Ramazon[[NER]] oyini[[N]] munosib[[JJ]] tarzda[[N]] o‘tkazish[[VB]], mo‘min-musulmonlarning[[N]] ibodat[[N]] amallarini[[N]] bajarishlari[[VB]] uchun[[II]] sharoit[[N]] yaratishga[[VB]] alohida[[JJ]] e’tibor qaratilmoqda[[VB]].
+
+Ayni[[P]] paytda[[N]] bino[[N]] avariya[[N]] holatida[[N]].
+
+Ayni[[P]] paytda[[N]] bino[[N]] ta’mirga[[N]] muhtoj[[JJ]].
+
+Ayni[[P]] paytda[[N]] karantin[[N]] cheklovlari[[N]] bosqichma-bosqich[[RR]] bekor qilinib[[VB]], epidemiologik[[JJ]] vaziyat[[N]] barqarorlashgani[[VB]] bois[[N]] bu[[P]] yil[[N]] ushbu[[P]] milliy[[JJ]] bayramni[[N]] an’anaviy[[JJ]] tarzda[[N]] nishonlash[[VB]] mo‘ljallanmoqda[[VB]].
+
+Ayni[[P]] paytda[[N]] ular[[P]] tomonidan[[II]] amalga oshirilayotgan[[VB]] ishlarni[[N]] o‘rganish[[VB]], ilg‘or[[JJ]] ish[[N]] tajribalarini[[N]] ommalashtirish[[VB]] maqsadida[[N]] O‘zbekiston[[NER]] mahallalari[[N]] uyushmasi[[N]] tomonidan[[II]] hamkor[[N]] tashkilotlar[[N]] bilan[[II]] birgalikda[[RR]] “Eng namunali mahalla raisi”[[NER]] respublika[[N]] ko‘rik-tanlovini[[N]] o‘tkazish[[VB]] belgilandi[[VB]].
+
+Ayni[[P]] paytda[[N]] ularning[[P]] 2[[NUM]] ming[[NUM]] 450[[NUM]] nafari[[N]] ushbu[[P]] daftar[[N]] ro‘yxatining[[N]] 5-bosqichiga[[NER]] o‘tkazildi[[VB]].
+
+Ayni[[P]] paytda[[N]] yashirin[[JJ]] iqtisodiyot[[N]] va[[C]] iqtisodiy[[JJ]] jinoyatlarga[[N]] qarshi kurashish[[VB]] bilan[[II]] naq[[RR]] 14ta[[NUM]] boshqarma[[N]] shug‘ullanadi[[VB]].
+
+Ayni[[P]] paytda[[N]], Lekornyu[[NER]] janglarda[[N]] qatnashish[[VB]] uchun[[II]] Ukrainaga[[NER]] quruqlikdagi[[N]] qo‘shinlar[[N]] yuborish[[VB]] ehtimolini[[N]] rad etdi[[VB]].
+
+Ayni[[P]] shu[[P]] kabellar[[N]] aloqa[[N]] vositalarini[[N]] butun[[P]] dunyo[[N]] bilan[[II]] bog‘laydi[[VB]].
+
+Ayni[[P]] vaqtda[[N]] esa[[C]] Janubiy Koreya[[NER]] Amerika Qo‘shma Shtatlari[[NER]] bilan[[II]] birga[[RR]] Freedom Shield[[NER]] qo‘shma[[JJ]] mashg‘ulotlarini[[N]] o‘tkazmoqda[[VB]].
+
+Ayni[[P]] vaqtda[[N]], mahallalarda[[N]], ko‘cha[[N]] va[[C]] guzarlar[[N]], xiyobonlar[[N]], qabriston[[N]] va[[C]] ziyoratgohlarda[[N]] “Obod[[JJ]] xonadon[[N]] – obod[[JJ]] ko‘cha[[N]] – obod[[JJ]] mahalla[[N]]” tamoyillarini[[N]] joriy etish[[VB]] bo‘yicha[[II]] keng[[JJ]] ko‘lamli[[JJ]] ishlar[[N]] olib borilmoqda[[VB]].
+
+Ayni[[P]] vaqtgacha[[N]] G‘azo[[NER]] sektorida[[N]] halok bo‘lgan[[VB]] falastinliklar[[N]] soni[[N]] 30800[[NUM]] nafarga[[N]] yetgani[[VB]] qayd etilgan[[VB]].
+
+Ayni[[P]] vaziyatda[[N]] unga[[P]] diplomatik[[JJ]] bosim[[N]] kuchayib borayotgan[[VB]] bo‘lishi[[VB]] mumkin[[MD]].
+
+Ayniqsa[[MD]] bo‘lg‘adagi[[N]] bolalar[[N]] noinsoniy[[JJ]] sharoitlarda[[N]] yashashda[[VB]] juda[[RR]] qiynalmoqda[[VB]].
+
+Ayniqsa[[MD]], prezidentimizning[[NER]] farmoniga[[N]] muvofiq[[II]], davlatimizning[[N]] yuksak[[JJ]] mukofotiga[[N]] loyiq[[JJ]] ko‘rilganim[[VB]], buning[[P]] quvonchi[[N]], mas’uliyati[[N]] juda[[RR]] yuksak[[JJ]] bo‘lar ekan[[VB]].
+
+“Ayniqsa[[MD]], davlatimiz[[N]] rahbarining[[N]] tashabbusi[[N]] bilan[[II]] joriy[[JJ]] yildan[[N]] e’tiboran[[N]] “Mahalla yettiligi”ning[[NER]] joriy etilishi[[VB]], o‘zini[[P]] o‘zi[[P]] boshqarish[[VB]] organlari[[N]] faoliyatini[[N]] muvofiqlashtirib boruvchi[[VB]] mahallalar[[N]] uyushmasining[[N]] tashkil etilgani[[VB]] faoliyatimizni[[N]] tubdan[[RR]] yaxshilash[[VB]] imkonini berdi[[VB]]”, – deydi[[VB]] Yangiqo‘rg‘on tumanidagi[[NER]] Qizilyozi mahallasi[[NER]] raisi[[N]] Jahongir Yoqubjonov[[NER]].
+
+Ayniqsa[[MD]], har bir[[P]] hududda[[N]] hokim[[N]] yordamchisi[[N]] lavozimining[[N]] joriy etilishi[[VB]] aholi[[N]] bandligini[[N]] ta’minlashda[[VB]] muhim[[JJ]] ahamiyat[[N]] kasb etmoqda[[VB]].
+
+Ayniqsa[[MD]], parrandachilik[[N]] bilan[[II]] shug‘ullanayotgan[[VB]] tadbirkorlar[[N]] uchun[[II]] imtiyozli[[JJ]] kreditlar[[N]] ajratilmoqda[[VB]].
+
+Ayniqsa[[MD]], turli[[JJ]] ob-havoda[[N]] yoshi[[N]] ulug‘[[JJ]] insonlar[[N]] yoki[[C]] yosh[[JJ]] bolalarga[[N]] bu[[P]] kabi[[II]] xayrli[[JJ]] ishlar[[N]] insoniylik[[N]] belgisi[[N]].
+
+Ayniqsa[[MD]], xotin-qizlarni[[N]] ish[[N]] bilan[[II]] ta’minlash[[VB]], kasanachilik[[N]], oilaviy[[JJ]] tadbirkorlikka[[N]] keng[[JJ]] jalb etish[[VB]] masalalariga[[N]] alohida[[JJ]] e’tibor qaratilgan[[VB]].
+
+Ayniqsa[[MD]], xotin-qizlarning[[N]] manfaatini[[N]] himoya qilishning[[VB]] qonunchilik[[N]] va[[C]] institutsional[[JJ]] negizini[[N]] mustahkamlash[[VB]] yo‘lida[[N]] muhim[[JJ]] choralar[[N]] ko‘rilmoqda[[VB]].
+
+Ayol[[N]] shoshilib[[VB]], bolani[[N]] qo‘liga[[N]] oldi[[VB]], podyezd[[N]] sovuq[[JJ]] bo‘lishiga[[VB]] qaramay[[VB]], mushuk[[N]] chaqaloqni[[N]] tanasi[[N]] bilan[[II]] sovuqdan[[JJ]] himoya qilgani[[VB]] uchun[[II]] chaqaloq[[N]] issiqqina[[JJ]], sovuq[[JJ]] qotmagan[[VB]] edi[[VB]].
+
+Ayol[[N]] tadbirkorlar[[N]] tomonidan[[II]] ishlab chiqarilayotgan[[VB]] mahsulotlarni[[N]] eksport qilishga[[VB]] ko‘maklashish[[VB]], xotin-qizlarning[[N]] tadbirkorligini[[N]] qo‘llab-quvvatlash[[VB]] va[[C]] rivojlantirish[[VB]] uchun[[II]] xalqaro[[JJ]] moliya[[N]] institutlarining[[N]] moliyaviy[[JJ]] resurslarini[[N]] jalb qilish[[VB]] ishlari[[N]] sust[[JJ]] olib borilayotgani[[VB]] ko‘rsatib o‘tildi[[VB]].
+
+Ayol[[N]] yoshining[[N]] kattalashishi[[VB]] uning[[P]] ishlash[[VB]] ehtimolini[[N]] 0.08[[NUM]] foizga[[N]] oshiradi[[VB]].
+
+Ayol[[N]] zoti[[N]] chindan[[N]] ham[[Prt]] o‘z[[P]] timsolida[[N]] go‘zallik[[N]] va[[C]] nafosat[[N]], ezgulik[[N]] va[[C]] fidoiylik[[N]] kabi[[II]] oliyjanob[[JJ]] insoniy[[JJ]] fazilatlarni[[N]] mujassam etganiga[[VB]] yana[[RR]] va yana[[RR]] bir[[NUM]] bor[[MD]] ishonch[[N]] hosil qilamiz[[VB]].
+
+Ayollar[[N]] ahvoli[[N]] bo‘yicha[[II]] tashkil etilgan[[VB]] mazkur[[P]] tuzilma[[N]] gender[[N]] tenglikni[[N]] va[[C]] ayollar[[N]] huquqi[[N]], imkoniyatini[[N]] ilgari surish[[VB]] bo‘yicha[[II]] global[[JJ]] darajadagi[[N]] hukumatlararo[[N]] organ[[N]] hisoblanadi[[VB]].
+
+Ayollar[[N]] avlodlarining[[N]] bunday[[P]] o‘zaro[[JJ]] munosabati[[N]] noyob[[JJ]] aloqa[[N]] maydonini[[N]] yaratadi[[VB]].
+
+Ayollar[[N]] huquqi[[N]] to‘g‘risidagi[[JJ]] qonun[[N]] hujjatlari[[N]] hamda[[C]] ayollarni[[N]] himoya qilishning[[VB]] institutsional[[JJ]] asosini[[N]] takomillashtirish[[VB]], aholining[[N]] gender[[N]] tenglik[[N]] va[[C]] ayollar[[N]] huquqi[[N]] to‘g‘risida[[II]] xabardorligini[[N]] oshirish[[VB]], huquqni[[N]] qo‘llash[[VB]] amaliyotida[[N]] qoidalarga[[N]] rioya etilishini[[VB]] ta’minlash[[VB]] uchun[[II]] mas’ul[[JJ]] mansabdor[[JJ]] shaxslarni[[N]] tegishli[[JJ]] huquqiy[[JJ]] me’yor[[N]] asosida[[N]] o‘qitish[[VB]] shular[[P]] jumlasidan[[N]].
+
+Ayollar[[N]] orasida[[II]] ishsizlikning[[N]] eng[[RR]] past[[JJ]] ko‘rsatkichlari[[N]] Toshkent shahri[[NER]] (7.9[[NUM]]), Namangan[[NER]] (11.9[[NUM]]) va[[C]] Toshkent viloyatlarida[[NER]] (12.8[[NUM]]) kuzatilmoqda[[VB]].
+
+Ayollar[[N]] orasidagi[[II]] ishsizlikning[[N]] o‘rtacha[[RR]] davomiyligi[[N]] 3[[NUM]] yilni[[N]] tashkil etadi[[VB]].
+
+Ayollar[[N]] o‘rtasida[[II]] jinoyatchilikni[[N]] keskin[[JJ]] qisqartirish[[VB]] bo‘yicha[[II]] “Farg‘ona tajribasi”[[NER]] yaratildi[[VB]].
+
+Ayollar[[N]] o‘z[[P]] daromadining[[N]] katta[[JJ]] qismini[[N]] farzandlari[[N]] salomatligi[[N]] va[[C]] ta’lim olishiga[[VB]] sarflaydi[[VB]], bu[[P]] esa[[C]] o‘z[[P]] navbatida[[N]] nafaqat[[Prt]] ayni[[P]] vaqtda[[N]], balki[[C]] bir necha[[P]] yil[[N]] keyingi[[JJ]] iqtisodiyot[[N]] rivoji[[N]] demakdir[[MD]].
+
+Ayollar[[N]] tadbirkorligi[[N]] dasturlari[[N]] doirasida[[N]] 225[[NUM]] mingdan[[NUM]] ziyod[[RR]] loyihaga[[N]] 4.4[[NUM]] trillion[[NUM]] so‘mga[[N]] yaqin[[JJ]] kredit[[N]], 40[[NUM]] ming[[NUM]] nafarga[[N]] yaqin[[JJ]] xotin-qizga[[N]] jami[[P]] 179.1[[NUM]] milliard[[NUM]] so‘m[[N]] subsidiya[[N]] ajratilgan[[VB]].
+
+Ayollarning[[N]] ijtimoiy[[JJ]], iqtisodiy[[JJ]], siyosiy[[JJ]] sohada[[N]] erkaklar[[N]] bilan[[II]] teng[[JJ]] huquq[[N]] va[[C]] imkoniyatlar[[N]] asosida[[N]] faoliyat[[N]] yuritishi[[VB]] mamlakatning[[N]] rivojlanishiga[[VB]] hissa qo‘shadimi[[VB]]?
+
+Ayollarning[[N]] jamiyat[[N]] hayotidagi[[N]] ishtirokini[[N]] kengaytirish[[VB]] mehnat[[N]] mahsuldorligini[[N]] oshirishi[[VB]], iqtisodiy[[JJ]] o‘sishni[[N]] ta’minlashi[[VB]] allaqachon[[P]] isbotlangan[[VB]].
+
+Ayollarning[[N]] nafaqat[[Prt]] jamiyatdagi[[N]] balki[[C]] biznes[[N]] sohasida[[N]] tutgan[[VB]] muhim[[JJ]] o‘rni[[N]] va[[C]] davlatingiz[[N]] rahbari[[N]] darajasida[[N]] xotin-qizlarga[[N]] ko‘rsatilayotgan[[VB]] yuksak[[JJ]] e’tibor[[N]] tahsinga[[N]] loyiq[[JJ]].
+
+Ayrim[[JJ]] hokimlar[[N]] hatto[[Prt]] o‘z[[P]] hududida[[N]] “pastga[[N]] tushmagan[[VB]]”, tadbirkorni[[N]] qo‘llab-quvvatlash[[VB]], ish[[N]] o‘rinlarini[[N]] ko‘paytirishga[[VB]] harakat qilmagan[[VB]].
+
+Ayrimlar[[JJ]] qizimning[[N]] bilimi[[N]] uchun[[II]] berilgan[[VB]] avtomashina[[N]] bilan[[II]] meni[[P]] qutlashdi[[VB]].
+
+Aytaylik[[VB]], 1-mart[[NER]] kuni[[N]] tarqatilgan[[VB]] xabarlarda[[N]] ertalab[[RR]] soat[[N]] 7:00dan[[NER]] 10:00gacha[[NER]] tig‘iz[[JJ]] vaqtda[[N]] yuk[[N]] mashinalari[[N]] shaharning[[N]] ichki[[JJ]] yo‘llariga[[N]] qo‘yilmay[[VB]], aylanma[[JJ]] yo‘llarga[[N]] yo‘naltirilayotgani[[VB]] qayd etilgan[[VB]].
+
+Aytaylik[[VB]], bir[[NUM]] soatda[[N]] qancha[[P]] yuk[[N]] mashinasi[[N]] kirib chiqishi[[VB]], qanaqa[[P]] tezlikda[[N]] harakatlanib[[VB]] chorrahalarda[[N]] tiqilinch[[JJ]] hosil qilishi[[VB]] borasida[[II]].
+
+Aytaylik[[VB]], tamaki[[N]] savdosi[[N]].
+
+Aytib o‘tish[[VB]] kerak[[MD]], nodavlat[[JJ]] OTMlarga[[N]] 2023-yil[[NER]] yanvarigacha[[N]] ta’lim[[N]] sifatini[[N]] nazorat qilish[[VB]] inspeksiyasi[[N]] litsenziya[[N]] bergan[[VB]].
+
+Aytib o‘tish[[VB]] kerakki[[MD]], Oliy Majlis Senati[[NER]] hamda[[C]] xotin-qizlarning[[N]] jamiyatdagi[[N]] rolini[[N]] oshirish[[VB]], gender[[N]] tenglik[[N]] va[[C]] oila[[N]] masalalari[[N]] bo‘yicha[[II]] respublika[[N]] komissiyasi[[N]] tomonidan[[II]] tashkil etilgan[[VB]] “Gender adolat yetakchilari”[[NER]] jamoasi[[N]] yosh[[JJ]] yigit[[N]] va[[C]] qizlardan[[N]] shakllantirildi[[VB]].
+
+Aytib o‘tmoqchimanki[[VB]], gender[[N]] adolat[[N]] faollariga[[JJ]] ular[[P]] murojaat qilishi[[VB]] mumkin[[MD]].
+
+Aytilishicha[[VB]], Amirov[[NER]] kelinining[[N]] o‘limidan[[N]] ko‘p[[RR]] o‘tmay[[VB]], murojaatchining[[N]] mahallasiga[[N]] kelib[[VB]], u yerda[[RR]] yo‘llarga[[N]] tosh[[N]] va[[C]] asfalt[[N]] yotqizish[[VB]] ishlarini[[N]] boshlashga[[VB]] kirishgan[[VB]].
+
+Aytilishicha[[VB]], foydalanuvchilarning[[N]] xarajatlari[[N]] to‘liq[[JJ]] qoplanadi[[VB]], negaki[[C]] yaxshilangan[[VB]] yo‘l[[N]] sharoitlari[[N]] ijobiy[[JJ]] ta’siri[[N]] yo‘l[[N]] haqi[[N]] miqdoridan[[N]] bir necha[[P]] baravar[[RR]] yuqori bo‘ladi[[VB]].
+
+Aytilishicha[[VB]], hujum[[N]] oqibatida[[N]] do‘konlar[[N]], mehmonxona[[N]] va[[C]] 13ga[[NUM]] yaqin[[JJ]] avtomobil[[N]] zarar ko‘rgan[[VB]].
+
+Aytish[[VB]] kerakki[[MD]], jahon[[N]] bo‘yicha[[II]] barcha[[P]] rezavor[[JJ]] mevalarni[[N]] yetishtirishda[[VB]] ushbu[[P]] davlat[[N]] yetakchilik qiladi[[VB]], malina[[N]] va[[C]] yejevika[[N]] ham[[Prt]] bundan[[P]] mustasno[[JJ]] emas[[VB]].
+
+Aytish[[VB]] mumkinki[[MD]], ushbu[[P]] markaz[[N]] O‘zbekistondagi[[NER]] import[[N]] yoki[[C]] eksport qilinayotgan[[VB]] mahsulotlarning[[N]] sifat[[N]] darajasini[[N]] yuqori[[JJ]] aniqlikda[[N]] tahlil qiluvchi[[VB]] ilk[[JJ]] xizmat ko‘rsatish[[VB]] markazidir[[N]].
+
+Aytishicha[[VB]], “O‘zbekiston[[NER]] hukumatini[[N]] obro‘sizlantirish[[VB]]” degan[[VB]] qonun[[N]] bor[[MD]] ekan[[VB]], lekin[[C]] aynan[[RR]] qaysi[[P]] qonun[[N]] ekanini[[VB]] so‘rasam[[VB]]-da[[Prt]], aytmadi[[VB]].
+
+Aytmoqchimanki[[VB]], hech bir[[P]] ishni[[N]] qo‘l[[N]] uchida[[N]] qilmadik[[VB]].
+
+BBC[[NER]] Ukraina[[NER]] xizmati[[N]] ma’lumotiga[[N]] ko‘ra[[II]], general[[N]] elchi[[N]] bo‘lishga[[VB]] rozilik[[N]] bergan[[VB]] va[[C]] yaqin[[JJ]] vaqtlar[[N]] ichida[[II]] prezident[[NER]] tegishli[[JJ]] farmonini[[N]] imzolaydi[[VB]].
+
+BBC[[NER]] manbasi[[N]] tasdiqlashicha[[VB]], Zalujniyga[[NER]] iste’fosidan[[N]] keyinoq[[RR]] Yevropa[[NER]] mamlakatlaridan[[N]] biridagi[[NUM]] elchilik[[N]] lavozimi[[N]] taklif etilgan[[VB]], ammo[[C]] o‘shanda[[P]] u[[P]] bu[[P]] taklifni[[N]] rad etgandi[[VB]].
+
+BBC[[NER]] manbasi[[N]] tasdiqlashicha[[VB]], shu[[P]] yil[[N]] yanvar[[N]] oyi[[N]] oxirida[[RR]], Zelenskiy[[NER]] o‘zaro[[JJ]] suhbatda[[N]] generalga[[N]] iste’fo[[N]] haqida[[II]] bildirganida[[VB]], armiyadagi[[N]] muayyan[[JJ]] o‘zgarishlar[[VB]] bo‘yicha[[II]] taklifini[[N]] ham[[Prt]] bergan[[VB]].
+
+BBC[[NER]] xodimi[[N]] Ibrat Safoning[[NER]] Ichki ishlarga[[NER]] chaqirilishi[[VB]] ortidan[[II]] Buyuk Britaniyaning[[NER]] O‘zbekistondagi[[NER]] favqulodda va muxtor elchisi[[NER]] Timoti Smart[[NER]] vaziyatga[[N]] o‘z[[P]] munosabatini[[N]] bildirib[[VB]], jurnalist[[N]] bilan[[II]] sodir bo‘lgan[[VB]] voqeani[[N]] qoralab[[VB]] chiqdi[[VB]].
+
+BMT[[NER]] Bosh Assambleyasi[[NER]] 2012-yil[[NER]] Falastinni[[NER]] kuzatuvchi[[N]] maqomidagi[[N]] davlat[[N]] sifatida[[N]] tan olgan[[VB]], biroq[[C]] mamlakat[[N]] hamon[[RR]] tashkilotga[[N]] to‘laqonli[[JJ]] a’zo[[N]] emas[[VB]].
+
+BMT[[NER]] Bosh Assambleyasi[[NER]] tomonidan[[II]] 1948-yil[[NER]] 10-dekabrda[[NER]] qabul qilingan[[VB]] ushbu[[P]] hujjatda[[N]] barcha[[P]] insonlar[[N]] o‘z[[P]] qadr-qimmati[[N]], huquqi[[N]] bilan[[II]] erkin[[JJ]] va[[C]] teng[[JJ]] holda[[N]] dunyoga[[N]] keladi[[VB]], deyilgan[[VB]].
+
+BMT[[NER]] iqtisodiy[[JJ]] va[[C]] ijtimoiy[[JJ]] kengashi[[N]] faoliyat[[N]] boshlagan[[VB]] yildayoq[[N]] ayollar[[N]] holati[[N]] bo‘yicha[[II]] komissiya[[N]] ta’sis etilgan[[VB]].
+
+BMT[[NER]] qochoq[[N]] sifatida[[N]] ro‘yxatga[[N]] olgan[[VB]] aksar[[RR]] falastinliklarda[[N]] Iordaniya[[NER]] passporti[[N]] ham[[Prt]] bor[[MD]].
+
+BMT[[NER]] vakili[[N]] xalqaro[[JJ]] hamjamiyatni[[N]] Gaitidagi[[NER]] tartibsizlik[[N]] kuchayib[[VB]] ketishiga[[VB]] qarshi[[JJ]] qat’iy[[JJ]] harakat qilishga[[VB]] chaqirgan[[VB]].
+
+BMTning[[NER]] 2030-yilgacha[[NER]] barqaror[[JJ]] rivojlanish[[VB]] kun[[N]] tartibi[[N]] va[[C]] barqaror[[JJ]] rivojlanish[[VB]] maqsadlari[[N]] (BRM[[NER]]) kontekstida[[N]] xalqaro[[JJ]] yil[[N]] jahon[[N]] hamjamiyatiga[[N]] barqaror[[JJ]] va[[C]] yashovchan[[JJ]] turizmni[[N]] rivojlantirish[[VB]] bo‘yicha[[II]] rejalar[[N]] hamda[[C]] strategiyalarni[[N]] qabul qilish[[VB]], shuningdek[[MD]], sayyohlikni[[N]] rivojlantirish[[VB]] bo‘yicha[[II]] global[[JJ]] rivojlanish[[VB]] kun[[N]] tartibini[[N]] amalga oshirish[[VB]] bo‘yicha[[II]] amaliy[[JJ]] harakatlarni[[N]] kuchaytirishga[[VB]] yo‘l ochadi[[VB]].
+
+BMTning[[NER]] Falastinga[[NER]] yordam[[N]] bo‘yicha[[II]] agentligi[[N]] rahbari[[N]] Filipp Lazarini[[NER]] havo[[N]] orqali[[II]] yordam[[N]] eng[[RR]] oxirgi[[JJ]] chora[[N]] va[[C]] juda[[RR]] qimmat[[JJ]] yo‘l[[N]] hisoblanadi[[VB]].
+
+Bag‘rikeng[[JJ]], mehr-oqibatli[[JJ]] xalqimiz[[N]] yanada[[RR]] jipslashib[[VB]], insoniylikning[[N]] yuksak[[JJ]] namunasini[[N]] ifoda etishdi[[VB]].
+
+Bahor[[N]] fasli[[N]] kirib kelishi[[VB]] bilan[[II]] Chevrolet[[NER]] sizni[[P]] avtomobillarga[[N]] foydali[[JJ]] taklif[[N]] bilan[[II]] yangilanish[[VB]] va[[C]] yangi[[JJ]] imkoniyatlarning[[N]] yorqin[[JJ]] sayohatiga[[N]] taklif qiladi[[VB]].
+
+Bahor[[N]] o‘simligining[[N]] oq[[JJ]] rangi[[N]] poklik[[N]] va[[C]] romantik[[JJ]] tuyg‘uni[[N]] beradi[[VB]].
+
+Bahorni[[N]] yangi[[JJ]] Chevrolet[[NER]] avtomobili[[N]] bilan[[II]] kutib oling[[VB]]!
+
+Bahorning[[N]] ilk[[JJ]] kunlaridanoq[[N]] bobo[[N]] dehqonga[[N]] ko‘makchi[[N]] sifatida[[N]] ilmiy[[JJ]] tavsiyalar[[N]] ham[[Prt]] asqatadi[[VB]].
+
+Bahromjon Haydarov[[NER]] 1972-yilda[[NER]] Qirg‘iziston Respublikasi[[NER]] O‘sh viloyatida[[NER]] tug‘ilgan[[VB]], 1995-yil[[NER]] Andijon iqtisodiyot va boshqaruv institutini[[NER]] (sirtqi[[JJ]]), 1998-yil[[NER]] O‘zbekiston[[NER]] Bank-moliya akademiyasini[[NER]] (kunduzgi[[JJ]]) tamomlagan[[VB]].
+
+Bakalavriat[[N]] ta’lim[[N]] yo‘nalishlari[[N]] uchun[[II]] 35[[NUM]] foiz[[N]] ilmiy[[JJ]] salohiyat[[N]] me’yor[[N]] bo‘lib[[VB]], bu[[P]] universitetda[[N]] 17[[NUM]] foizni[[N]] tashkil qilgan[[VB]].
+
+Balandligi[[N]] 7[[NUM]] qavatli[[JJ]] imoratga[[N]] teng[[JJ]] mazkur[[P]] bino[[N]] o‘z[[P]] ichiga[[II]] 17[[NUM]] ming[[NUM]] tomoshabinni[[N]] sig‘dirgan[[VB]].
+
+Balki[[C]] butunlay[[RR]] yo‘q bo‘lib ketishimiz[[VB]] ham[[Prt]] mumkin[[MD]] edi[[VB]].
+
+Balki[[C]] sotiladigan[[VB]] mahsulotlar[[N]] javob[[N]] berishi[[VB]] kerak[[MD]] bo‘lgan[[VB]] standartlarning[[N]] yuqoriligi[[N]], balki[[C]] oson[[JJ]] yo‘l[[N]] bilan[[II]] pul[[N]] orttirishga[[VB]] bo‘lgan[[VB]] istakning[[N]] kuchi[[N]] qo‘shtirnoq[[N]] ichidagi[[II]] ba’zi[[P]] tadbirkorlarni[[N]] qing‘ir[[JJ]] yo‘llarga[[N]] boshlayapti[[VB]].
+
+Balki[[C]], mahalla[[N]] fuqarolar[[N]] yig‘ini[[N]] mas’ullari[[N]] o‘tiradigan[[VB]] bino[[N]] haqida[[II]].
+
+Balki[[C]], olgansiz[[VB]]-u[[Prt]], o‘zingiz[[P]] uning[[P]] qonunga[[N]] xilof[[JJ]] olib kelingani[[VB]] yoki[[C]] sotilayotgani[[VB]] haqida[[II]] o‘ylab ko‘rmagandirsiz[[VB]].
+
+Balki[[C]], ushbu[[P]] qisqartirishlar[[VB]] natijasidami[[N]], o‘tgan[[VB]] yili[[N]] 15[[NUM]] yoshli[[JJ]] o‘quvchilar[[N]] bilimini[[N]] baholash[[VB]] bo‘yicha[[II]] xalqaro[[JJ]] dastur[[N]] – PISA[[NER]] testlarida[[N]] o‘zbekistonlik[[N]] o‘quvchilar[[N]] 81ta[[NUM]] mamlakat[[N]] orasida[[II]] tabiiy[[JJ]] fanlar[[N]] va[[C]] o‘qish[[VB]] savodxonligi[[N]] yo‘nalishlarida[[N]] eng[[RR]] oxiridan[[RR]] bitta[[NUM]] oldingi[[JJ]] o‘rinni[[N]] (80-o‘rin[[NER]]) egalladi[[VB]].
+
+Balki[[C]], “yetim”[[N]] qonunimiz[[N]] qabul qilinib[[VB]], kuchga kirganda[[VB]] O‘zbekistondagi[[NER]] yirik[[JJ]] subyekt[[N]] va[[C]] tarmoqlar[[N]] amaldorlarning[[N]] qarindoshlari[[N]] yaqinda[[RR]] tashkil etgan[[VB]] kompaniyalari[[N]] qo‘liga[[N]] bu[[P]] kabi[[II]] sirli[[JJ]] tarzda[[N]] o‘tib qolmasmidi[[VB]]!
+
+Balkim[[MD]] qurilish[[VB]] va[[C]] savdo[[N]] bilan[[II]] shug‘ullanadigan[[VB]] tadbirkorlar[[N]] aniq[[JJ]] bir[[NUM]] jadvallar[[N]] bilan[[II]] ishlashni[[VB]] o‘rganishi[[VB]] kerak[[MD]] bo‘ladi[[VB]].
+
+Baraka topishsin[[VB]] “Bahor” ansamblining[[NER]] qizlari[[N]].
+
+Barcha[[P]] komplektatsiyalar[[N]] avtomobilni[[N]] boshqarishda[[N]] maksimal[[JJ]] qulaylik[[N]] va[[C]] xavfsizlikni[[N]] ta’minlaydigan[[VB]] barqaror[[JJ]] harakatlanish[[VB]] tizimi[[N]] (ESC[[NER]]), 6ta[[NUM]] xavfsizlik[[N]] yostig‘i[[N]], avtomatik[[JJ]] tormozlash[[VB]] tizimi[[N]], piyodalarni[[N]] aniqlash[[VB]] tizimi[[N]], mumkin[[MD]] bo‘lgan[[VB]] oldindan[[RR]] to‘qnashuv[[N]] haqida[[II]] ogohlantirish[[N]] tizimi[[N]], tepalikka[[N]] chiqishda[[VB]] yordam[[N]] tizimi[[N]] kabi[[II]] opsiyalar[[N]] bilan[[II]] jihozlangan[[VB]].
+
+Barcha[[P]] tadbirkorlar[[N]] uchun[[II]] bitta[[NUM]] laboratoriya[[N]] ishlagani[[VB]] sababli[[II]] navbati[[N]] kelishini[[VB]] kamida[[RR]] bir[[NUM]] oy[[N]] kutishga[[VB]] majbur bo‘ladigan[[VB]] tadbirkorlarning[[N]] tovarlari[[N]] sinov[[N]] natijalari[[N]] chiqquncha[[VB]] bojxona[[N]] omborida[[N]] turishi[[VB]] kerak[[MD]].
+
+Barchamiz[[P]] bilamizki[[VB]], poytaxtimiz[[N]] Toshkent shahriga[[NER]] yoki[[C]] boshqa[[JJ]] yirik[[JJ]] shaharlarimizda[[N]] ham[[Prt]] tig‘iz[[JJ]] vaqt[[N]] ertalab[[RR]] odamlarning[[N]] ishga[[N]] borishida[[VB]] va[[C]] kechqurun[[RR]] ishdan[[N]] qaytayotgan[[VB]] chog‘da[[n]] ro‘y beradi[[VB]].
+
+Barchangiz[[P]] bilan[[II]] tanishib[[VB]], muammolarni[[N]] eshitib[[VB]], qo‘limdan kelganicha[[VB]] bugun[[RR]], bugun[[RR]] bo‘lmasa[[VB]], ertaga[[RR]] yechishga[[VB]] harakat qilaman[[VB]].
+
+Barchasi[[P]] oddiy[[JJ]] qo‘llab-quvvatlash[[VB]] va[[C]] ilhomlantirishdan[[VB]] boshlanadi[[VB]].
+
+Baribir[[RR]] cheklov[[N]] sifatida[[N]] ishlayapti[[VB]].
+
+Baribir[[RR]] pul[[N]] berarkanmiz[[VB]], o‘z[[P]] ustimizda[[N]] ishlab[[VB]] nima qilamiz[[VB]] degan[[VB]] fikr[[N]] bo‘ladi[[VB]].
+
+Baronlar[[N]] – kimlar[[P]] deb[[VB]] o‘ylaysiz[[VB]]? 
+
+Batafsil[[RR]] ma’lumotlarni[[N]] rasmiy[[JJ]] dilerliklar[[N]] yoki[[C]] kompaniya[[N]] call-markazidan[[N]] olishingiz[[VB]] mumkin[[MD]].
+
+Baxtimga[[N]], nevaram[[N]] aqlli[[JJ]] chiqqan[[VB]] – internetdan[[N]] qidirib[[VB]], “Zolotaya Korona”[[NER]] ilovasi[[N]] borligini[[N]] aytdi[[VB]].
+
+Baxtiyor Saidov[[NER]] O‘zbekiston Prezidenti[[NER]] Shavkat Mirziyoyevning[[NER]] salomini[[n]] yetkazgan[[VB]].
+
+Bayden[[NER]] Amerika[[NER]] iqtisodiyoti[[N]] tez[[RR]] tiklanishda[[VB]] davom etayotganini[[VB]] va[[C]] amerikaliklarning[[N]] ommaviy[[JJ]] emlanishi[[VB]] tufayli[[II]] pandemiya[[N]] endi[[RR]] ularning[[P]] hayotini[[N]] nazorat qilmasligini[[VB]] ta’kidladi[[VB]].
+
+Bayden[[NER]] Isroilning[[NER]] Hamasga[[NER]] qarshi[[JJ]] harakat qilish[[VB]] huquqiga[[N]] ega[[JJ]] ekanini[[VB]] da’vo qilib[[VB]], “Hamas[[NER]] bugun[[RR]] bu[[P]] mojaroni[[N]] garovga olganlarni[[VB]] ozod qilish[[VB]], qurollarini[[N]] tashlash[[VB]] va[[C]] 7-oktyabr[[NER]] hujumlari[[N]] uchun[[II]] aybdorlarni[[JJ]] javobgarlikka[[N]] tortish[[VB]] orqali[[II]] tugatishi[[VB]] mumkin[[MD]]”, – deb[[VB]] ta’kidladi[[VB]].
+
+Bayden[[NER]] Pentagon[[NER]] xarajatini[[N]] oshirmoqchi[[VB]].
+
+Bayden[[NER]] Trampning[[NER]] o‘sha[[P]] so‘zlaridan[[N]] keyin[[II]] darhol[[RR]] buni[[P]] aqlsizlik[[N]] va[[C]] mas’uliyatsizlik[[N]] deb[[VB]] atagandi[[VB]].
+
+Bayden[[NER]] vakillar[[N]] palatasi[[N]] va[[C]] senat[[N]] a’zolarining[[N]] ko‘pchiligi[[N]] agar[[C]] imkoniyat[[N]] bo‘lsa[[VB]] ushbu[[P]] qonun[[N]] loyihasini[[N]] qo‘llab-quvvatlashiga[[VB]] ishonch[[N]] bildirdi[[VB]].
+
+Bayden[[NER]] demokratiyaga[[N]] tahdidlarga[[N]] e’tibor qaratdi[[VB]], chunki[[C]] uning[[P]] fikricha[[N]], sobiq[[JJ]] prezident[[NER]] Donald Tramp[[NER]] 2020-yilgi[[NER]] saylovlardagi[[N]] Baydenning[[NER]] mag‘lubiyati[[N]] haqidagi[[II]] yolg‘on[[N]] da’volarini[[N]] takrorlaydi[[VB]] va[[C]] siyosiy[[JJ]] dushmanlari[[N]] ortidan[[II]] borishni[[VB]] rejalashtirmoqda[[VB]].
+
+Bayden[[NER]] ham[[Prt]] G‘azoga[[NER]] dengiz[[N]] korridori[[N]] haqida[[II]] gapirdi[[VB]].
+
+Bayden[[NER]] ma’muriyati[[N]] Makronning[[NER]] bayonotiga[[N]] 23[[NUM]] soat[[N]] ichida[[II]] munosabat[[N]] bildirdi[[VB]] tezlik[[N]] bilan[[II]].
+
+Bayden[[NER]] o‘z[[P]] murojaatini[[N]] Ukrainadagi[[NER]] urush[[N]] mavzusi[[N]] bilan[[II]] boshlab[[II]], o‘z[[P]] chiqishi[[VB]] va[[C]] prezident[[NER]] Franklin Ruzveltning[[NER]] 1941-yil[[NER]] yanvaridagi[[N]] chiqish[[VB]] o‘rtasida[[II]] parallellar[[N]] o‘tkazdi[[VB]].
+
+Bayden[[NER]] rossiyaliklar[[N]] prezidentiga[[NER]] yuzlangan[[VB]].
+
+Men[[P]] Putinga[[NER]] oddiy[[JJ]] bir[[NUM]] gapni[[N]] aytmoqchiman[[VB]].
+
+Biz[[P]] ittifoqchilarimizni[[N]] tashlab qo‘ymaymiz[[VB]].
+
+Bayden[[NER]] shuningdek[[MD]] Ukrainaga[[NER]] yordamni[[N]] bloklayotgan[[VB]] kongressmenlarni[[N]] qoralab[[VB]], o‘zidan[[P]] oldingi[[JJ]] prezident[[NER]] Donald Trampni[[NER]] tanqid qildi[[VB]].
+
+Bayden[[NER]] yirik[[JJ]] farmatsevtika[[N]] va[[C]] neft[[N]] kompaniyalari[[N]], xususiy[[JJ]] samolyotlar[[N]] va[[C]] rahbarlarning[[N]] katta[[JJ]] maoshlari[[N]] uchun[[II]] soliq[[N]] imtiyozlarini[[N]] to‘xtatishga[[VB]] va’da bergan[[VB]].
+
+Baydenni[[NER]] partiyadoshlari[[N]] butun[[P]] nutq[[N]] davomida[[II]] deyarli[[RR]] har bir[[P]] jumladan[[MD]] keyin[[II]] o‘rnidan turib[[VB]] qarsak[[N]] chalishgan[[VB]].
+
+Baydenning[[NER]] eslatishicha[[VB]], respublikachi[[N]] prezident[[NER]] Ronald Reygan[[NER]] “Janob[[N]] Gorbachyov[[NER]], mana bu[[P]] (Berlin[[NER]]) devorini[[N]] yiqitib[[VB]] yuboring[[VB]]”, – deganiga[[VB]] ko‘p[[RR]] bo‘lmagan[[VB]].
+
+Baydenning[[NER]] fikricha[[N]], Hamas[[NER]] tinch[[JJ]] aholi[[N]] ortiga[[II]] yashiringan[[VB]].
+
+Baydenning[[NER]] so‘zlariga[[N]] ko‘ra[[II]], NATO[[NER]] hozirda[[RR]] jahon[[N]] tarixidagi[[N]] eng[[RR]] qudratli[[JJ]] harbiy-siyosiy[[JJ]] ittifoq[[N]] hisoblanadi[[VB]].
+
+Baydenning[[NER]] ta’kidlashicha[[VB]], Ukraina[[NER]] AQSh[[NER]] qurol-yarog‘i[[N]] tufayli[[II]] Rossiyani[[NER]] to‘xtata oladi[[VB]].
+
+Bayonnomalarimizda[[N]] ifodalayotgan[[VB]] 66[[NUM]] km/s[[NER]], 76[[NUM]] km/s[[NER]] kabi[[II]] tezliklar[[N]] to‘rtinchi[[NUM]] kosmik[[JJ]] tezlikka[[N]] sal[[RR]] yetmaydi[[VB]].
+
+Bayramgacha[[N]] obodonlashtirish-ko‘kalamzorlashtirish[[VB]] ishlarini[[N]] bajarib[[VB]], obod[[JJ]], ko‘rkam[[JJ]] joylarda[[N]] “Navro‘z”ni[[NER]] nishonlaymiz[[VB]].
+
+Bayramimga[[N]] zo‘r[[JJ]] sovg‘a[[N]] bo‘ldi[[VB]].
+
+Ba’zi[[P]] gumonlanuvchilar[[N]] ishlari[[N]] sudga[[N]] oshirilishidan[[VB]] oldinroq[[RR]] olomon qilib[[VB]] o‘ldirilgan[[VB]].
+
+Ba’zi[[P]] hind[[N]] taksilari[[N]] va[[C]] avtorikshalari[[N]] soxta[[JJ]] yonilg‘i[[N]] aralashmasida[[N]] harakatlanadi[[VB]].
+
+Ba’zi[[P]] ko‘rsatkichlar[[N]] bunday[[P]] qulayliklar[[N]] bo‘lmagan[[VB]] ayrim[[JJ]] chekka[[JJ]] hududlardagidan[[N]] ham[[Prt]] past[[JJ]].
+
+Ba’zi[[P]] ma’lumotlarga[[N]] ko‘ra[[II]], yuzlab-minglab[[NUM]] odamlar[[N]] halok bo‘lgan[[VB]].
+
+Ba’zi[[P]] ota-onalar[[N]] bolaga[[N]] oddiy[[JJ]] etiket[[N]] qoidalarini[[N]] ham[[Prt]] o‘rgatmasligidan[[VB]] nega[[P]] boshqalar[[JJ]] aziyat chekishi[[VB]] kerak[[MD]]?
+
+Ba’zi[[P]] shaharlarga[[N]] esa[[C]] yuk[[N]] mashinalari[[N]] umuman[[MD]] kirgizilmaydi[[VB]].
+
+Ba’zi[[P]] tadqiqotchilarning[[N]] fikriga[[N]] ko‘ra[[II]], gender[[N]] tengligi[[N]] – bu[[P]] patriarxal[[JJ]] tizimdan[[N]] keyingi[[JJ]] ijtimoiy-jinsiy[[JJ]] munosabatlarning[[N]] keyingi[[JJ]] bosqichi[[N]].
+
+Ba’zida[[RR]], taqdir[[N]] taqozosi[[N]] bilan[[II]], yaqinlarimizdan[[JJ]] uzoqda[[RR]] bo‘lamiz[[VB]].
+
+Ba’zilar[[JJ]] Doniyor Komilov[[NER]] oligarx[[N]] Alisher Usmonovning[[NER]] qo‘llovi[[N]] bilan[[II]] Rossiyada[[NER]] pul[[N]] va[[C]] obro‘-e’tibor[[N]] orttirgan[[VB]], deb[[VB]] aytadi[[VB]].
+
+Bekobod tumani[[NER]] IIB[[NER]] boshlig‘i[[N]] o‘rinbosari[[N]] 2020-yil[[NER]] avgustida[[N]] 5000[[NUM]] AQSh[[NER]] dollari[[N]] miqdorida[[N]] pora[[N]] olayotganida[[VB]] qo‘lga olingan[[VB]], bu[[P]] haqda[[II]] kun.uz[[NER]] o‘z[[P]] manbasiga[[N]] tayanib[[VB]] xabar bergandi[[IB]].
+
+Bekorga[[RR]] “o‘rgangan[[VB]] ko‘ngil[[N]] o‘rtansa[[VB]] qo‘ymas[[VB]]” demaydi[[VB]].
+
+Bektemir[[NER]] tumani[[N]] bo‘yicha[[II]] Alibek[[NER]] masjidi[[N]] M.Avezov[[NER]] ko‘chasidan[[N]] Xusayin Boyqaro[[N]] ko‘chasiga[[NER]] qadar[[II]] transport[[N]] vositalari[[N]] harakati[[N]] uchun[[II]] cheklanadi[[VB]].
+
+Belgilangan[[VB]] reja[[N]] grafik[[N]] asosida[[N]] ushbu[[P]] ko‘chalar[[N]] “Ko‘chmas[[JJ]] mulk[[N]] subyektlari[[N]] manzillari[[N]] yagona[[JJ]] reyestriga[[N]]” kiritiladi[[VB]].
+
+Belgorod[[NER]] va[[C]] Voronej[[NER]] oblastlari[[N]] gubernatorlari[[N]] ham[[Prt]] dronlar[[N]] hujumi[[N]] to‘g‘risida[[II]] xabar bergan[[IB]].
+
+Bemorning[[N]] yagona[[JJ]] yo‘li[[N]] protezlardan[[N]] foydalanish[[VB]] yoki[[C]] qo‘l[[N]] transplantatsiyasi[[N]] edi[[VB]].
+
+Benzin[[N]] va[[C]] dizelni[[N]] arzonroq[[JJ]] yonilg‘ilar[[N]] bilan[[II]] soxtalashtirish[[VB]] Janubiy Osiyoda[[NER]], jumladan[[MD]] Hindistonda[[NER]] keng[[JJ]] tarqalgan[[VB]].
+
+Benzinning[[N]] dizel[[N]] yonilg‘isidan[[N]] qimmatligi[[JJ]] kam[[RR]] daromadli[[JJ]] haydovchilarni[[N]] shu[[P]] ishni[[N]] qilishga[[VB]] majbur qiladi[[VB]].
+
+Berilgan[[VB]] taklif[[N]] va[[C]] tavsiyalar[[N]] asosida[[N]] qonun[[N]] loyihasini[[N]] yanada[[RR]] takomillashtirib[[VB]], puxta-pishiq[[JJ]] holatga[[N]] keltiramiz[[VB]].
+
+Besh[[NUM]] kishi[[N]] halok bo‘lgan[[VB]], yana[[RR]] besh[[NUM]] kishi[[N]] yaralangan[[VB]].
+
+Besh[[NUM]] kishi[[N]], jumladan[[MD]] Kirovsk[[NER]] kommunal[[JJ]] xizmatlar[[N]] kombinatining[[N]] to‘rt[[NUM]] nafar[[N]] xodimi[[N]] halok bo‘lgan[[VB]], yana[[RR]] uch[[NUM]] kishi[[N]] jarohatlangan[[VB]].
+
+Beshinchi[[NUM]] toifa[[N]] bo‘yicha[[II]] uy-joyga[[N]] muhtoj[[JJ]] bo‘lgan[[VB]] 8[[NUM]] ming[[NUM]] 656[[NUM]] nafar[[N]] xotin-qizning[[N]] uy-joy[[N]] sharoitlarini[[N]] yaxshilash[[VB]] choralari[[N]] ko‘rildi[[VB]].
+
+Bezos[[NER]] va[[C]] Maskdan[[NER]] keyin[[II]], uchinchi[[NUM]] o‘rinni[[N]] LVMH[[NER]] (Louis Vuitton Moet Hennessy[[NER]]) mashhur[[JJ]] hashamatli[[JJ]] tovarlar[[N]] ishlab chiqaruvchi[[VB]] fransuz[[N]] transmilliy[[JJ]] kompaniya[[N]] egasi[[N]] Bernard Arno[[NER]] egalladi[[VB]].
+
+Bezosning[[NER]] boyligi[[N]] 200[[NUM]] milliard[[NUM]] dollarni[[N]], Maskniki[[NER]] esa[[C]] 198[[NUM]] milliard[[NUM]] dollarni[[N]] tashkil etmoqda[[VB]].
+
+Bilaman[[VB]], bu[[P]] shikoyati[[N]] bilan[[II]] hech narsaga[[P]] erisholmaydi[[VB]], lekin[[C]] baribir[[RR]] direktor[[N]] bizga[[P]] uzr so‘rattiradi[[VB]], to‘g‘ri[[JJ]] tushuntirmagansan[[VB]] deydi[[VB]].
+
+Bilamizki[[VB]], bazi[[JJ]] holatlarda[[N]] yaxshigina[[JJ]] lavozimni[[N]] egallab turgan[[VB]] amaldorlarning[[N]] ustidan[[II]] ham[[Prt]] jinoyat[[N]] ishlari[[N]] ko‘riladi[[VB]].
+
+Bilamizki[[VB]], bunda[[P]] pedagog[[N]] kadrlarning[[N]] o‘rni[[N]] nihoyatda[[RR]] muhim[[JJ]].
+
+Bilamizki[[VB]], har bir[[P]] ko‘chatning[[N]] xarakter[[N]] xususiyatidan[[N]] kelib chiqib[[VB]] unga[[P]] ishlov berilsagina[[VB]] ko‘zlangan[[VB]] samaraga[[N]] erishish[[VB]] mumkin[[MD]].
+
+Bildirilishicha[[MD]], 10-mart[[NER]] kuni[[N]] xufton[[N]] namozidan[[N]] so‘ng[[II]] mamlakatdagi[[N]] masjidlarda[[N]] taroveh[[N]] namozi[[N]] boshlanadi[[VB]].
+
+Bildirilishicha[[MD]], Madrimov[[NER]] sudga[[N]] yaqin[[JJ]] hududda[[N]] istiqomat qiladi[[VB]].
+
+Bildirilishicha[[MD]], avtomobil[[N]] yo‘llari[[N]] sifatini[[N]] yaxshilash[[VB]] va[[C]] eng[[RR]] maqbul[[JJ]] tezlik[[N]] rejimidan[[N]] foydalanish[[VB]] avtotransport[[N]] vositalarining[[N]] yonilg‘i[[N]] sarfini[[N]] taxminan[[RR]] 10-15[[NUM]] foizga[[N]] kamaytiradi[[VB]] va[[C]] harakatlanish[[VB]] vaqtini[[N]] qisqartiradi[[VB]].
+
+Bildirilishicha[[MD]], eksponatning[[N]] boshlang‘ich[[JJ]] narxi[[N]] 40[[NUM]] ming[[NUM]] dollar[[N]] deb[[VB]] belgilangan[[VB]].
+
+Bildirilishicha[[MD]], ko‘prikning[[N]] uzunligi[[N]] 423[[NUM]] metr[[N]].
+
+Bildirilishicha[[MD]], yo‘l[[N]] qoplamasining[[N]] yaxshilanishi[[VB]] avtotransport[[N]] vositalari[[N]] va[[C]] shinalarning[[N]] yurish[[VB]] qismlar[[N]] va[[C]] pokrishkalar[[N]] ishlash[[VB]] muddatini[[N]] (taxminan[[RR]] o‘nlab[[NUM]] foizga[[N]]) oshiradi[[VB]] va[[C]] natijada[[N]] tegishli[[JJ]] komponentlarni[[N]] almashtirish[[VB]] xarajatlarini[[N]] kamaytiradi[[VB]].
+
+Bilishimcha[[MD]], “Bavariya”ning[[NER]] mening[[P]] agentim[[N]] bilan[[II]] haqiqatdan[[MD]] ham[[Prt]] ma’lum[[JJ]] aloqalari[[N]] bo‘lgan[[VB]].
+
+Bundan[[P]] tashqari[[II]], u[[P]] xususiy[[JJ]] univesitetda[[N]] tahsil[[N]] olgani[[VB]] va[[C]] shu[[P]] kunlarda[[N]] o‘qishi[[VB]] boshlangani[[VB]] sabab[[N]] vaqtincha[[RR]] ishdan[[N]] ozod qilingan[[VB]] bo‘lgan[[VB]].
+
+Bino[[N]] hozir[[RR]] butunlay[[RR]] buzib[[VB]] yuborilgan[[VB]], uning[[P]] o‘rnida[[N]] “Radisson Collection Hotel”[[NER]] mehmonxonasi[[N]] quriladi[[VB]].
+
+Bino[[N]] ichida[[N]] shuningdek[[MD]], ma’muriyat[[N]], kutubxona[[N]] kabi[[II]] zarur[[MD]] xonalar[[N]], mahalliy[[JJ]] hamda[[C]] xorijlik[[N]] turist[[N]] ayollar[[N]] uchun[[II]] tahoratxona[[N]] va[[C]] namozxona[[N]] tashkil etilgan[[VB]].
+
+Bino[[N]] o‘sha[[P]] vaqtda[[N]] moddiy[[JJ]] madaniy[[JJ]] merosning[[N]] ko‘chmas[[JJ]] mulk[[N]] subyektlari[[N]] milliy[[JJ]] ro‘yxatida[[N]] turardi[[VB]].
+
+Binobarin[[C]], kilometr[[N]] — km[[NER]], soat[[N]] esa[[C]] h[[NER]] tarzida[[N]] ifodalanadi[[VB]] va[[C]] tezlikning[[N]] kilometr/soatdagi[[N]] ifodasi[[N]] km/h[[NER]] ko‘rinishida[[VB]] yozilishi[[VB]] shart[[MD]]!
+
+Binobarin[[C]], sobiq[[JJ]] prezident[[NER]] Donald Tramp[[NER]] va[[C]] uning[[P]] Kongressdagi[[N]] ittifoqchilari[[N]] moliyalashtirishni[[VB]] xorijiy[[JJ]] nizoga[[N]] emas[[VB]], balki[[C]] mahalliy[[JJ]] chegara[[N]] nazorati[[N]] kabi[[II]] ichki[[JJ]] masalalarga[[N]] yo‘naltirishni[[VB]] istashadi[[VB]].
+
+Binoda[[N]] xonalar[[N]] yetishmaydi[[VB]].
+
+Binoda[[N]] zamon[[N]] talabiga[[N]] mos[[JJ]] “Aqlli uy”[[NER]] tizimi[[N]] hamda[[C]] tezyurar[[JJ]] liftlar[[N]] o‘rnatilgan[[VB]].
+
+Bir[[NUM]] kun[[N]] avval[[RR]] AQSh Prezidenti[[NER]] Jo Bayden[[NER]] xalqqa[[N]] murojaatida[[N]] Ukrainaga[[NER]] Amerika[[NER]] qo‘shinlarini[[N]] jo‘natish[[VB]] niyatida[[N]] emasligini[[N]] aytgan[[VB]] edi[[VB]].
+
+Bir[[NUM]] kun[[N]] ko‘zim[[N]] shunga[[P]] o‘xshagan[[VB]] bir[[NUM]] e’longa[[N]] tushib qoldi[[VB]], unga[[P]] ko‘ra[[II]], ingliz[[N]] tilini[[N]] bilish[[VB]] kerak[[MD]], qassoblik[[N]] bo‘yicha[[II]] Angliyadan[[NER]] vakansiya[[N]] chiqdi[[VB]].
+
+Bir[[NUM]] martalik[[N]] ishlatiladigan[[VB]] plastmassalarning[[N]] birinchi[[NUM]] toifasi[[N]] muzqaymoq[[N]], shirinliklar[[N]] qadoqlari[[N]], sharlar[[N]] va[[C]] plastik[[N]] tayoqlar[[N]], shuningdek[[MD]], plyonkalar[[N]], sigaret[[N]] paketlari[[N]] bo‘lsa[[VB]], keyingi[[JJ]] bosqichlarda[[N]] qayta[[RR]] ishlatish[[VB]] imkoniyatiga[[N]] ega bo‘lgan[[VB]] qalinligi[[N]] 100[[NUM]] mikrondan[[N]] ko‘p[[RR]] bo‘lgan[[VB]] plastik[[N]] mahsulotlar[[N]] nazarda tutilgan[[IB]].
+
+Bir necha[[P]] kun[[N]] avval[[RR]] gumanitar[[JJ]] yordam[[N]] uchun[[II]] navbatda[[N]] turgan[[VB]] odamlarga[[N]] berilgan[[VB]] Isroil[[NER]] raketa[[N]] zarbasi[[N]] oqibatida[[N]] kamida[[RR]] 100[[NUM]] kishi[[N]] halok bo‘ldi[[VB]], 700[[NUM]] kishi[[N]] yaralandi[[VB]].
+
+Bir necha[[P]] kun[[N]] avval[[RR]] “O‘zbekneftgaz”ning[[NER]] 78ta[[NUM]] AYOQShini[[NER]] nazorat qiluvchi[[VB]] “UNG Petro”ning[[NER]] 100[[NUM]] foizlik[[N]] ulushi[[N]] Doniyor Komilovga[[NER]] tegishli[[JJ]], ochilganiga[[VB]] hali[[RR]] bir[[NUM]] yil[[N]] ham[[Prt]] bo‘lmagan[[VB]] kompaniyasi[[N]] – “Petroleum Technology Group”ga[[NER]] o‘tgani[[VB]] ma’lum bo‘ldi[[VB]].
+
+Bir necha[[P]] marta[[N]] mag‘lub bo‘ldim[[VB]].
+
+Bir necha[[P]] oy[[N]] oldin[[RR]] bir necha[[P]] fransiyalik[[N]] Rossiyaga[[NER]] asir[[N]] tushgan[[VB]], Fransiya[[NER]] tomoni[[N]] bu[[P]] bizning[[P]] askarlar[[N]] emas[[VB]], o‘zboshimcha[[JJ]] ketgan[[VB]], Fransiya[[NER]] qonunlarini[[N]] buzgan[[VB]] odamlar[[N]] deb[[VB]] bayonot bergandi[[VB]].
+
+Bir necha[[P]] yildan[[N]] beri[[II]] Irkutskda[[NER]] ishlayman[[VB]].
+
+Bir[[NUM]] qator[[N]] kichik[[JJ]] tadbirkorlar[[N]] faoliyatini[[N]] to‘xtatgan[[VB]].
+
+Bir[[NUM]] soatdan[[N]] ortiq[[JJ]] cho‘zilgan[[VB]] chiqishi[[VB]] vaqtida[[N]] prezident[[NER]] Ukrainani[[NER]] qo‘llab-quvvatlash[[VB]], Vladimir Putinga[[NER]] qarshi kurashish[[VB]], Yaqin Sharqdagi[[NER]] mojaro[[N]] hamda[[C]] AQShning[[NER]] ichki[[JJ]] muammolari[[N]] haqida[[II]] gapirdi[[VB]].
+
+Bir[[NUM]] so‘z[[N]] bilan[[II]] aytganda[[VB]], talabalarning[[N]] ortiqcha[[JJ]] ovoragarchiligiga[[N]] barham beradigan[[VB]], ta’lim[[N]] jarayoni[[N]] bilan[[II]] bog‘liq[[JJ]] barcha[[P]] savollariga[[N]] javob topiladigan[[VB]] hamda[[C]] sifatli[[JJ]] xizmat ko‘rsatiladigan[[VB]] markaz[[N]] hisoblanadi[[VB]].
+
+Bir[[NUM]] tekshirishda[[VB]] 12ta[[NUM]] xolodilnikni[[N]] tekshira olamiz[[VB]].
+
+Bir[[NUM]] tomondan[[N]], buni[[P]] kamchilik[[N]] sifatida[[N]] ko‘rish[[VB]] mumkin[[MD]].
+
+Bir[[NUM]] umrlik[[N]] qamoqqa[[N]] hukm qilingan[[VB]] Mandela[[NER]] 1991-yilda[[NER]] ozodlikka[[N]] chiqadi[[VB]] va[[C]] 1994-yilda[[NER]] JARning[[NER]] birinchi[[NUM]] qora[[JJ]] tanli[[JJ]] prezidenti bo‘ladi[[VB]].
+
+Bir[[NUM]] vaqtning[[N]] o‘zida[[P]] 500[[NUM]] kishiga[[N]] xizmat[[N]] ko‘rsatish[[VB]] imkoniyati[[N]] yaratiladigan[[VB]] mazkur[[P]] mehmonxonada[[N]] yuqori[[JJ]] martabali[[JJ]] mehmonlar[[N]] uchun[[II]] sharoitlar[[N]], 273ta[[NUM]] standart[[JJ]] xona[[N]] tashkil etiladi[[VB]].
+
+Bir[[NUM]] xil[[N]] firma[[N]], bir[[NUM]] xil[[N]] mahsulot[[N]] olib kiraman[[VB]], nega[[P]] energosamaradorlik[[N]] testida[[N]] har bir[[P]] partiya[[N]] alohida[[JJ]] sinovdan[[N]] o‘tkaziladi[[VB]]. 
+
+Bir[[NUM]] yil[[N]] o‘tib[[VB]], butun[[P]] dunyoda[[N]] davom etayotgan[[VB]] koronavirus[[N]] pandemiyasiga[[N]] qaramay[[VB]], o‘zbek[[N]] milliy[[JJ]] uslubidagi[[N]] masjid[[N]] to‘la[[JJ]] qurib[[VB]] bitkazildi[[VB]].
+
+Birinchi jahon urushida[[NER]] Rossiyaning[[NER]] og‘ir[[JJ]] ahvolidan[[N]] foydalangan[[VB]] Ruminiya[[NER]] Bessarabiyaning[[NER]] katta[[JJ]] qismini[[N]] o‘ziga[[P]] qo‘shib oladi[[VB]].
+
+Birinchi[[NUM]] laboratoriya[[N]] (Eltech-Lab[[NER]]) ishga tushishi[[VB]] bilan[[II]] birinchi[[NUM]] bosqichda[[N]] sovitkich[[N]] va[[C]] konditsionerlarni[[N]] sinovdan[[N]] o‘tkazish[[VB]] boshlangan[[VB]].
+
+Birinchi[[NUM]] laboratoriya[[N]] (Eltech-Lab[[NER]]) ishga tushishi[[VB]] bilan[[II]] birinchi[[NUM]] bosqichda[[N]] sovutkich[[N]] va[[C]] konditsionerlarni[[N]] sinovdan[[N]] o‘tkazish[[VB]] boshlanadi[[VB]].
+
+Birinchi[[NUM]] navbatda[[N]] tilni[[N]] o‘rganish[[VB]] kerak[[MD]], Yevropaga[[NER]] kelish[[VB]] qiyin[[JJ]] emas[[VB]].
+
+Birinchi[[NUM]] o‘rinni[[N]] Yangiqo‘rg‘on tumanidagi[[NER]] “Qizilyozi” mahalla[[NER]] fuqarolar[[N]] yig‘ini[[N]] raisi[[N]] Jahongir Yoqubjonov[[NER]] qo‘lga kiritib[[IB]], tanlovning[[N]] mamlakat[[N]] bosqichiga[[N]] yo‘llanma[[N]] oldi[[VB]].
+
+Birinchidan[[MD]], gender[[N]] tenglikni[[N]] ta’minlash[[VB]] siyosatini[[N]] davom ettirish[[VB]], xotin-qizlarning[[N]] ijtimoiy-siyosiy[[JJ]] faolligini[[N]] oshirish[[VB]] orqali[[II]] boshqaruv[[VB]] lavozimlaridagi[[N]] xotin-qizlar[[N]] ulushini[[N]] oshirish[[VB]], ikkinchidan[[MD]], jamiyatda[[N]] xotin-qizlarga[[N]] tazyiq[[N]] va[[C]] zo‘ravonlikka[[N]] nisbatan[[RR]] murosasizlik[[N]] muhitini[[N]] yaratish[[VB]], xotin-qizlarning[[N]] huquqlari[[N]] va[[C]] qonuniy[[JJ]] manfaatlarini[[N]] ta’minlash[[VB]], uchinchidan[[MD]], “Ayollar daftari”[[NER]] bilan[[II]] manzilli[[JJ]] ishlashning[[VB]] shaffof[[JJ]] mexanizmini[[N]] yaratish[[VB]], mazkur[[P]] ishlar[[N]] bo‘yicha[[II]] jamoatchilik[[N]] nazoratini[[N]] o‘rnatish[[VB]] ko‘zda tutilgan[[IB]].
+
+Birinchidan[[MD]], gender[[N]] zo‘ravonlikning[[N]] har qanday[[P]] ko‘rinishaga[[N]] barham berish[[VB]] kerak[[MD]], ayollar[[N]] va[[C]] qizlar[[N]] hamda[[C]] erkaklar[[N]] va[[C]] bolalar[[N]] uchun[[II]] ta’lim olish[[VB]], sog‘liqni[[N]] saqlash[[VB]], iqtisodiy[[JJ]] resurslardan[[N]] foydalanishda[[VB]] birdek[[JJ]] sharoit[[N]] yaratilishi[[VB]] lozim[[MD]].
+
+Birinchisi[[NUM]], Kremldagi[[NER]] ma’lum[[JJ]] bir[[NUM]] geosiyosiy[[JJ]] loyihalar[[N]].
+
+Birinchisida[[NUM]] farmatsevtika[[N]] mahsulotlari[[N]] xavfsizligi[[N]] markazi[[N]], Iqtisodiyot va moliya vazirligi[[NER]], Farmatsevtika texnik universiteti[[NER]], Toshkent Farmatsevtika instituti[[NER]] va[[C]] boshqa[[JJ]] idoralar[[N]] qatnashdi[[VB]].
+
+Birlashgan Millatlar Tashkiloti[[NER]] Inson huquqi bo‘yicha Oliy komissari[[NER]] Folker Tyurk[[NER]] vaziyat[[N]] jiddiy[[JJ]] ekanini[[VB]] bildirdi[[VB]].
+
+Birlashgan Millatlar Tashkiloti[[NER]] Xavfsizlik kengashi[[NER]] zo‘ravonlikni[[N]] muhokama qilish[[VB]] uchun[[II]] chorshanba[[N]] kuni[[N]] favqulodda[[N]] yig‘ilish[[VB]] o‘tkazgan[[VB]].
+
+Birlashgan Millatlar Tashkiloti[[NER]] Xavfsizlik kengashi[[NER]] nuqtayi nazaridan[[N]], bu[[P]] hudud[[N]] Isroil[[NER]] tomonidan[[II]] bosib olingan[[VB]].
+
+Birlashgan Millatlar Tashkiloti[[NER]] ma’lumotlariga[[N]] ko‘ra[[II]], Isroil[[NER]] urushi[[N]] G‘azo[[NER]] aholisining[[N]] 85[[NUM]] foizini[[N]] oziq-ovqat[[N]], toza[[JJ]] suv[[N]] va[[C]] dori-darmonlarning[[N]] keskin[[JJ]] tanqisligi[[N]] sharoitida[[N]] ichki[[JJ]] ko‘chishga[[VB]] majbur qildi[[VB]], anklav[[N]] infratuzilmasining[[N]] 60[[NUM]] foizi[[N]] shikastlangan[[VB]] yoki[[C]] vayron bo‘lgan[[VB]].
+
+Birlashtirilgan[[VB]] yoqilg‘i[[N]] sarfi[[N]] 100[[NUM]] km[[NER]] uchun[[II]] atigi[[RR]] 12.6[[NUM]] litrni[[N]] tashkil qiladi[[VB]].
+
+Biroq[[C]] Isroil[[NER]] Qohiraga[[NER]] delegatsiya[[N]] yuborishdan[[VB]] bosh tortdi[[IB]], chunki[[C]] Hamas[[NER]] unga[[P]] garovga[[N]] olinganlarning[[VB]] ism-sharifi[[N]] yozilgan[[VB]] ro‘yxatini[[N]] taqdim qilmagan[[VB]].
+
+Biroq[[C]] Isroil[[NER]] uchrashuvga[[N]] e’tibor bermadi[[VB]].
+
+Biroq[[C]] Mandela[[NER]] sovuqqon[[JJ]] bo‘ldi[[VB]], xalqning[[N]] qo‘llovi[[N]] katta[[JJ]] edi[[VB]], xalqaro[[JJ]] hamjamiyat[[N]] ham[[Prt]] qarab turmadi[[VB]].
+
+Biroq[[C]] Navalnaya[[NER]] ijtimoiy[[JJ]] tarmoqdagi[[N]] sahifasida[[N]] uni[[P]] abadiy[[JJ]] sevishini[[VB]] bildirgan[[VB]].
+
+Biroq[[C]] Toshkent viloyati[[NER]]] sudlari[[N]] axborot[[N]] xizmati[[N]] marhumning[[N]] dam olish[[VB]] kuni[[N]] ishga[[N]] chaqirtirilganini[[VB]] rad etdi[[VB]].
+
+Biroq[[C]] Ukraina Prezidenti[[NER]] Vladimir Zelenskiy[[NER]] bu[[P]] variantga[[N]] qarshi[[JJ]].
+
+Biroq[[C]] aholini[[N]] qiynagan[[VB]] va[[C]] nisbatan[[RR]] ko‘pchilikning[[N]] manfaatiga[[N]] xizmat qiluvchi[[VB]] tashabbuslar[[N]] yetarli[[JJ]] ovoz[[N]] ololmagani[[VB]] uchun[[II]] g‘olib chiqmagan[[VB]] holatlar[[N]] ham[[Prt]] kuzatilishi[[VB]] mumkin[[MD]].
+
+Biroq[[C]] benzin[[N]] va[[C]] dizel[[N]] yoqilg‘isi[[N]] narxining[[N]] o‘sishi[[VB]] tufayli[[II]] ularning[[P]] operatsion[[JJ]] narxi[[N]] elektr[[N]] ulovlardan[[N]] yuqori[[JJ]].
+
+Biroq[[C]] bunday[[P]] cheklovlar[[N]] 6-martga[[NER]] qadar[[II]] saqlanib qoldi[[VB]].
+
+Biroq[[C]] bunday[[P]] emas[[VB]].
+
+Biroq[[C]] hammasi[[P]] belgilangan[[VB]] qonun-qoidalarga[[N]] muvofiq bo‘lishi[[VB]] kerak[[MD]] deb[[VB]] hisoblayman[[VB]].
+
+Biroq[[C]] hozirda[[RR]] sobiq[[JJ]] respublikachi[[N]] prezident[[NER]] Tramp[[NER]] Putinga[[NER]] “O‘zing[[P]] xohlagan[[VB]] narsani[[N]] qil[[VB]]”, – deyapti[[VB]].
+
+Biroq[[C]] kompaniya[[N]] 2024-yilda[[NER]] xarid[[N]] hajmini[[N]] qisqartirishi[[VB]] kutilmoqda[[VB]], deb[[VB]] yozadi[[VB]] Bloomberg[[NER]].
+
+Biroq[[C]] qizim[[N]] Nargiza[[NER]] ko‘proq[[RR]] badiiy[[JJ]] adabiyot[[N]] mutolaasiga[[N]] moyillik[[N]] bildirdi[[VB]].
+
+Biroq[[C]] so‘nggi[[JJ]] kunlarda[[N]] bir[[NUM]] qator[[N]] Isroil[[NER]] ommaviy[[JJ]] axborot[[N]] vositalari[[N]] Isroil[[NER]] rasmiylari[[JJ]] orasida[[II]] Hamas[[NER]] bilan[[II]] muzokaralar[[N]] bo‘yicha[[II]] pessimistik[[JJ]] kayfiyatlar[[N]] borligi[[N]] haqida[[II]] xabar berdi[[VB]].
+
+Biroq[[C]] u[[P]] kimdadir[[P]] ertaroq[[RR]], kimdadir[[P]] kechroq[[RR]] va[[C]] turli[[JJ]] ko‘rinishda[[VB]] namoyon bo‘ladi[[VB]].
+
+Biroq[[C]] uni[[P]] sotib olishda[[VB]] AQSHda[[NER]] fuqarolarga[[N]] 7.5[[NUM]] ming[[NUM]] dollar[[N]] subsidiya[[N]] beriladi[[VB]].
+
+Biroq[[C]], AARO[[NER]] ular[[P]] hisoboti[[N]] ko‘pchilikning[[N]] o‘zga[[JJ]] sayyoraliklar[[N]] borligiga[[N]] ishonchini[[N]] yo‘qqa chiqarmasligini[[IB]] tan oldi[[IB]].
+
+Biroq[[C]], benzin[[N]] narxining[[N]] oshishi[[VB]] haqida[[II]] miq etmagan[[IB]] “O‘zbekneftgaz”[[NER]] mazkur[[P]] MChJning[[NER]] qachon[[P]] va[[C]] qanchaga[[P]] sotilganiga[[VB]] ham[[Prt]] aniqlik[[N]] kiritgani[[VB]] yo‘q[[MD]].
+
+Biroq[[C]], ekspertlarning[[N]] fikriga[[N]] ko‘ra[[II]], “ko‘proq[[RR]] va[[C]] yaxshiroq[[JJ]] ma’lumotlar[[N]] bilan[[II]]” bu[[P]] holatlar[[N]] aksariyati[[N]] tekshirilishi[[VB]] va[[C]] ular[[P]] begona[[JJ]] harakatlar[[N]] bilan[[II]] bog‘liq[[JJ]] emas[[VB]] degan[[VB]] xulosaga[[N]] kelish[[VB]] mumkin[[MD]].
+
+Biroq[[C]], haligacha[[RR]] bu[[P]] qonundan[[N]] darak[[N]] yo‘q[[MD]].
+
+Biroq[[C]], mudofaa[[N]], davlat[[N]] va[[C]] milliy[[JJ]] xavfsizlikni[[N]] moliyalashtirishni[[VB]] o‘z[[P]] ichiga[[II]] olgan[[VB]] ikkinchi[[NUM]] paket[[N]] bo‘yicha[[II]] ovoz berish[[VB]] yanada[[RR]] qiyin bo‘lishi[[VB]] kutilmoqda[[VB]].
+
+Biroq[[C]], o‘zbek[[N]] xalqining[[N]] ajoyib[[JJ]] milliy[[JJ]] taomlari[[N]], o‘ziga[[P]] xos[[JJ]] an’ana[[N]] va[[C]] urf-odatlari[[N]], mehmondo‘stligi[[N]] haqida[[II]] ham[[Prt]] tobora[[RR]] ko‘proq[[RR]] bilishmoqda[[VB]].
+
+Biror[[P]] sohani[[N]] boshqarishga[[VB]] qurbi[[N]] yetmaydimi[[VB]]? 
+
+BitRiver[[NER]] ma’lumotlariga[[N]] ko‘ra[[II]], dunyoda[[N]] mayning[[N]] bo‘yicha[[II]] yetakchi[[N]] davlat[[N]] kriptovalyuta[[N]] ishlab chiqarishga[[VB]] jalb qilingan[[VB]] quvvat[[N]] miqdori[[N]] bo‘yicha[[II]] 3-4[[NUM]] GW[[NER]] quvvatga[[N]] ega bo‘lgan[[VB]] AQSh[[NER]] hisoblanadi[[VB]].
+
+Bitta[[NUM]] bunday[[P]] samolyot[[N]] 16ta[[NUM]] qutini[[N]] osmondan[[N]] tashlay oladi[[VB]].
+
+Bitta[[NUM]] guldastani[[N]] yasashga[[VB]] qancha[[P]] vaqt[[N]] ketadi[[VB]]? 
+
+Bitta[[NUM]] huquq[[N]] ham[[C]] erkakda[[N]], ham[[C]] ayolda[[N]] bo‘lsa[[VB]]-yu[[Prt]], erkak[[N]] bu[[P]] huquqdan[[N]] foydalansa[[VB]], ammo[[C]] ayol[[N]] ayol[[N]] bo‘lgani[[VB]] uchun[[II]] ham[[Prt]] foydalana olmasa[[VB]], mana shu[[P]] nuqtada[[N]] gender[[N]] muvozanati[[N]] buziladi[[VB]].
+
+Bitta[[NUM]] mashinaga[[N]] qanoat qilmasdan[[VB]], yana[[RR]] va[[C]] yana[[RR]] sotib olaverishadi[[VB]].
+
+Bitta[[NUM]] narsani[[N]] bilish[[VB]] kerak[[MD]], hamma[[P]] ovoz[[N]] bera oladi[[VB]], chegarasi[[N]] yo‘q[[MD]].
+
+Biz[[P]] AQSH[[NER]] va[[C]] Birlashgan Arab Amirliklari[[NER]] ko‘magida[[N]] G‘azoga[[NER]] yordam[[N]] yetkazish[[VB]] uchun[[II]] Kipr[[NER]] dengiz[[N]] yo‘lagini[[N]] ishga tushirmoqdamiz[[IB]].
+
+Biz[[P]] AQSh[[NER]] va[[C]] Birlashgan Arab Amirliklari[[NER]] ko‘magida[[N]] G‘azoga[[NER]] yordam[[N]] yetkazish[[VB]] uchun[[II]] Kipr[[NER]] dengiz[[N]] yo‘lagini[[N]] ishga tushirishni[[VB]] rejalashtiryapmiz[[VB]].
+
+Biz[[P]] Angliyaga[[NER]] bordik[[VB]], borganimizdan[[VB]] keyin[[II]] birdan[[RR]] qanday[[P]] xarajatlar[[N]] qilganimiz[[VB]], hattoki[[Prt]] viloyatdan[[N]] Toshkentga[[NER]] borishimizgacha[[VB]] sarflagan[[VB]] mablag‘larimizni[[N]] ham[[Prt]] so‘rashdi[[VB]].
+
+Biz[[P]] Falastin[[NER]] va[[C]] Isroil[[NER]] tomonidan[[II]] qurbon bo‘lgan[[VB]] barcha[[P]] insonlarning[[N]] oilalariga[[N]] chin[[JJ]] dildan[[N]] ta’ziya[[N]] va[[C]] hamdardlik[[N]] izhor[[N]] etamiz[[VB]].
+
+Biz[[P]] Falastin[[NER]] xalqi[[N]] bilan[[II]] birdam[[JJ]] ekanimizni[[VB]] qat’iy[[JJ]] bildiramiz[[VB]] va[[C]] uning[[P]] Birlashgan Millatlar Tashkiloti[[NER]] Bosh Assambleyasi[[NER]] va[[C]] Xavfsizlik kengashining[[NER]] ilgari[[RR]] qabul qilingan[[VB]] rezolyutsiyalariga[[N]] muvofiq[[II]] o‘z[[P]] mustaqil[[JJ]] davlatini[[N]] barpo etishga[[VB]] bo‘lgan[[VB]] huquqini[[N]] qo‘llab-quvvatlaymiz[[VB]].
+
+Biz[[P]] Nargiza[[NER]] bilan[[II]] suhbatlashar[[VB]] ekanmiz[[VB]], u[[P]] dunyoqarashi[[N]], muloqot[[N]] va[[C]] nutq[[N]] madaniyati[[N]] jihatdan[[N]] allaqachon[[P]] tengdoshlaridan[[N]] ilgarilab[[VB]] ketganini[[VB]] payqadik[[VB]].
+
+Biz[[P]] O‘zbekistonda[[NER]] anchadan[[RR]] beri[[II]] ishlaymiz[[VB]].
+
+Biz[[P]] Putinni[[NER]] to‘xtatishimiz[[VB]] darkor[[MD]]! 
+
+Biz[[P]] Rossiyani[[NER]] o‘z[[P]] ichiga[[II]] olgan[[VB]] tinchlik[[N]] sammitiga[[N]] mezbonlik[[N]] qilishga[[VB]] tayyormiz[[JJ]].
+
+Biz[[P]] Ukraina[[NER]] uchun[[II]] adolatli[[JJ]] natijaga[[N]] erishishni[[VB]] istaymiz[[VB]].
+
+Biz[[P]] allaqachon[[P]] 750[[NUM]] million[[NUM]] AQSh[[NER]] dollaridan[[N]] ortiq[[JJ]] mablag‘ni[[N]] tasdiqladik[[VB]].
+
+Biz[[P]] birgalikda[[RR]] bunyod etgan[[VB]] bu[[P]] muhtasham[[JJ]] ko‘prik[[N]] shunchaki[[RR]] navbatdagi[[N]] infratuzilma[[N]] inshooti[[N]] emas[[VB]].
+
+Biz[[P]] bu[[P]] borada[[II]] ko‘proq[[RR]] ish[[N]] qilishimiz[[VB]] kerak[[MD]], AQSh[[NER]] shunday[[P]] qiladi[[VB]] ham[[Prt]].
+
+Biz[[P]] bu[[P]] orqali[[II]] Markaziy Osiyoga[[NER]] sayohat qiluvchilarga[[VB]] yordam[[N]] beramiz[[VB]].
+
+“Biz[[P]] bunday[[P]] sammitda[[N]] Rossiya[[NER]] vakillari[[N]] ishtirokini[[N]] tasavvur[[N]] qilolmayapmiz[[VB]]”, – deya[[VB]] qo‘shimcha[[N]] qildi[[VB]] Zelenskiy[[NER]].
+
+Biz[[P]] bunday[[P]] sammitda[[N]] Rossiya[[NER]] vakillarini[[N]] ko‘rmayapmiz[[VB]].
+
+Biz[[P]] dasturni[[N]] ushbu[[P]] mintaqa[[N]] ehtiyojlariga[[N]] moslashgan[[VB]] holda[[N]] loyihalashtirdik[[VB]], chunki[[C]] hisob-kitoblarimiz[[N]] bo‘yicha[[II]] bu yerda[[RR]] ochilishi[[VB]] kerak[[MD]] bo‘lgan[[VB]] katta[[JJ]] imkoniyatlar[[N]] bor[[MD]].
+
+Biz[[P]] doim[[RR]] hushyor[[JJ]] bo‘lib[[VB]], ularga[[P]] yordam berishga[[VB]] tayyormiz[[JJ]].
+
+Biz[[P]] dunyodagi[[N]] eng[[RR]] yaxshi[[JJ]] iqtisodiyotga[[N]] egamiz[[JJ]].
+
+Biz[[P]] esa[[C]] kutganingizdek[[VB]] hafta[[N]] voqealari[[N]] tahlilini[[N]] boshlaymiz[[VB]].
+
+Biz[[P]] esa[[C]] tegishli[[JJ]] organlarni[[N]] bundan[[P]] tezroq[[JJ]] xabardor qilib[[VB]], zudlik[[N]] bilan[[II]] yordam berish[[VB]] choralarini[[N]] ko‘ramiz[[VB]].
+
+Biz[[P]] film[[N]] ijodkorlari[[N]] bilan[[II]] bog‘lanib[[VB]], suratga[[N]] olish[[VB]] jarayonidan[[N]] maxsus[[JJ]] material[[N]] tayyorladik[[VB]].
+
+Biz[[P]] foydalanilmagan[[VB]] imkoniyatlarga[[N]] erishish[[VB]] yo‘lida[[N]] turli[[JJ]] davlat[[N]] tashkilotlari[[N]] va[[C]] xususiy[[JJ]] kompaniyalar[[N]] o‘rtasida[[II]] yanada[[RR]] faol[[JJ]] hamkorlikni[[N]] rag‘batlantiramiz[[VB]].
+
+Biz[[P]] ham[[Prt]] 3-4[[NUM]] yillik[[N]] reja[[N]] tuzish[[VB]] va[[C]] uning[[P]] ustida[[II]] ishlashga[[VB]] kelishib oldik[[VB]].
+
+Biz[[P]] ham[[Prt]] Osiyo[[NER]] yondashuviga[[N]] kiramiz[[VB]].
+
+Biz[[P]] ham[[Prt]] bayram[[N]] arafasida[[II]] barcha[[P]] o‘zbek[[N]] ayollarini[[N]] ushbu[[P]] bayram[[N]] bilan[[II]] tabriklab[[VB]], ularga[[P]] mustahkam[[JJ]] sihat-salomatlik[[N]], baxt[[N]] va[[C]] omad[[N]], Vatanimiz[[N]] taraqqiyoti[[N]] yo‘lida[[N]] olib borayotgan[[VB]] xayrli[[JJ]] ishlarida[[N]] ulkan[[JJ]] muvaffaqiyat[[N]] va[[C]] zafarlar[[N]] tilab qolamiz[[VB]].
+
+Biz[[P]] hamma[[P]] narsani[[N]] bloklaydigan[[VB]], yo‘q qiladigan[[VB]] va[[C]] o‘ldiradigan[[VB]] odamlarni[[N]] qanday[[P]] taklif qilishingiz[[VB]] mumkinligini[[N]] ko‘rmayapmiz[[VB]].
+
+Biz[[P]] hamma[[P]] narsani[[N]] to‘sib qo‘yadigan[[VB]], yo‘q qiladigan[[VB]] va[[C]] o‘ldiradigan[[VB]] odamlarni[[N]] qanday[[P]] taklif qilishingiz[[VB]] mumkinligini[[N]] ko‘rmayapmiz[[VB]].
+
+Biz[[P]] hammamiz[[P]] teng[[JJ]] yaratilganmiz[[VB]] va[[C]] hayotimiz[[N]] davomida[[II]] teng[[JJ]] munosabatda bo‘lishga[[VB]] loyiqmiz[[JJ]], degan[[VB]] Amerika[[NER]] g‘oyasi[[N]].
+
+Biz[[P]] islom[[N]] banki[[N]] mexanizmlari[[N]] va[[C]] islomiy[[JJ]] moliyalashtirish[[VB]] mexanizmlari[[N]] haqida[[II]] ko‘proq[[RR]] xabardor bo‘lishlari[[VB]] uchun[[II]] O‘zbekistondagi[[NER]] moliya[[N]] institutlarini[[N]] qo‘llab-quvvatladik[[VB]].
+
+Biz[[P]] janob[[N]] vazir[[N]] bilan[[II]] bu[[P]] yil[[N]] O‘zbekistonda[[NER]] uchrashishni[[VB]] intiqlik[[N]] bilan[[II]] kutamiz[[VB]].
+
+Biz[[P]] keksalarga[[N]] alohida[[JJ]] e’tibor qaratgan[[VB]] prezidentga[[NER]] rahmat[[UH]]! 
+
+“Biz[[P]] keksalarni[[N]] e’zozlagan[[VB]] prezidentimizga[[NER]] rahmat[[UH]]”, – deydi[[VB]] otaxon[[N]] qo‘lini[[N]] duoga[[N]] ocharkan[[VB]].
+
+Biz[[P]] ko‘p[[RR]] yillardan[[N]] buyon[[II]] O‘zbekistonning[[NER]] “Dolores Travel”[[NER]] viloyat[[N]] sudlari[[N]] axborot[[N]] xizmati[[N]] sayyohlik[[N]] kompaniyasi[[N]] bilan[[II]] muvaffaqiyatli[[JJ]] hamkorlik[[N]] qilayapmiz[[VB]].
+
+Biz[[P]] lo‘li[[N]] mahallaga[[N]] borib[[VB]], ular[[P]] haqidagi[[II]] fikrlarimizning[[N]] hammasi[[P]] ham[[Prt]] to‘g‘ri[[JJ]] emasligiga[[N]] guvoh[[N]] bo‘ldik[[VB]].
+
+Biz[[P]] muxlislarning[[N]] hafsalasi pir bo‘lganidan[[IB]] afsusdamiz[[N]].
+
+Biz[[P]] natijaga[[N]] erishmoqchimiz[[VB]].
+
+Biz[[P]] o‘tkazgan[[VB]] ko‘plab[[RR]] o‘rganishlar[[N]] natijasi[[N]] shuni[[P]] ko‘rsatdiki[[VB]], Toshkent shahrida[[NER]] tilanchilik[[N]] bilan[[II]] shug‘ullanayotgan[[VB]] bolalarning[[N]] ko‘pchiligi[[N]] boshqa[[JJ]] hududlardan[[N]] poytaxtga[[N]] kelgan[[VB]] va[[C]] o‘z[[P]] hududida[[N]] tilanchilik[[N]] qilishdan[[VB]] uyaladi[[VB]].
+
+Biz[[P]] o‘zbek[[N]] ayollarining[[N]] mamlakat[[N]] taraqqiyotiga[[N]] qo‘shayotgan[[VB]] munosib[[JJ]] hissasini[[N]] e’tirof[[N]] etamiz[[VB]] va[[C]] ular[[P]] bilan[[II]] tajriba[[N]] almashishga[[VB]] tayyormiz[[JJ]].
+
+Biz[[P]] o‘zimiz[[P]] erkinlikka[[N]] erishib[[VB]], boshqalarning[[JJ]] qiyinchiliklari[[N]] haqida[[II]] o‘ylashni[[VB]] esdan[[N]] chiqarishimiz[[VB]] mumkin[[MD]], lekin[[C]] agar[[C]] bunday[[P]] qilsak[[VB]] – odamgarchilikdan[[N]] chiqqan[[VB]] bo‘lar edik[[VB]].
+
+Biz[[P]] o‘zimizning[[P]] turarjoy[[N]] majmualarimiz[[N]] aholisi[[N]] bilan[[II]] birgalikda[[RR]] “Navro‘z”[[NER]], “Bolalarni himoya qilish kuni”[[NER]], “Mustaqillik kuni”[[NER]] va[[C]], albatta[[MD]], “Yangi yil”[[NER]] kabi[[II]] turli[[JJ]] tadbirlarni[[N]] nishonlaymiz[[VB]].
+
+Biz[[P]] qo‘l[[N]] operatsiyasi[[N]] uchun[[II]] potensial[[N]] nomzodlar[[N]] izlayotganimizda[[N]], Raj Kumar[[NER]] ro‘yxatimizda[[N]] bor[[MD]] edi[[VB]] deya[[VB]] qo‘shimcha qiladi[[VB]] doktor[[N]] Mangal[[NER]].
+
+Biz[[P]] qo‘shnichilik[[N]] madaniyatini[[N]] turarjoy[[N]] majmualarimizdagi[[N]] hayotning[[N]] ajralmas[[JJ]] qismi[[N]] sifatida[[N]] saqlashga[[VB]] intilamiz[[VB]].
+
+Biz[[P]] savdoni[[N]] moliyalashtirish[[VB]] bilan[[II]] shug‘ullanamiz[[VB]], shuningdek[[MD]], savdoni[[N]] rivojlantirish[[VB]] dasturlarimiz[[N]] ham[[Prt]] bor[[MD]].
+
+Biz[[P]] sizga[[P]] ulardan[[P]] 3tasini[[NUM]] haqida[[II]] ma’lumot[[N]] beramiz[[VB]].
+
+Biz[[P]] sudlarda[[N]] aynan[[RR]] bizdagi[[P]] qaysi[[P]] holat[[N]] litsenziya[[N]] talabalarini[[N]] qo‘pol[[JJ]] buzish[[VB]] ekanini[[VB]] isbotlab[[VB]] berishlarini[[VB]] so‘radik[[VB]].
+
+Biz[[P]] sun’iy[[JJ]] intellekt[[N]] davriga[[N]] o‘tayotganimizda[[VB]], Honor[[NER]] iste’molchilarimizning[[N]] ehtiyojlarini[[N]] qondirish[[VB]] uchun[[II]] uzluksiz[[JJ]] tajribalarni[[N]] ta’minlaydigan[[VB]], insonga[[N]] yo‘naltirilgan[[VB]] innovatsiyalarni[[N]] taqdim etishga[[VB]] intiladi[[VB]].
+
+Biz[[P]] ta’zim[[N]] qilmaymiz[[VB]].
+
+Biz[[P]] uchun[[II]] zamonaviy[[JJ]] turarjoy[[N]] majmualarimizda[[N]] o‘z[[P]] uyidagi[[N]] sokinlik[[N]] hissini[[N]] beruvchi[[VB]] o‘zbekona[[JJ]] ruh[[N]] va[[C]] muhit[[N]] hukm[[N]] surishi[[VB]] juda[[RR]] muhim[[JJ]].
+
+Biz[[P]] uchun[[II]], yuqorida[[N]] aytganimdek[[VB]], bu[[P]] ustuvor[[JJ]] vazifa[[N]].
+
+Biz[[P]] xitoylarning[[N]] adolatsiz[[JJ]] iqtisodiy[[JJ]] amaliyotiga[[N]] qarshimiz[[VB]] va[[C]] Tayvan[[NER]] bo‘g‘ozidagi[[N]] tinchlik[[N]] va[[C]] barqarorlikni[[N]] himoya[[N]] qilamiz[[VB]].
+
+Biz[[P]] yaqinmiz[[JJ]], lekin[[C]] u[[P]] hali[[RR]] to‘liq[[JJ]] kelishuvga[[N]] erishmadik[[VB]].
+
+Biz[[P]], albatta[[MD]], o‘z[[P]] sa’y-harakatlarimizni[[N]] nafaqat[[Prt]] hukumatni[[N]], balki[[C]] xususiy[[JJ]] sektor[[N]] va[[C]] moliya[[N]] institutlarini[[N]] ham[[Prt]] qo‘llab-quvvatlashga[[VB]] qaratdik[[VB]].
+
+Biz[[P]], aytganimdek[[VB]], birinchi[[NUM]] doiraviy[[JJ]] bitimni[[N]] imzolaganimizdan[[VB]] haqiqatan[[MD]] ham[[Prt]] mamnun[[JJ]] bo‘ldik[[VB]] va[[C]] uni[[P]] juda[[RR]] yaxshi[[JJ]] amalga oshirdik[[VB]].
+
+Biz[[P]], onalar[[N]] ko‘pincha[[RR]] ko‘ngilchanlik[[N]] qilib qo‘yamiz[[VB]], farzandlarimiz[[N]] qiyinchilikka[[N]] uchraganda[[VB]] maqsadi[[N]] uchun[[II]] rag‘bat[[N]] berolmay qolamiz[[VB]].
+
+Biz[[P]], ya’ni[[C]] “abattoir operative”lar[[NER]] esa[[C]] jarayonning[[N]] birinchi[[NUM]] boshidagi[[II]] ishlarni[[N]] qilamiz[[VB]].
+
+Bizda[[P]] ahvol[[N]] qanday[[P]]?
+
+Bizda[[P]] esa[[C]] menimcha[[MD]] maxsus[[JJ]] ruxsatnomalar[[N]] berish[[VB]] kerakdir[[MD]].
+
+Bizda[[P]] hali[[RR]] shovqinga[[N]] qarshi kurashish[[VB]] kun[[N]] tartibida[[N]] ham[[Prt]] yo‘q[[MD]].
+
+Bizda[[P]] hech qachon[[P]] bunday[[P]] tajriba[[N]] bo‘lmagan[[VB]] va[[C]] bu[[P]] juda[[RR]] ajoyib[[JJ]] bo‘ldi[[VB]].
+
+Bizda[[P]] oziq-ovqat[[N]] xavfsizligi[[N]] bo‘yicha[[II]] ko‘plab[[RR]] dasturlar[[N]] mavjud[[MD]] bo‘lib[[VB]], biz[[P]] a’zo[[N]] mamlakatlarni[[N]] haqiqatan[[MD]] ham[[Prt]] zarur[[MD]] mahsulotlar[[N]] bilan[[II]] ta’minlashga[[VB]] harakat[[N]] qilamiz[[VB]] va[[C]] o‘tmishda[[N]] biz[[P]] bu[[P]] mintaqada[[N]], ayniqsa[[MD]], O‘zbekiston[[NER]], Misr[[NER]], Senegal[[NER]] va[[C]] boshqa[[JJ]] mamlakatlarda[[N]] juda[[RR]] yaxshi[[JJ]] natijalarga[[N]] erishdik[[VB]].
+
+Bizga[[P]] faqat[[Prt]] artilleriya[[N]] snaryadlari[[N]] va[[C]] aviatsiya[[N]] kerak[[MD]].
+
+Bizga[[P]] qulay[[JJ]] tomoni[[N]] shundaki[[P]], ko‘p[[RR]] muzlatkichda[[N]] yurmaymiz[[VB]].
+
+Biznesni[[N]] qo‘llab-quvvatlash[[VB]] loyihasi[[N]] besh[[NUM]] yilga[[N]] mo‘ljallangan[[VB]] bo‘lib[[VB]], USAID[[NER]] buning[[P]] uchun[[II]] 17.7[[NUM]] million[[NUM]] dollar[[N]] miqdorida[[N]] mablag‘[[N]] ajratishni[[VB]] rejalashtirgan[[VB]].
+
+Bizning[[P]] O‘zbekistondagidek[[NER]] hamma[[P]] ishni[[N]] odam[[N]] qilmaydi[[VB]], 80[[NUM]] foizlar[[N]] ishni[[N]] mashinalar[[N]] bajaradi[[VB]].
+
+Bizning[[P]] tarixiy[[JJ]] shakllanishimiz[[VB]] yaqin[[JJ]] bo‘lgan[[VB]] mamlakatlarda[[N]], qo‘shnilarimizda[[N]] aynan[[RR]] bola[[N]] huquqlariga[[N]] nisbatan[[RR]] munosabat[[N]] va[[C]] muammolar[[N]] nihoyatda[[RR]] o‘xshash[[JJ]].
+
+Bloger[[N]] tomonidan[[II]] ijtimoiy[[JJ]] tarmoqlar[[N]] orqali[[II]] jarayonda[[N]] bo‘lgan[[VB]] sudga[[N]] aralashish[[VB]] holati[[N]] kuzatilgani[[VB]], shuningdek[[MD]], xalq[[N]] deputatlari[[N]] mahalliy[[JJ]] kengashining[[N]] sudlarga[[N]] turli[[JJ]] vazifalar[[N]] yuklash[[VB]] haqidagi[[II]] 9ta[[NUM]] qarori[[N]] chiqarilgani[[VB]] va[[C]] keyinchalik[[RR]] bekor qilinganini[[VB]] misol[[N]] tariqasida[[N]] keltirdi[[VB]].
+
+Bog‘dan[[N]] sal[[RR]] nariroqda[[RR]] bir necha[[P]] yuz[[NUM]] metrlik[[N]] navbatga[[N]] ko‘zim tushdi[[IB]].
+
+Bog‘larni[[N]] parvarishlashda[[VB]] o‘simliklar[[N]] karantini[[N]] va[[C]] himoyasi[[N]] agentligi[[N]] mutaxassislarining[[N]] quyidagi[[JJ]] tavsiyalar[[N]] eslatib o‘tiladi[[VB]].
+
+Bois[[N]] Rouge Sarlu[[NER]] “Vagner”[[NER]] XHK[[NER]] mahalliy[[JJ]] hokimiyat[[N]] organlariga[[N]] ko‘rsatgan[[VB]] xizmatlari[[N]] evaziga[[N]] tabiiy[[JJ]] resurslarni[[N]] qazib olish[[VB]] sohasida[[N]] davlat[[N]] mulki[[N]] bo‘yicha[[II]] ishlash[[VB]] uchun[[II]] MAR[[NER]] hokimiyati[[N]] bilan[[II]] shartnoma[[N]] tuzdi[[VB]].
+
+Boisi[[N]] tig‘iz[[JJ]] payt[[N]] vaqtida[[N]] harakatlangani[[VB]] uchun[[II]] yuk[[N]] avtomobili[[N]] haydovchisiga[[N]] ma’muriy[[JJ]] chora[[N]] ko‘rishni[[VB]] nazarda tutuvchi[[IB]] norma[[N]] hali[[RR]] qonunchilikda[[N]] mavjud[[MD]] emas[[VB]].
+
+Boisi[[N]], 8-mart[[NER]] – “Xalqaro xotin-qizlar kuni”[[NER]] yurtimizning[[N]] har bir[[P]] go‘shasida[[N]], muassasa[[N]] va[[C]] tashkilotlarida[[N]], mahalla[[N]] va[[C]] xonadonlarda[[N]] o‘zgacha[[JJ]] ko‘tarinki[[JJ]] ruhda[[N]] nishonlandi[[VB]].
+
+Bojxona[[N]] ma’lumotiga[[N]] ko‘ra[[II]], ko‘z ostiga olingan[[IB]] 87[[NUM]] bosh[[N]] jonivor[[N]] orasida[[II]] ilon[[N]], to‘tiqush[[N]], kaltakesak[[N]] ham[[Prt]] bor[[MD]].
+
+Boks[[N]] bo‘yicha[[II]] Osiyo[[NER]] o‘yinlari[[N]] va[[C]] qit’a[[N]] chempionati[[N]] g‘olibi[[N]] Isroil Madrimov[[NER]] professional[[JJ]] boksda[[N]] super[[JJ]] o‘rta[[JJ]] vazn[[N]] toifasida[[N]] WBA[[NER]] kamarini[[N]] qo‘lga kiritdi[[IB]].
+
+Bokschimiz[[N]] ushbu[[P]] bahslarning[[N]] o‘ntasida[[NUM]] g‘alaba[[N]] qozongan[[VB]] bo‘lsa[[VB]], bitta[[NUM]] durang[[N]] qayd etgan[[VB]].
+
+Bola[[N]] psixologiyasi[[N]] yaxshi[[JJ]] singdirilgan[[VB]], shu[[P]] bois[[N]] bu yerda[[RR]] o‘qituvchilar[[N]] bola[[N]] bilan[[II]] do‘stlashish[[VB]], uni[[P]] tushunish[[VB]], bolani[[N]] yaxshilikka[[N]] yo‘naltirib[[VB]], yomonlikdan[[N]] qaytarishni[[VB]] ajoyib[[JJ]] tarzda[[N]] uddalashadi[[VB]].
+
+Bola[[N]] tug‘ilganida[[VB]] bir[[NUM]] martalik[[N]] nafaqa[[N]] (“suyunchi”[[N]]) pulini[[N]] berish[[VB]] tartibi[[N]] o‘zgartirildi[[VB]].
+
+Bola[[N]] uni[[P]] tinglamadimi[[VB]], demak[[MD]] boshqalargayam[[JJ]] xalal beradi[[VB]].
+
+Bola[[N]] zarurat[[N]] yuzasidan[[II]] sinfdan[[N]] chiqqan[[VB]] va[[C]] qaytgach[[VB]], o‘qituvchi[[N]] uning[[P]] ruxsatsiz[[JJ]] harakatidan[[N]] va[[C]] gaplashib o‘tirishidan[[VB]] jahli[[N]] chiqib[[VB]], o‘z[[P]] qo‘l[[N]] telefonini[[N]] o‘quvchiga[[N]] qarata[[II]] otgan[[VB]].
+
+Bola-chaqa[[N]] yeyishga[[VB]] muyassar bo‘lsin[[VB]] deyman[[VB]]-da[[Prt]].
+
+Bolaga[[N]] toza[[JJ]], qalin[[JJ]] kiyim[[N]] kiydirilgan[[VB]] bo‘lib[[VB]], hatto[[Prt]] idishchada[[N]] suti[[N]] ham[[Prt]] bor[[MD]] edi[[VB]], biroq[[C]] uning[[P]] kimligi[[P]], kim[[P]] tashlab ketgani[[VB]] haqida[[II]] xat[[N]] qoldirilmagandi[[VB]].
+
+Bolajon[[N]] xalq[[N]] maqomini[[N]] o‘z-o‘ziga[[P]] yopishtirib[[VB]] olgan[[VB]] odamlarimiz[[N]] bolalarni[[N]] urish[[VB]], ular[[P]] mehnatidan[[N]] foydalanishni[[VB]] bolani[[N]] tarbiyalash[[VB]] va[[C]] uni[[P]] chiniqtirishning[[VB]] asosiy[[JJ]] omili[[N]], deb[[VB]] sanaydi[[VB]].
+
+Bolalar[[N]] erkinligi[[N]] va[[C]] haq-huquqi[[N]] har tomonlama[[RR]] himoyalangan[[VB]].
+
+Bolalar[[N]] futboliga[[N]] ko‘rsatilayotgan[[VB]] e’tibor[[N]] tufayli[[II]] andijonlik[[N]] yosh[[JJ]] futbolchilar[[N]] erishayotgan[[VB]] muvaffaqiyatlar[[N]] salmog‘i[[N]] ortib bormoqda[[VB]].
+
+Bolalar[[N]] kiyimlarini[[N]] chet[[JJ]] mamlakatlardan[[N]] ulgurji[[JJ]] olib[[VB]] ketib[[VB]] sotuvchi[[N]] tadbirkorlar[[N]] Turkiyada[[NER]] ishlab[[VB]] chiqarilgan[[VB]] Moozy[[NER]] oyoq kiyimlarini[[N]] brendning[[N]] Toshkentdagi[[NER]] omboridan[[N]] to‘g‘ridan to‘g‘ri[[RR]] sotib olishi[[VB]] mumkin[[MD]].
+
+Bolalar[[N]] o‘z[[P]] uyida[[N]] ota-onadan[[N]] tarbiya[[N]] olmaganiga[[VB]] yarasha[[JJ]], maktabda[[N]] tarbiya[[N]] qilishga[[VB]] ham[[Prt]] yo‘l qo‘yilmaydi[[IB]].
+
+Bolalar[[N]] va[[C]] ayollar[[N]] halok bo‘lmoqda[[VB]], odamlar[[N]] boshpanasidan[[N]] ayrilmoqda[[VB]], o‘z[[P]] uylarini[[N]] tashlab[[VB]] ketishga[[VB]] majbur bo‘lmoqda[[VB]].
+
+Bolalarga[[N]] nisbatan[[RR]] sodir etilgan[[VB]] har qanday[[P]] jinsiy[[JJ]] zo‘ravonlik[[N]] – nafaqat[[Prt]] uning[[P]] nomusiga[[N]] tegish[[VB]] yoki[[C]] zo‘ravonlik[[N]] qilish[[VB]], balki[[C]] unga[[P]] tegajog‘lik[[N]] qilish[[VB]], bolaning[[N]] odob-axloqiga[[N]] ta’sir qiladigan[[VB]] shahvoniy[[JJ]] shilqimlik[[N]] va[[C]] boshqa[[JJ]] ko‘rinishdagi[[N]] – jinsiy[[JJ]] kontekstga[[N]] tegishli bo‘lgan[[VB]] har qanday[[P]] huquqbuzarlik[[N]] va[[C]] jinoyat[[N]] bugungi[[N]] kunda[[N]] nihoyatda[[RR]] qattiq[[JJ]] jazolanadi[[VB]].
+
+Bolalarim[[N]] baraka[[N]] topishsin[[VB]].
+
+Bolalarning[[N]] hayoti[[N]], sog‘lig‘i[[N]] yoki[[C]] axloqi[[N]] uchun[[II]] xavfli[[JJ]] bo‘lgan[[VB]] jinoyatlarni[[N]] sodir etgan[[VB]] shaxslarning[[N]] yagona[[JJ]] reyestri[[N]] tuzilib[[VB]], ushbu[[P]] reyestrga[[N]] kirgan[[VB]] shaxslarning[[N]] ta’lim[[N]], tarbiya[[N]], bolalar[[N]] sog‘lomlashtirish[[VB]], sport[[N]] va[[C]] ijodiy[[JJ]] tashkilotlarida[[N]] ishlashi[[VB]] hamda[[C]] bolalar[[N]] bilan[[II]] bevosita[[JJ]] ishlashni[[VB]] nazarda tutuvchi[[IB]] faoliyat[[N]] turlari[[N]] bilan[[II]] shug‘ullanishi[[VB]] taqiqlanmoqda[[VB]].
+
+Bolalikda[[N]] aka-uka[[N]], opa-singillar[[N]] o‘rtasida[[II]] bo‘lib turadigan[[VB]] tortishuvlar[[N]] ularning[[P]] aqliy[[JJ]] rivojlanishiga[[VB]] ijobiy[[JJ]] ta’sir ko‘rsatadi[[VB]].
+
+Bolaning[[N]] ham[[Prt]] shaxsiy[[JJ]] hayoti[[N]], qadr-qimmati[[N]] bor[[MD]].
+
+Bolaning[[N]] ta’lim[[N]] olish[[VB]] huquqini[[N]] ta’minlash[[VB]] maqsadida[[N]] fuqaro[[N]] A.K.ning[[NER]] voyaga[[N]] yetmagan[[VB]] farzandi[[N]] maktabga[[N]] tiklanib[[VB]], maktab[[N]] psixologi[[N]] murabbiy[[N]] etib[[VB]] belgilandi[[VB]].
+
+Borganimizdan[[VB]] keyin[[II]] shu[[P]] yuzasidan[[II]] ham[[Prt]] xavotirlar[[N]] bo‘lgandi[[VB]], kelganimizdan[[VB]] keyin[[II]] BRP[[NER]] degan[[VB]] ID[[NER]] kartasi[[N]] bor[[MD]] ekan[[VB]], bu[[P]] o‘zimizning[[P]] O‘zbekistondagi[[NER]] fuqarolik[[N]] passportiga[[N]] to‘g‘ri keladi[[VB]].
+
+Bosh[[N]] konsullikning[[N]] konsullik[[N]] okrugiga[[N]] AQShning[[NER]] quyidagi[[JJ]] shtatlari[[N]] va[[C]] ma’muriy[[JJ]] hududlari[[N]] kiradi[[VB]]: Aydaxo[[NER]], Ayova[[NER]], Alyaska[[NER]], Arizona[[NER]], Vayoming[[NER]], Vashington[[NER]], Vermont[[NER]], Virjiniya[[NER]] orollari[[N]], Viskonsin[[NER]], Gavayi[[NER]], Illinoys[[NER]], Indiana[[NER]], Kaliforniya[[NER]], Kanzas[[NER]], Konnektikut[[NER]], Massachusets[[NER]], Minnesota[[NER]], Missuri[[NER]], Michigan[[NER]], Montana[[NER]],  Nebraska[[NER]], Nevada[[NER]], Nyu-Gempshir[[NER]], Nyu-Jersi[[NER]], Nyu-York[[NER]], Nyu-Meksiko[[NER]], Ogayo[[NER]], Oregon[[NER]], Pensilvaniya[[NER]], Puerto-Riko[[NER]], Rod-Aylend[[NER]], Shimoliy Dakota[[NER]], Janubiy Dakota[[NER]], Yuta[[NER]], shuningdek[[MD]], Meksika[[NER]] va[[C]] Lotin Amerikasi[[NER]] mamlakatlari[[N]] (Kuba[[NER]] va[[C]] Braziliyadan[[NER]] tashqari[[II]] – ushbu[[P]] davlatlar[[N]] O‘zbekistonning[[NER]] Vashingtondagi[[NER]] elchixonasi[[N]] konsullik[[N]] okrugiga[[N]] kiradi[[VB]]).
+
+Bosh prokuratura[[NER]] 2024-yil[[NER]] 17-yanvarda[[NER]] universitetda[[N]] aniqlangan[[VB]] kamchiliklar[[N]] bartaraf etilganini[[VB]] tasdiqlaydi[[VB]].
+
+Bosh prokuratura[[NER]] huzurida[[II]] “Soya iqtisodiyotiga”[[NER]] qarshi kurashish[[VB]] departamentining[[N]] tashkil etilgani[[VB]] ham[[Prt]] bunga[[P]] bir[[NUM]] misoldir[[N]].
+
+Bosh prokuratura[[NER]] huzuridagi[[II]] departamentning[[N]] Koson[[NER]] va[[C]] Chiroqchi tumani[[NER]] bo‘limlari[[N]] tomonidan[[II]] o‘tkazilgan[[VB]] tergovga[[N]] qadar[[II]] tekshiruvlarda[[VB]] T.M.[[NER]] va[[C]] R.A.[[NER]] fermer[[N]] xo‘jaliklari[[N]] va[[C]] M.A.[[NER]] MChJ[[NER]] mas’ul[[JJ]] shaxslari[[N]] suv[[N]] nasoslarini[[N]] hech qanday[[P]] hujjatsiz[[N]] tijorat[[N]] maqsadida[[N]] umumiy[[JJ]] foydalanishdagi[[VB]] elektr[[N]] tarmog‘iga[[N]] o‘g‘rilik[[N]] yo‘li[[N]] bilan[[II]] ulab[[VB]], jami[[P]] 213.3[[NUM]] mln[[NER]] so‘mlik[[N]] elektr[[N]] energiyasidan[[N]] noqonuniy[[JJ]] foydalanganliklari[[N]] aniqlangan[[VB]].
+
+Bosh prokuratura[[NER]] matbuot[[N]] kotibi[[N]] Hayot Shamsutdinovning[[NER]] ma’lum qilishicha[[VB]], hozirda[[RR]] mazkur[[P]] holat[[N]] yuzasidan[[II]] Buxoro shahar[[NER]] prokuraturasi[[N]] tomonidan[[II]] tergovga[[N]] qadar[[II]] tekshiruv[[VB]] harakatlari[[N]] olib borilmoqda[[VB]].
+
+Bosh prokuratura[[NER]] xabariga[[N]] ko‘ra[[II]], yig‘ilishda[[N]] ayrim[[JJ]] mas’ullar[[N]] tomonidan[[II]] bank[[N]] xizmatlarini[[N]] ko‘rsatishda[[VB]], ayniqsa[[MD]], turli[[JJ]] bank[[N]] operatsiyalarini[[N]] amalga oshirishda[[VB]] suiiste’molchilik[[N]], mablag‘larni[[N]] talon-toroj qilish[[VB]] holatlari[[N]] uchrayotgani[[VB]] ta’kidlangan[[VB]].
+
+Bosh prokuraturaning[[NER]] xabar qilishicha[[VB]], ular[[P]] tomonidan[[II]] 29[[NUM]] mln[[NER]] kWh[[NER]] elektr[[N]] energiyasi[[N]] talon-toroj[[N]] qilingan[[VB]].
+
+Bosh[[N]] qomusimizga[[N]] ayollar[[N]] va[[C]] erkaklar[[N]] teng[[JJ]] huquqqa[[N]] egaligi[[N]] haqida[[II]] alohida[[JJ]] modda[[N]] kiritilgan[[VB]], xotin-qizlarga[[N]] ta’lim[[N]] olish[[VB]], kasbiy[[JJ]] tayyorlanish[[VB]], ish[[N]], mehnat[[N]] uchun[[II]] rag‘batlanish[[VB]] va[[C]] xizmat[[N]] yuzasidan[[II]] ko‘tarilishda[[VB]] teng[[JJ]] huquqiy[[JJ]] imkoniyat[[N]] yaratilishi[[VB]] shartligi[[JJ]] ko‘rsatilgan[[VB]].
+
+Bosh qo‘mondon[[NER]] iste’foga[[N]] chiqqanidan[[VB]] so‘ng[[II]] egallashi[[VB]] mumkin[[MD]] bo‘lgan[[VB]] lavozimlar[[N]] orasida[[II]] Milliy[[JJ]] xavfsizlik[[N]] va[[C]] mudofaa[[N]] xizmati[[N]] rahbari[[N]] va[[C]] Yevropa[[NER]] davlatlaridan[[N]] biridagi[[NUM]] elchi[[N]] lavozimlari[[N]] ham[[Prt]] bor[[MD]] edi[[VB]].
+
+Bosh vazir[[NER]] Genri[[NER]] o‘tgan[[VB]] hafta[[N]] Keniyaga[[NER]] tashrif buyurganda[[VB]] “Barbekyu”[[NER]] vaziyatni[[N]] yanada[[RR]] keskinlashtirdi[[VB]].
+
+Boshida[[II]] birinchi[[NUM]] oylikka[[N]] qo‘shib[[VB]], kompaniya[[N]] tomonidan[[II]] kvartira[[N]] bonus[[N]] sifatida[[N]] bepul[[JJ]] beriladi[[VB]].
+
+Boshimizdan[[N]] ko‘p[[RR]] og‘ir[[JJ]] kunlar[[N]] o‘tgan[[VB]].
+
+Boshqa[[JJ]] bir[[NUM]] tadbirkorning[[N]] vakili[[N]], “Trade Urban”[[NER]] korxonasi[[N]] sotuv[[N]] bo‘limi[[N]] boshlig‘i[[N]] Anvar Mahmudovning[[NER]] aytishicha[[VB]], ular[[P]] navbati[[N]] kelishini[[VB]] 60[[NUM]] kun[[N]] kutishi[[VB]] kerak[[MD]], bu[[P]] esa[[C]] mavsumiy[[JJ]] xarakterga[[N]] ega[[JJ]] sovutkich[[N]] va[[C]] muzlatkichlar[[VB]] sotuviga[[VB]] ta’sir o‘tkazadi[[VB]].
+
+Boshqa[[JJ]] ishlar[[N]] qolib ketaversin[[VB]], lekin[[C]] 4dan[[NUM]] keyin[[II]] ish[[N]] to‘xtaydi[[VB]].
+
+Boshqa[[JJ]] nodavlat[[JJ]] oliygohlar[[N]] kabi[[II]] Turkiston yangi innovatsiyalar universitetida[[NER]] ham[[Prt]] 2023-yil[[NER]] may[[N]] oyida[[N]] o‘rganish[[VB]] o‘tkaziladi[[VB]] va[[C]] 4ta[[NUM]] kamchilik[[N]] aniqlanadi[[VB]]: Elektron[[JJ]] kutubxona[[N]] maydoni[[N]] me’yordan[[N]] 15[[NUM]] metr[[N]] kvadrat[[N]] kam[[RR]].
+
+Boshqa[[JJ]] sohalar[[N]] katta[[JJ]] investitsiyalar[[N]] va[[C]] siyosiy[[JJ]] kelishuvlarni[[N]] talab qiladi[[VB]].
+
+Boshqa[[JJ]] tomondan[[N]], O‘zbekiston[[NER]] Yevroosiyo[[NER]] markazida[[N]] Xitoy[[NER]], Rossiya[[NER]], Afg‘oniston[[NER]] va[[C]] Turkmaniston[[NER]] yoki[[C]] Qozog‘iston[[NER]] orqali[[II]] G‘arbga[[NER]] olib boradigan[[VB]] an’anaviy[[JJ]] transport[[N]] yo‘nalishlari[[N]] chorrahasida[[N]] joylashgan[[VB]].
+
+Boshqa[[JJ]] transport[[N]] vositalari[[N]] elektron[[JJ]] navbatga[[N]] biriktiriladi[[VB]] va[[C]] keyingi[[JJ]] blokka[[N]] yo‘naltiriladi[[VB]].
+
+Boshqa[[JJ]] tuman[[N]] va[[C]] shaharlarda[[N]] ham[[Prt]] bu[[P]] ishga kirishish[[VB]] zarur[[MD]].
+
+Boshqa[[JJ]] yuridik[[JJ]] shaxslar[[N]] (kompaniyalar[[N]]) uchun[[II]] – 900[[NUM]] so‘m[[N]].
+
+Boshqacha[[JJ]] qilib[[VB]] aytganda[[VB]], JARda[[NER]] shakllangan[[VB]] tarixiy[[JJ]] xotira[[N]] bor[[MD]], siyosiy[[JJ]] tafakkur[[N]] bor[[MD]] – bu[[P]] kollektiv[[N]] g‘arbga[[N]] ishonmaslik[[VB]], xalqlar[[N]], millatlar[[N]], irqlarning[[N]] erki[[N]] va[[C]] tengligi[[N]] uchun[[II]] kurashish[[VB]] zehniyati[[N]] hisoblanadi[[VB]].
+
+Boshqarma[[N]] boshlig‘i[[N]] H.Mamadiyev[[NER]] hududlarda[[N]] bo‘lib[[VB]], faxriy[[JJ]] pedagoglar[[N]] bilan[[II]] suhbatlashdi[[VB]].
+
+Boshqarma[[N]] bu[[P]] kabi[[II]] holatlarni[[N]] qoralaydi[[VB]] va[[C]] direktorning[[N]] ijtimoiy[[JJ]] xavflilik[[N]] darajasi[[N]] o‘rganilib[[VB]], unga[[P]] nisbatan[[RR]] huquqiy[[JJ]] chora[[N]] ko‘rilishini[[VB]] bildiradi[[VB]].
+
+Boshqarma[[N]] tarkibida[[N]] akademik[[N]] faoliyatni[[N]] boshqarish[[VB]] bo‘limi[[N]], qabul[[N]] jarayoni[[N]] va[[C]] talabalar[[N]] registratsiyasi[[N]] bo‘limi[[N]], ma’lumotlar[[N]] bazasi[[N]] bo‘limi[[N]], ta’limning[[N]] kredit[[N]] tizimini[[N]] boshqarish[[VB]] bo‘limi[[N]], karyera[[N]] markazi[[N]], talabalar[[N]] bilan[[II]] ishlash[[VB]] bo‘limlari[[N]] faoliyat[[N]] olib boradi[[VB]].
+
